@@ -295,7 +295,7 @@ What do you want, Tochika.
 
 @plse set="sename='aky_A00200'"
 @yH—Çz
-Didn't I say to call me by my first name?
+Didn't I say to call me by my given name?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

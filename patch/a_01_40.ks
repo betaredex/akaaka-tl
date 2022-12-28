@@ -1867,7 +1867,7 @@ Tsubaki, Tougo.
 
 @plse set="sename='yue_A00957'"
 @ÅyóRÅz
-Well, I only know his last name.[r]
+Well, I only know his family name.[r]
 He wears the same clothes as you, though.
 @ws canskip=true cond="kag.autoMode"
 @endmessage

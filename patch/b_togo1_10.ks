@@ -845,7 +845,7 @@ Who the hell is this guy...
 @chara2 b="yue_b3_A004" f="yue_f3_a_e_g"
 @trans-s
 
-@plse set="sename='yue_B00033'"
+@plse set="sename='yue_B00034'"
 @y—Rz
 You can't, don't hurt Tsubaki!
 @ws canskip=true cond="kag.autoMode"
@@ -879,7 +879,7 @@ I see.
 @chara2 b="yue_b3_A004" f="yue_f3_a_a_g"
 
 
-@plse set="sename='yue_B00034'"
+@plse set="sename='yue_B00035'"
 @y—Rz
 ...Eh...?
 @ws canskip=true cond="kag.autoMode"
@@ -941,7 +941,7 @@ What is that man...?
 @trans-n
 @messagelay
 
-@plse set="sename='yue_B00035'"
+@plse set="sename='yue_B00036'"
 @y—Rz
 Kurogitsune, Akiyoshi...
 @ws canskip=true cond="kag.autoMode"
@@ -978,7 +978,7 @@ What a pain, maybe I'll try again some other time.
 @chara2 b="yue_b3_A003" f="yue_f3_f_b_g"
 
 
-@plse set="sename='yue_B00036'"
+@plse set="sename='yue_B00037'"
 @y—Rz
 Eh...wait a minute.
 @ws canskip=true cond="kag.autoMode"
@@ -1044,7 +1044,7 @@ Seeya.
 @trans-s
 @messagelay
 
-@plse set="sename='yue_B00037'"
+@plse set="sename='yue_B00038'"
 @y—Rz
 .......
 @ws canskip=true cond="kag.autoMode"
@@ -1080,7 +1080,7 @@ Are you okay...?
 @chara1.5 b="yue_b3_A002" f="yue_f3_g_c_d"
 
 
-@plse set="sename='yue_B00038'"
+@plse set="sename='yue_B00039'"
 @y—Rz
 ...I'm fine.[r]
 Thank you, Tsubaki.

@@ -645,7 +645,7 @@ Ah... It... hurts...
 
 @plse set="sename='yuk_B00041E'"
 @【少女Ａ】
-………イイ、ッテ………\nワタシニ、クレルッテ………言ッタ、ノニ
+...But...you said it was okay...you said I could have him...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -653,7 +653,7 @@ Ah... It... hurts...
 
 @plse set="sename='yuk_B00044E'"
 @【少女Ａ】
-ウソツキ、ウソツキ、ウソツキ………！！
+Liar, liar, liar...!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -661,7 +661,7 @@ Ah... It... hurts...
 
 @plse set="sename='yuk_B00043E'"
 @【少女Ａ】
-………ウソツキ………
+...Liar...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1319,7 +1319,7 @@ Stop bullying Onii-chan and Yue-kun!
 
 @plse set="sename='sgn_B00062'"
 @【嵯峨野】
-…………………\nチッ………
+...Tch...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

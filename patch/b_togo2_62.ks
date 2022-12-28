@@ -154,7 +154,7 @@ Miko-sama...
 
 @plse set="sename='yue_B00587'"
 @y—Rz
-Eh...
+I...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -404,7 +404,7 @@ Yue!!
 
 @chara1.5 b="yue_b3_A004" f="yue_f3_b_e_g_ab"
 @trans-n
-@plse set="sename='yue_B00590'"
+@plse set="sename='yue_B00591'"
 @y—Rz
 Ifm finec
 @ws canskip=true cond="kag.autoMode"

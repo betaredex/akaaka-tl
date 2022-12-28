@@ -42,7 +42,7 @@ Oh, this is...
 
 @plse set="sename='krg_B00073'"
 @【黒狐】
-何だ、戻ってきちまったじゃねーか～
+What, aren't we back where we started?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -78,7 +78,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='aky_B00093'"
 @【秋良】
-………！椿、来た事があるのか………！
+...! Tsubaki, you've been here before!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -88,7 +88,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='tog_B00180'"
 @【灯吾】
-正月の初詣に普通に来るけど。\nあっきーは来ないのか？
+I visited it for New Year's. Aki, you didn't?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -98,7 +98,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='aky_B00094'"
 @【秋良】
-我が家にはそのような風習はない。\n………椿、悪い事は言わない、\nお前達家族もここへ来るのは金輪際よした方がいい
+My family doesn't have that custom. ...Tsubaki, this is for your own good. You and your family should never come here again.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -108,7 +108,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='tog_B00181'"
 @【灯吾】
-………何で？
+...Why?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -118,7 +118,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='aky_B00095'"
 @【秋良】
-事情は言えないが、ここはとにかく危険なんだ。\n………と、父が言っていた
+I can't say the reason, but anyway, it's dangerous here. ...That's what my dad says.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -128,7 +128,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='tog_B00182'"
 @【灯吾】
-………お前はそればっかりだな………
+...It's always that with you...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -138,7 +138,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='tog_B00183'"
 @【灯吾】
-まあ、分かった。\nお前んちの親父がすげーカホゴなんだって事が
+Well, I get it. That your dad's overprotective, that is.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -148,7 +148,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='aky_B00096'"
 @【秋良】
-なっ！　今はそんな話をしているのではない！\n椿、真面目に聞いてくれ！
+Hey! This isn't the time to be talking about that! Tsubaki, take me seriously!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -158,7 +158,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='tog_B00184'"
 @【灯吾】
-はいはい。じゃあ街に戻ろうぜ。\nこんな所に園長の手掛かりがあるとも思えないしな
+Yeah, yeah. Let's head back to town, then. I doubt any traces of the principal would be here anyway.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -168,7 +168,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='aky_B00097'"
 @【秋良】
-クッ………結果オーライ………なのか？
+Kh...I guess...it turned out alright?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -181,7 +181,7 @@ It's been a long time since I last came here.
 @trans-n
 @plse set="sename='yue_B00245'"
 @【由】
-あれ？　入んないの？
+Huh? You aren't going in?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -191,7 +191,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='aky_B00098'"
 @【秋良】
-ああ。ここにお前の共犯者が潜んでいるというなら\n話は別だがな。どうなんだ狐面
+Yeah. If you have your accomplices lying in wait here though, that's a different story. Which is it, Fox Mask?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -201,7 +201,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='yue_B00246'"
 @【由】
-………はいはい、じゃあ街に戻ろうか～
+...Yeah, yeah, then, let's go back to town~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -214,7 +214,7 @@ It's been a long time since I last came here.
 @trans-s
 @plse set="sename='aky_B00099'"
 @【秋良】
-クッ、お前も人の話を聞け！　こら、狐面！
+Tch, you don't listen either! Hey, Fox Mask!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -233,7 +233,7 @@ It's been a long time since I last came here.
 @trans-s
 @plse set="sename='tog_B00185'"
 @【灯吾】
-…………………
+...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -241,7 +241,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='tog_B00186'"
 @【灯吾】
-………けど、ここ、何か………\nあった、ような………
+...Still, I feel like...something's here...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -251,7 +251,7 @@ It's been a long time since I last came here.
 
 @plse set="sename='tog_B00187'"
 @【灯吾】
-………何だったっけ………？
+...What was it again?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

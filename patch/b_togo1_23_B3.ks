@@ -51,7 +51,7 @@ Oh yeah, I forgot to ask, but do you not go to school?
 
 @chara4.5 b="yue_b1_A012" f="yue_f1_a_a_g"  o="yue_o1_A001"
 
-@plse set="sename='yue_B00152'"
+@plse set="sename='yue_B00162'"
 @ÅyóRÅz
 Eh? ÅcYeah, I donÅft.
 @ws canskip=true cond="kag.autoMode"

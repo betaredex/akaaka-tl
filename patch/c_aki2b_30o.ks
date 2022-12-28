@@ -98,7 +98,7 @@ We donft, but wefd like to know something. Are the trains coming?
 @chara5 b="hito_b05"
 @plse set="sename='m25_C00001'"
 @yƒqƒgƒrƒgz name="f.name='Human'"
-The trains are running, as always~
+The trains are still going past the station, as always~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

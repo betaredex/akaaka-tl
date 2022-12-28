@@ -136,7 +136,7 @@ Until now, I always thought whatever I did was fine. I guess itfs hard not to c
 
 @chara4.5 b="kokko_b3_A007" f="kokko_f3_a_d_a" o="kokko_o3"
 
-@plse set="sename='krg_B00120'"
+@plse set="sename='krg_B00121'"
 @y•ŒÏz
 Itfs difficult in the world, huhc Therefs nothinf for you to worry about. cYou can do whatever you want.
 @ws canskip=true cond="kag.autoMode"
@@ -156,7 +156,7 @@ Itfs difficult in the world, huhc Therefs nothinf for you to worry about. c
 
 @chara4.5 b="kokko_b3_A003" f="kokko_f3_a_a_g" o="kokko_o3"
 
-@plse set="sename='krg_B00120'"
+@plse set="sename='krg_B00122'"
 @y•ŒÏz
 Huh? Miko-sama did?
 @ws canskip=true cond="kag.autoMode"
@@ -572,7 +572,7 @@ Yue-sama.
 *|
 @stopse
 
-@chara3 b="yue_b1_A021" f="yue_f1_a_a_e" o="yue_o1_A003"
+@chara1.5 b="yue_b1_A021" f="yue_f1_a_a_e" o="yue_o1_A003"
 
 @plse set="sename='yue_B00387'"
 @y—Rz
@@ -582,7 +582,7 @@ Ah, itfs Ranchuu. Did you come to see us off?
 *|
 @stopse
 
-@chara3 b="yue_b1_A012" f="yue_f1_a_a_e" o="yue_o1_A001"
+@chara1.5 b="yue_b1_A012" f="yue_f1_a_a_e" o="yue_o1_A001"
 
 @plse set="sename='krg_B00135'"
 @y•ŒÏz

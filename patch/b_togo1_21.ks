@@ -639,6 +639,8 @@ As well-versed men with lots more life experience, wefll tell you one thing.
 
 
 @chara4.5 b="abe_b1_A001" f="abe_f1_b_b2_e"
+
+@plse set="sename='abe_B00043'"
 @y‘«•”‚³‚ñ’Bz
 If you think itfs fun to hang out with your gpartnerh, then youfre already well prepared for the Meal.
 @ws canskip=true cond="kag.autoMode"
@@ -665,7 +667,7 @@ Youfll understand soon enough. The importance and the significance of the Meal.
 @stopse
 
 @chara1.5 b="yue_b3_A003" f="yue_f3_b_c_a"
-@plse set="sename='yue_B00101'"
+@plse set="sename='yue_B00102'"
 @y—Rz
 ccccccc
 @ws canskip=true cond="kag.autoMode"
@@ -674,7 +676,7 @@ Youfll understand soon enough. The importance and the significance of the Meal.
 @stopse
 
 @chara1.5 b="yue_b3_A003" f="yue_f3_h_b_a"
-@plse set="sename='yue_B00102'"
+@plse set="sename='yue_B00103'"
 
 @y—Rz
 ccccccc

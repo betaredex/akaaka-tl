@@ -158,7 +158,7 @@ Huh? What kind of souvenir is that?
 @trans-n
 @plse set="sename='krg_A00306'"
 @y•ŒÏz
-Itfs an air filled with delicious smells, whatfs not to love? Come on, fill your lungs with it! In, out! In, out!
+Itfs air filled with delicious smells, whatfs not to love? Come on, fill your lungs with it! In, out! In, out!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

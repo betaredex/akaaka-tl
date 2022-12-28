@@ -1569,7 +1569,7 @@ There's no frickin' way that was nothing!
 @plse set="sename='aky_A00179'"
 @ÅyèHó«Åz name="f.name='Tochika'"
 I won't tell you my reasons,[r]
-but I'd prefer if you called me by my first name.
+but I'd prefer if you called me by my given name.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1603,7 +1603,7 @@ Remember it.
 
 @plse set="sename='yue_A01028'"
 @ÅyóRÅz
-Ohh, so Glasses-kun is named Akiyoshi.
+Ohh, so you're name's Akiyoshi, Glasses-kun.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1661,7 +1661,7 @@ Well, I guess that's fine.
 @plse set="sename='yue_A01031'"
 @ÅyóRÅz
 Hey, what about you, Tsubaki?[r]
-What's your first name?
+What's your given name?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

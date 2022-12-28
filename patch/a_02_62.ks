@@ -133,7 +133,7 @@ I don't know what you're talking about.
 @chara1.5 b="yue_b1_A008" f="yue_f1_a_a_g" o="yue_o1_A001"
 
 
-@plse set="sename='aky_A00447'"
+@plse set="sename='yue_A01750'"
 @y—Rz
 What, you mean you don't notice that nice smell?
 @ws canskip=true cond="kag.autoMode"
@@ -711,7 +711,7 @@ Today's the day you bring it home to be washed.
 @chara1.5 b="hina_b2_A004" f="hina_f2_f_a_h"
 
 
-@plse set="sename='tog_A00331'"
+@plse set="sename='hin_A00046'"
 @y“”“Şz
 Ah! I left it inside![r]
 I'll go get it!
@@ -1010,7 +1010,7 @@ I've gotta hurry back...
 @trans-n
 @messagelay
 
-@plse set="sename='hin_A00052'"
+@plse set="sename='yuk_A00007'"
 @y­—‚`z name="f.name='Girl A'"
 .......
 @ws canskip=true cond="kag.autoMode"
