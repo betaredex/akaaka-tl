@@ -186,7 +186,7 @@
 @chara4.5 visible=false
 @trans-n
 
-
+@messagelay
 @chara4.5 b="saga_b1_A002" f="saga_f1_a_a_a"
 @chara1.5 b="yue_b1_A016" f="yue_f1_a_c_g"
 @trans-n
