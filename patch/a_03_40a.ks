@@ -226,7 +226,7 @@ I never thought Sato would really bring us along`
 *|
 @stopse
 
-@chara5 b="kim_b1_A001" f="kim_f1_h_d_e"
+@chara5 b="kim_b1_A001" f="kim_f1_h_b_e"
 
 
 @plse set="sename='kim_A00275'"
