@@ -30,7 +30,7 @@
 
 @plse set="sename='sui_A00051'"
 @【水仙】
-ナカナカ見付からないネ、「食事」………
+…We didn’t find anything like a “Meal”.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -38,7 +38,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_g"
 @plse set="sename='kim_A00052'"
 @【祁門】
-ナンダカ疲れてキチャッタヨ、僕………\n街に来レバ、「食事」ナンテスグに\n見付かると思ったノニナー
+I’m tired… I thought we’d find a Meal really easily when we went to the town…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -47,7 +47,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00057'"
 @【玉露】
-思ってたヨリ、「食事」を探すノッテ、難しいネ。\nヒトビトっテ、コンナに広いトコに棲んでルンダ………
+Yeah, finding a Meal really is hard. Way too many humans nest in this massive place…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -56,7 +56,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_c_g"
 @plse set="sename='sui_A00052'"
 @【水仙】
-………ウン。\nコノ広さ、予想外ダヨ。\n僕タチの鉢トハ、比べ物にナラナイヨー
+So then we just need to go to more places, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -64,7 +64,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00053'"
 @【祁門】
-ヤッパリ、モット色んなヒトビトに会わないト\n駄目ナノカナ？
+Yup! Let’s go to more places~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -73,7 +73,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_d"
 @plse set="sename='gkr_A00058'"
 @【玉露】
-ソウダネ。\nモット色んなトコロにイッテミヨー
+Let’s try going again to those places we went to~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -82,7 +82,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00053'"
 @【水仙】
-サッキ行ったトコロも、マタ行ッテミヨー
+Yeah, yeah! One more try~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -90,7 +90,6 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00054'"
 @【祁門】
-ソーダネー。\nモウイチド、行ってミヨー
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

@@ -26,7 +26,7 @@
 @chara3 b="hito_b11"
 @plse set="sename='m07_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -46,7 +46,7 @@
 @messagelay
 @plse set="sename='sui_A00035'"
 @【玉露】
-アッ、アソコにボーッとしてるヒトビトがイルヨ
+Hey, some human is dozing off there!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -55,7 +55,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_e"
 @plse set="sename='gkr_A00040'"
 @【玉露】
-デモ、アレは見ルからにマズソウだネー。\nホント、マルワカリダネー
+But you can tell by looking that that one’s no good. That’s all you need to know~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -66,7 +66,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00033'"
 @【祁門】
-確かニー。\nじゃ、スルー決定ー
+True! Okay, we’ll ignore it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @trans-s
 @plse set="sename='m07_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-あれ、君たち………
+Oh, are you…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -95,7 +95,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_e"
 @plse set="sename='sui_A00036'"
 @【玉露】
-ン？　ナニ？
+Hm? What?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 
 @plse set="sename='m07_A00002'"
 @【ヒトビト】 name="f.name='Human'"
-顔そっくりだけど、もしかして三つ子？\nすごいな～、俺三つ子ちゃんなんて初めて見たよ
+Your faces are so similar… Are you triplets? That’s crazy! I’ve never seen triplets before in my life~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -112,7 +112,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_e"
 @plse set="sename='gkr_A00041'"
 @【玉露】
-ウン、僕タチ、卵の時カラ三匹一緒ナンダ
+Yup, all three of us came from the same egg~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00034'"
 @【祁門】
-何処に行くニモ、イツモ一緒なんだヨー
+No matter where we go, we’re always together~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -130,7 +130,7 @@
 @chara5 b="hito_b07"
 @plse set="sename='m07_A00003'"
 @【ヒトビト】 name="f.name='Human'"
-へえ～いいねえ。\nそういうの、なんか憧れちゃうなァ～
+Huh… Neat. I kinda wish I had siblings who looked like me.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -139,7 +139,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_a_e"
 @plse set="sename='sui_A00037'"
 @【水仙】
-アンタタチだって、ミンナ同じに見えるヨー
+You all look the same to me!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -149,7 +149,7 @@
 @chara5 b="hito_b02"
 @plse set="sename='m07_A00004'"
 @【ヒトビト】 name="f.name='Human'"
-え？
+Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -158,7 +158,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_b_a_e"
 @plse set="sename='gkr_A00042'"
 @【玉露】
-ソウソウ、個性ッテモノがないネー。\nもっとドウニカして欲しいヨ
+Yeah, all of you look the same, no differences. We need some variety!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -167,7 +167,7 @@
 @chara5 b="hito_b09"
 @plse set="sename='m07_A00005'"
 @【ヒトビト】 name="f.name='Human'"
-こりゃ参ったなァ………\n確かに他人からは何かが足りないって\n言われる方だけど
+Well, I can’t argue with that… It’s true I’ve been told by others that I’m lacking something.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -176,7 +176,7 @@
 @chara5 b="hito_b09"
 @plse set="sename='m07_A00006'"
 @【ヒトビト】 name="f.name='Human'"
-こう見えても流行には敏感な方だし、\nファッションにも気を使ってるんだけどなァ………
+I may look like this, but I'm a fashion-forward person and I pay attention to trends…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -186,7 +186,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_h_b_e"
 @plse set="sename='kim_A00035'"
 @【祁門】
-流行トカはドーデモイイヨ。\nヒトビトのオイシイポイントは、\n中身ダヨ、ナ・カ・ミ
+It’s not a matter of fashion. What matters with human flavor is what’s on the inside, got it? The. In. Side.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -194,7 +194,7 @@
 
 @plse set="sename='kim_A00036'"
 @【祁門】
-ソコントコ間違えナイで欲しいヨー
+That’s something I hope you don’t forget.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -203,7 +203,7 @@
 @chara5 b="hito_b02"
 @plse set="sename='m07_A00007'"
 @【ヒトビト】 name="f.name='Human'"
-へえ………ちっちゃいのに偉いねえ。\n人間、大事なのは中身。そう、中身だよなあ
+Heheh… you kids say some good things. Yeah, it is what’s on the inside that counts for humans… The inside.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -212,7 +212,7 @@
 @chara5 b="hito_b09"
 @plse set="sename='m07_A00008'"
 @【ヒトビト】 name="f.name='Human'"
-俺、確かに何か大事なコトを忘れていた、\nそんな気がするなァ………
+I feel like there’s something inside me I’ve forgotten… Something very important.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -220,7 +220,7 @@
 
 @plse set="sename='m07_A00009'"
 @【ヒトビト】 name="f.name='Human'"
-…………………っと、\nやだな、何か目から汗出てきちゃったよ………\nへへ
+…Oh, I’m sorry, my eyes are a bit wet… Heheh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -229,7 +229,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00043'"
 @【玉露】
-解ったら、中身磨いてカラ出直してキテー。\nソウシタラ、僕タチもモウイチド考えてアゲルヨ
+If you understand, then go back and polish yourself a bit more on the inside. Then maybe we’ll think about giving you a second chance.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -239,7 +239,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00038'"
 @【水仙】
-モットイイ「食事」、イッパイ増えて欲しいしネー
+I hope more great “Meals” can start showing up~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -248,7 +248,7 @@
 @chara5 b="hito_b04"
 @plse set="sename='m07_A00010'"
 @【ヒトビト】 name="f.name='Human'"
-うん………なんだか励まされちゃったな………\n俺も、人生もう少し頑張ってみるよ！
+Yeah… I feel kind of encouraged! I’ll try a bit harder at life from now on!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -257,7 +257,7 @@
 
 @plse set="sename='m07_A00011'"
 @【ヒトビト】 name="f.name='Human'"
-君たち、どうもありがとう！
+Thank you so much, you three!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -278,7 +278,7 @@
 @trans-s
 @plse set="sename='kim_A00037'"
 @【祁門】
-…………………\nあのヒト、これから美味しくナルかなァ？
+…I wonder if that human will really get any more delicious…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -287,7 +287,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00044'"
 @【玉露】
-ムリでショ。各もののけの「食事」は、\n最初からホボ決まってるって、\nサトーが言ってたヨ
+It's impossible. Sato-san said that each mononoke's "Meal" is decided from the beginning.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -296,7 +296,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_g"
 @plse set="sename='sui_A00039'"
 @【水仙】
-じゃ、ショウガナイネー。\n次行コーか
+Well then, guess it’s pointless. Onto the next!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -305,7 +305,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00038'"
 @【祁門】
-ウン！\n早く僕タチの為ノ「食事」、見ツケたいナー
+Yup! I really, really want us to find our “Meal” soon~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -314,7 +314,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00045'"
 @【玉露】
-マダマダ、ヒトビトは街に溢れテルヨ。\nチョットのハズレは、気にシナイヨー
+Don’t worry! This town is filled with humans. Don’t get your hopes down after one miss.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -324,7 +324,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00040'"
 @【水仙】
-オー
+Woo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

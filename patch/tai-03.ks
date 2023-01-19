@@ -29,7 +29,7 @@
 @messagelay
 @plse set="sename='gkr_A00110'"
 @【玉露】
-アッタヨー、川ダヨー
+Hey, right there! It’s the river!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -38,7 +38,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00112'"
 @【水仙】
-ワーイ、水ダ～
+Yaaay, water~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -47,7 +47,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00122'"
 @【祁門】
-ネエ、コレッテ、\n僕タチのお山カラ繋がってる川ダッケ？
+Hey, do you think this is the river that flows down from the mountain?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -57,7 +57,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00111'"
 @【玉露】
-ウウン、違うトコカラ流れてるンダヨ。\nダカラ、実はアンマリ美味しくナイんだケド………
+No, I think this comes from somewhere else… which is probably why it’s not very tasty.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -66,7 +66,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00123'"
 @【祁門】
-………ヤッパリ。\nチガウトコロッテ………街のソト………？
+…Thought so. But somewhere else… somewhere outside the town?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -75,7 +75,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_c_g"
 @plse set="sename='sui_A00113'"
 @【水仙】
-デモ、背に腹は代エラレないヨ。\n今の僕タチニハ、コレでもご馳走ダヨー
+But this is an emergency! You can’t make an omelet without breaking a few eggs… so let’s feast!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_a"
 @plse set="sename='kim_A00124'"
 @【祁門】
-ウン………ソウダヨネ。\nヤッパリそう簡単に見付からナイよネ、\n「食事」なんテ………
+Yeah… I guess finding a Meal was never going to be so easy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -94,7 +94,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_c_g"
 @plse set="sename='gkr_A00112'"
 @【玉露】
-ココまで頑張って来たケド、\nヤッパリまだ僕タチには早いのカナ。\n「食事」ナンテ………ハァ………
+I guess we did okay coming this far, but it might still be too early for us… A “Meal”...*sigh*
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_c_b"
 @plse set="sename='sui_A00114'"
 @【水仙】
-スグ見付かるト、思ったんダケドナァ………。\nハァ………
+I thought it’d be so easy… *sigh*
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -112,7 +112,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_g"
 @plse set="sename='kim_A00125'"
 @【祁門】
-上手くイカナイモノダネ………\nハァ………
+It’s never that easy… *sigh*
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -132,7 +132,7 @@
 
 @plse set="sename='szk_A00004'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ハア………
+…*sigh*
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00115'"
 @【水仙】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -150,7 +150,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_a"
 @plse set="sename='gkr_A00113'"
 @【玉露】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -159,7 +159,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00126'"
 @【祁門】
-…………………\nエ？
+………Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -168,7 +168,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_c_a"
 @plse set="sename='szk_A00005'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\n僕は、どうしたらいいんだろう………
+…What do I do…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -177,7 +177,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_h_c_g"
 @plse set="sename='szk_A00006'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………ハア……
+…*sigh*...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -197,7 +197,7 @@
 @trans-s
 @plse set="sename='gkr_A00114'"
 @【玉露】
-…………………\nこのヒト………
+………This human…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -206,7 +206,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00127'"
 @【祁門】
-………普通のヒトビトジャナイ………ネ………
+…Isn’t a normal human… right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -215,7 +215,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_g"
 @plse set="sename='sui_A00116'"
 @【水仙】
-コレッテ………\nモシカシテ………
+…Is this… Maybe a…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -243,7 +243,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00117'"
 @【水仙】
-………このヒトが僕タチの「食事」？
+…Is this human our Meal?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -252,7 +252,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00115'"
 @【玉露】
-………ダネ。\nイタヨ、こんなトコロに
+…It is. We finally found it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -262,7 +262,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00128'"
 @【祁門】
-コレが僕タチの「食事」………
+This is our “Meal”...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -281,7 +281,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00118'"
 @【水仙】
-………このヒトもモノノケ？
+…Is this human actually a mononoke, too?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -290,7 +290,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_e"
 @plse set="sename='gkr_A00116'"
 @【玉露】
-な、ワケないデショー。\n「食事」ダヨ、このヒトが
+As if! It’s a “Meal”, right?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -299,7 +299,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00128'"
 @【祁門】
-コレが僕タチの「食事」………
+This is our “Meal”...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -328,7 +328,7 @@
 
 @plse set="sename='szk_A00007'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ハア………\nどうしよう、僕………
+*sigh*...What do I do…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -336,7 +336,7 @@
 
 @plse set="sename='sui_A00119'"
 @【水仙】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -344,7 +344,7 @@
 
 @plse set="sename='gkr_A00117'"
 @【玉露】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -353,7 +353,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00129'"
 @【祁門】
-…………………
+……….
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -393,7 +393,7 @@
 
 @plse set="sename='gkr_A00118'"
 @【玉露】
-………ネエ、最高ジャナイ………？
+…Hey, isn’t he awesome…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -402,7 +402,7 @@
 
 @plse set="sename='sui_A00120'"
 @【水仙】
-…………………
+Yeah, yeah… This is exactly what we’ve been waiting for…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -410,7 +410,7 @@
 
 @plse set="sename='kim_A00130'"
 @【祁門】
-このヒトが僕タチの「食事」かァ………ウフフ………
+This human’s really our “Meal”... Hehehe…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -436,7 +436,7 @@
 @trans-s
 @plse set="sename='sui_A00121'"
 @【水仙】
-…………………\n思ってたより凡庸なカオダネー
+…He’s a lot more plain-faced than I thought he’d be.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -445,7 +445,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_a"
 @plse set="sename='gkr_A00119'"
 @【玉露】
-ま、こんなモンデショ
+Well, that’s just how it is.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -454,7 +454,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00131'"
 @【祁門】
-ホントに可も不可もナイ感じダネー。\nチョーフツー………
+He’s not even a B or a D. A perfect C. Super average.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -482,7 +482,7 @@
 @trans-s
 @plse set="sename='sui_A00122'"
 @【水仙】
-…………………\nビミョー………
+………Weirdo.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -491,7 +491,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_c_e"
 @plse set="sename='gkr_A00120'"
 @【玉露】
-マアマア、見た目はアンマリ関係ナイカラ。\n問題ナノは味ダカラ
+Now, now. It’s not what’s on the outside that matters, we’re after the inside, remember?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -500,7 +500,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_g"
 @plse set="sename='kim_A00132'"
 @【祁門】
-ソウダケドチョットテンション下がるネ………\n折角ノ僕タチノ為ノ食事ナノニ………
+Maybe, but it’s a bit of a letdown. After all the work it took to get here…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -509,7 +509,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_c_g"
 @plse set="sename='gkr_A00121'"
 @【玉露】
-見付カッタダケでも、ヨシとシヨーヨ。\nお腹二入レバ一緒ナンダカラ
+We found him, didn’t we? All that’s left is to get him in our stomachs.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -518,7 +518,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_a_b"
 @plse set="sename='kim_A00133'"
 @【祁門】
-ウン………ソウダネ
+Yeah… Guess so.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -543,7 +543,7 @@
 
 @plse set="sename='szk_A00008'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………フウ………
+…Whew.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -552,7 +552,7 @@
 @chara3 b="sora_b1_A001" f="sora_f1_a_a_a"
 @plse set="sename='szk_A00009'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nん？
+…Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -561,7 +561,7 @@
 @chara4.5 b="sui_b1_A001" f="sui_f1_a_a_e"
 @plse set="sename='sui_A00123'"
 @【水仙】
-ネエねえ、アンタ名前ハ？
+Hey, what’s your name?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -570,7 +570,7 @@
 @chara3 b="sora_b1_A001" f="sora_f1_a_c_g_a"
 @plse set="sename='szk_A00010'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え？　え？
+What? Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -579,7 +579,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_a_e"
 @plse set="sename='kim_A00134'"
 @【祁門】
-歳ハ？　好きな魚の名前ハ？
+Your age? The name of your favorite fish?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -588,7 +588,7 @@
 @chara3 b="sora_b1_A002" f="sora_f1_d_c_f_ab"
 @plse set="sename='szk_A00011'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ええ？\nき、君達一体何………？
+Huh?? What are you three…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -609,7 +609,7 @@
 
 @plse set="sename='gkr_A00122'"
 @【玉露】
-名前、教えてヨ。\n僕タチ、アンタの事知りたいんダヨー
+Tell us your name! We want to get to know you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -618,7 +618,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_a_a_g_a"
 @plse set="sename='szk_A00012'"
 @【鈴来くん】 name="f.name='Suzuki'"
-な、名前………？\n鈴来宙だけど………
+N-name…? It’s Suzuki Sora…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -627,7 +627,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00123'"
 @【玉露】
-スズキソラ。イー名前ダネ。\nじゃあソラ、僕タチと仲良くシヨー
+Suzuki Sora. That’s a good name. Okay, you’re our friend now!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -636,7 +636,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_d_c_f_ab"
 @plse set="sename='szk_A00013'"
 @【鈴来くん】 name="f.name='Suzuki'"
-えええ？　え？
+Wh- Huh? Huh??
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -645,7 +645,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_e"
 @plse set="sename='gkr_A00124'"
 @【玉露】
-僕の名前ハ玉露ダヨ。\n好きな色は黒ー
+My name is Gyokuro! My favorite color is black!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -654,7 +654,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00124'"
 @【水仙】
-僕ハ水仙ー。好きな色ハ赤ダヨ
+I’m Suisen! My favorite color is red!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -663,7 +663,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00135'"
 @【祁門】
-僕祁門。好きな色ハ金色ダヨー
+I’m Kiimun! My favorite color is gold!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -672,7 +672,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_c_a_a"
 @plse set="sename='szk_A00014'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ええー………？\n僕はどれかっていうと水色が好きだけど………
+Um…? I don’t really get why, but… My favorite color is light blue.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -681,7 +681,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_e_d_i_a"
 @plse set="sename='szk_A00015'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………って、違う！\nそうじゃなくって、突然なんなんだよ、君たちは！
+…Hey, wait a second! What is this? Just who even are you?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -690,7 +690,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_g_a_d"
 @plse set="sename='gkr_A00125'"
 @【玉露】
-ダカラ僕ハ玉露ダヨ
+Like I said, I’m Gyokuro.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -699,7 +699,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_g_e2_d"
 @plse set="sename='sui_A00125'"
 @【水仙】
-水仙ダヨ
+I’m Suisen.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -708,7 +708,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_g_b_d"
 @plse set="sename='kim_A00136'"
 @【祁門】
-祁門ダヨー
+I’m Kiimun.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -717,7 +717,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_d_c_f_ab"
 @plse set="sename='szk_A00016'"
 @【鈴来くん】 name="f.name='Suzuki'"
-そっ、そうじゃなくて………\nなんなんだよ、君たちはって、………
+T-that wasn’t… What’s up with these kids…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -726,7 +726,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_a_a_d"
 @plse set="sename='gkr_A00126'"
 @【玉露】
-さっきカラ言ってるコト何モ変わってナイヨー
+Nothing’s changed from what we just told you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -735,7 +735,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_f_f_a"
 @plse set="sename='szk_A00017'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ううっ………それはそっちが邪魔するから………うう
+Ugh… Okay, but you’re really bothering… Ugh.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -744,7 +744,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_a_a_e"
 @plse set="sename='sui_A00126'"
 @【水仙】
-僕タチアンタと仲良くなるタメに\nワザワザ来たンダヨー。\nダカラ大人しく僕タチと仲良くスルヨ
+We took a lot of time coming out to meet you! You better play along nicely and be our friends, okay!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -753,7 +753,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_h_a"
 @plse set="sename='szk_A00018'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ええっ！？
+Huuuh?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -762,7 +762,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_a_e"
 @plse set="sename='kim_A00137'"
 @【祁門】
-アナタのコト気に入ったンダヨ。\nアナタに会うタメに、僕タチ来たンダヨ
+We’re really interested in you. We came here just to meet you, after all.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -771,7 +771,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_a_a"
 @plse set="sename='szk_A00019'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………そ………そうなの………？
+…I-...I see…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -780,7 +780,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_a_a_e"
 @plse set="sename='gkr_A00127'"
 @【玉露】
-ネエ、何か悩み事ガアル？
+Hey, is something bothering you?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -789,7 +789,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_g_a"
 @plse set="sename='szk_A00020'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え………
+Eh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -798,7 +798,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00128'"
 @【玉露】
-サッキ、溜息吐いてタカラ。\n何か悩みガアルナラ僕タチに聞かせてヨ
+You were sighing a lot earlier. If something’s bothering you, we’ll listen.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -807,7 +807,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00138'"
 @【祁門】
-ヒトリで抱えてるヨリ、キッとイイヨー
+Better than bottling it up yourself~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -816,7 +816,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_a_a"
 @plse set="sename='szk_A00021'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nう、うん………
+…O-okay…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -826,7 +826,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_c_g"
 @plse set="sename='szk_A00022'"
 @【鈴来くん】 name="f.name='Suzuki'"
-別に大した事じゃないんだ。\n………いや、大した事なのかもしれないんだけど
+It’s not really that important… No, it MIGHT not really be that important…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -835,7 +835,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_c_b"
 @plse set="sename='sui_A00127'"
 @【水仙】
-ドッチダヨ
+Which is it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -844,7 +844,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_h_c_g"
 @plse set="sename='szk_A00023'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ただ、ちょっと将来の事が不安になっただけで………
+I’m just a little worried about the future is all…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -853,7 +853,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00139'"
 @【祁門】
-ショーライ？
+Future?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -862,7 +862,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_c_g"
 @plse set="sename='szk_A00024'"
 @【鈴来くん】 name="f.name='Suzuki'"
-最近、進路で悩んでるんだ
+I’m worried about the route I’ll take after high school. With my career and all.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -871,7 +871,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_c_g"
 @plse set="sename='sui_A00128'"
 @【水仙】
-シンロっテ何？\n僕タチニモ解ルように言うヨー
+After… What’s a career? Say it in words we can understand!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -880,7 +880,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_g_a"
 @plse set="sename='szk_A00025'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え………？\nえー、ええと、その、\n進路っていうのは将来の事なんだけど
+Huh? Well, um… er… A career is basically something like the future…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -890,7 +890,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_b_c_e"
 @plse set="sename='gkr_A00129'"
 @【玉露】
-っテソレサッキも聞いたヨ。\nアンタ説明下手ダネ
+You just said that. You suck at explaining.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -899,7 +899,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_f_f_a"
 @plse set="sename='szk_A00026'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………ッ、君たちこそ話聞く気ある訳？\nさっきから余計な茶々ばっかり入れてさ
+…Are you guys even listening to me? All you've been doing is interrupting for no reason.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -908,7 +908,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00140'"
 @【祁門】
-ウン、将来の事ネ。\nワカッタヨ、ソレデドウシタノ？
+Yeah, it’s about the future. We got it. So what?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -917,7 +917,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_g_a"
 @plse set="sename='szk_A00027'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………え………
+…Uh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -926,7 +926,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_h_c_g"
 @plse set="sename='szk_A00028'"
 @【鈴来くん】 name="f.name='Suzuki'"
-う、うん。\nそれでさあ………
+…Okay, so…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -935,7 +935,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_h_c_e"
 @plse set="sename='sui_A00129'"
 @【水仙】
-………割と単純ダネコイツ
+This guy’s pretty plain.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -944,7 +944,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_h_c_e"
 @plse set="sename='gkr_A00130'"
 @【玉露】
-ウン、やりやすくて助かるヨー
+Yeah, an easy target.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -953,7 +953,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_c_g"
 @plse set="sename='szk_A00029'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………その、僕、学者になりたいんだ
+…Um, I want to be a scholar.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -962,7 +962,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00141'"
 @【祁門】
-ガクシャ？
+Schola?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -972,7 +972,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_h_c_g"
 @plse set="sename='szk_A00030'"
 @【鈴来くん】 name="f.name='Suzuki'"
-そう、民俗学者。\nこの空環の街について、\nいろんな事を研究したくて
+Yes, a scholar in anthropology. There are many things I’d like to study concerning this town of Utsuwa.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -980,7 +980,7 @@
 
 @plse set="sename='szk_A00031'"
 @【鈴来くん】 name="f.name='Suzuki'"
-それで、\nその為に大学も行こうと思ってるんだけど……
+And to do that, I’d have to go to university…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -989,7 +989,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_e_a_a"
 @plse set="sename='gkr_A00131'"
 @【玉露】
-フーン。\nソンナコトガシタイナンテ、ヒトビトは物好きダネ
+Hmmm… He’d want to study that? Humans have weird tastes…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -998,7 +998,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_c_g"
 @plse set="sename='szk_A00032'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………でも………
+…But…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1007,7 +1007,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00142'"
 @【祁門】
-………デモ？
+But?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1016,7 +1016,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_h_c_g"
 @plse set="sename='szk_A00033'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………迷ってるんだ。\n僕に、本当にそれが務まるのかって\nいうのもあるけど………
+I’m hesitating. I’m wondering… if I’m good enough to go to university. I think I might, but…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1025,7 +1025,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00143'"
 @【祁門】
-………ケド？
+…But?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1035,7 +1035,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_e_d_a_a"
 @plse set="sename='szk_A00034'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nいや………まあ、いいか。\n言ってもしょうがないよな………
+No…Well, fine, I guess I have to say it now…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1045,7 +1045,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_a"
 @plse set="sename='sui_A00130'"
 @【水仙】
-途中まで言ってオイテソレカヨ
+Don’t stop halfway through.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1054,7 +1054,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00144'"
 @【祁門】
-ショウガナクナイヨ、僕タチに聞かせてヨ？
+If you have to say it, then won’t you tell us?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1063,7 +1063,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_c_a_a"
 @plse set="sename='szk_A00035'"
 @【鈴来くん】 name="f.name='Suzuki'"
-いや、僕そろそろ行かないと………\n友達んちに行かないといけないんだ
+Oh, no, I have to be going… I’m going to a friend’s house.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1072,7 +1072,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00132'"
 @【玉露】
-トモダチ？
+Friend?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1081,7 +1081,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_a_a_g"
 @plse set="sename='szk_A00036'"
 @【鈴来くん】 name="f.name='Suzuki'"
-うん、クラスメイトなんだけど、\n届け物があって………
+Yeah, a classmate. I have to give him something…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1089,7 +1089,7 @@
 
 @plse set="sename='szk_A00037'"
 @【鈴来くん】 name="f.name='Suzuki'"
-なんか、よくわかんないけどじゃあ、\n君たちそういう事で！
+Well, I don’t really get what this was about, but… See you three some other time!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1100,7 +1100,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_e2_g_a"
 @plse set="sename='sui_A00131'"
 @【水仙】
-ア………チョッ………待てヨ！
+Ah…W-wait!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1110,7 +1110,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00145'"
 @【祁門】
-行っちゃうノー？
+Do we let him go?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1119,7 +1119,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00133'"
 @【玉露】
-何言ってンノ、\n折角見つけタ「食事」、逃がす訳にはいカナイヨ
+Are you crazy? This “Meal” we took so long to find… He won’t be getting away!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1128,7 +1128,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_c_g_a"
 @plse set="sename='szk_A00038'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nえ？\nまさか付いて来るの？　君たち
+…Huh? Are you seriously coming with me…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1138,7 +1138,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_d"
 @plse set="sename='gkr_A00134'"
 @【玉露】
-アンタに興味がアルッテ言ったデショー。\n大人しく僕タチと一緒に行くヨ
+We told you we’re interested in you, didn’t we? Now be a good boy and let us come with you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1147,7 +1147,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_d_c_f_ab"
 @plse set="sename='szk_A00039'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ええー？\nだから何で？　突然………
+Huuuh?! But why?! So sudden…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1156,7 +1156,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_h_e2_e"
 @plse set="sename='sui_A00132'"
 @【水仙】
-理由トカハ気にシナイでイイヨ。\nホラ、行くならトットト行くヨー
+Don’t worry about the reason. C’mon, hurry up and go.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1165,7 +1165,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_e_d_a_a"
 @plse set="sename='szk_A00040'"
 @【鈴来くん】 name="f.name='Suzuki'"
-そんな事言われても………\nまいったなァ………
+I mean, if you’re that dead set on it… Fine, I give up.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1174,7 +1174,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_h_d_a_b"
 @plse set="sename='kim_A00146'"
 @【祁門】
-僕タチ、ソラと一緒に行きたいヨ。\n………ダメ？　僕タチ邪魔？？？
+We wanna go with you, Sora. …Can we? We’re not in your way, are we…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1184,7 +1184,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_c_a_a"
 @plse set="sename='szk_A00041'"
 @【鈴来くん】 name="f.name='Suzuki'"
-邪魔って訳じゃないけど………\nいや、ある意味邪魔かもしれないけど
+You’re not in my way, but… I mean, in a way, I guess you are bothering me…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1193,7 +1193,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_e_e2_g_a"
 @plse set="sename='sui_A00133'"
 @【水仙】
-マジデ邪魔なのカヨ
+Are we really bothering you?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1203,7 +1203,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_h_c_a_a"
 @plse set="sename='szk_A00042'"
 @【鈴来くん】 name="f.name='Suzuki'"
-まあ、いいか………\n友達んちで邪魔しないなら
+It’s fine… C’mon. Just don’t bother my friend.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1212,7 +1212,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00135'"
 @【玉露】
-大丈夫、僕タチ立ち居振る舞いには自信アルヨ。\n心配には及ばず、ダヨー
+Don’t worry, we’ll be on our best behavior. It’ll be just fine!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1222,7 +1222,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_b_e2_g_a"
 @plse set="sename='szk_A00043'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nほんとに黙っててよ………？
+…Can you three really stay quiet…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1231,7 +1231,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_h_c_g"
 @plse set="sename='szk_A00044'"
 @【鈴来くん】 name="f.name='Suzuki'"
-あー、椿に早くノート届けないと………
+Agh, I need to give Tsubaki these notes now!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1240,7 +1240,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00147'"
 @【祁門】
-ツバキ？
+Tsubaki?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1249,7 +1249,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_e"
 @plse set="sename='szk_A00045'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え？　ああ、友達の名前だよ。\nすっごくいい人なんだ
+Huh? Oh, that’s my friend’s name. He’s an incredible person.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1258,7 +1258,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00148'"
 @【祁門】
-フーン………
+Hmm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1268,7 +1268,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00134'"
 @【水仙】
-ツバキ………
+Tsubaki…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1277,7 +1277,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_a"
 @plse set="sename='gkr_A00136'"
 @【玉露】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

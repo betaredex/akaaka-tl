@@ -25,7 +25,7 @@
 @trans-s
 @plse set="sename='szk_A00079'"
 @【鈴来くん】 name="f.name='Suzuki'"
-さあ、着いたよ君たち。\nここが、たい焼き屋さんだよ！
+Alright, we’re here! This is a taiyaki stand.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -42,7 +42,7 @@
 @trans-s
 @plse set="sename='sui_A00146'"
 @【水仙】
-………タイ………
+Tai…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -51,7 +51,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00148'"
 @【玉露】
-ヤキ………？
+…yaki?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -60,7 +60,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00164'"
 @【祁門】
-ネエソラ、タイヤキってナニ？
+What’s a taiyaki, Sora?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -79,7 +79,7 @@
 @trans-s
 @plse set="sename='szk_A00080'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え、たい焼きだよ？\n知らない？　食べた事ない？
+Huh? You don’t know? Never eaten it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -88,7 +88,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00149'"
 @【玉露】
-タイッテ、魚ノ？
+Tai… Is there fish in it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -97,7 +97,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_g_a"
 @plse set="sename='sui_A00147'"
 @【水仙】
-マサカ、ホントにタイを焼いてるノ？
+Did they really grill a fish?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -106,7 +106,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00165'"
 @【祁門】
-カワイイオサカナヲ、串にザクーッテ、\nヤッチャッテルノ？
+Did they take some cute fish and skewer it like “STAB!”?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_e_a_e"
 @plse set="sename='szk_A00081'"
 @【鈴来くん】 name="f.name='Suzuki'"
-あはは、まさかそんな訳ないよ。\n鯛は形だけで、中身はあんこなんだ。\nおいしいよ！　食べてみなよ、奢るから
+Ahaha, no! It’s just shaped like a fish and filled with red bean paste. It’s really good! I’ll get it as a treat for you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -124,7 +124,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_e"
 @plse set="sename='szk_A00082'"
 @【鈴来くん】 name="f.name='Suzuki'"
-僕、ここのたい焼き大好きなんだ！
+I love the taiyaki here!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -133,7 +133,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_e_b_a"
 @plse set="sename='kim_A00166'"
 @【祁門】
-………ネエ、ドウスル？\n奢ってクレルッテ
+Hey, what do we do? He said he’ll treat us.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -142,7 +142,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00148'"
 @【水仙】
-僕タチニ、魚を食エッテ？\nイイ度胸ダヨアイツ
+He wants us to eat fishes? He’s got some nerve!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -151,7 +151,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00150'"
 @【玉露】
-僕タチ、共食イスルタメに来た訳じゃナイヨー
+We aren’t cannibals, are we?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -160,7 +160,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_e"
 @plse set="sename='szk_A00083'"
 @【鈴来くん】 name="f.name='Suzuki'"
-そうそう、このお店はね、\nたい焼きだけじゃなくて\nタコ焼きも売ってるんだよ
+Oh, but this place sells takoyaki too, if you’d like.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -169,7 +169,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_e"
 @plse set="sename='szk_A00084'"
 @【鈴来くん】 name="f.name='Suzuki'"
-何だったらそっちでもいいけど………
+I can get you either…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -178,7 +178,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00149'"
 @【水仙】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -186,7 +186,7 @@
 
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_a_a_a"
 @【玉露】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -197,9 +197,9 @@
 @setselect2
 
 @position2-1
-[link target="*link2" exp="tf.toScenario='tai-04.ks',tf.toLabel='*tai04-1a'"]共食いだヨ[endlink]
+[link target="*link2" exp="tf.toScenario='tai-04.ks',tf.toLabel='*tai04-1a'"]Cannibalism?[endlink]
 @position2-2
-[link target="*link2" exp="tf.toScenario='tai-04.ks',tf.toLabel='*tai04-1b'"]タコに逃げるヨ[endlink]
+[link target="*link2" exp="tf.toScenario='tai-04.ks',tf.toLabel='*tai04-1b'"]Run to the octopus.[endlink]
 
 @endselect
 
@@ -215,7 +215,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00150'"
 @【水仙】
-タコなんか食べるのはゴメンだヨ
+Sorry, but we don’t eat octopus!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -224,7 +224,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_h_a_g"
 @plse set="sename='gkr_A00152'"
 @【玉露】
-ダッタラ共食いデモ魚ノガ、数倍マシダヨー
+Cannibalism is way better than eating that!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -234,7 +234,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_e_a_e"
 @plse set="sename='szk_A00085'"
 @【鈴来くん】 name="f.name='Suzuki'"
-そっか！　たい焼きね！\nやっぱりね！　そうだよね！！！\nエヘヘじゃあ買ってくるから、ちょっと待ってて！
+Alright! Taiyaki! Awesome! Perfect! I’ll get it right now! Ehehe~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -248,7 +248,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_a_a_a"
 @plse set="sename='gkr_A00153'"
 @【玉露】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -257,7 +257,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_b_e2_a"
 @plse set="sename='sui_A00151'"
 @【水仙】
-ナンデあんなニテンション上がってるノ、アイツ
+Why’d he get so happy all of a sudden?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -267,7 +267,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00167'"
 @【祁門】
-ソンナにタイがスキナノカナ、ソラ………
+I guess Sora really likes fish…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -290,7 +290,7 @@
 
 @plse set="sename='szk_A00086'"
 @【鈴来くん】 name="f.name='Suzuki'"
-お待たせ、じゃあ、熱いから、気をつけてね～
+I’m back! Here’s your taiyaki. Careful, it’s hot.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -298,7 +298,7 @@
 
 @plse set="sename='kim_A00168'"
 @【祁門】
-コレがタイヤキ………？
+This is taiyaki…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -306,7 +306,7 @@
 
 @plse set="sename='sui_A00152'"
 @【水仙】
-何ダカミルモ無惨ダネ。\nコンナ姿にナッテシマッテ………
+I feel so awful looking at this… To think they made it look like that……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -314,7 +314,7 @@
 
 @plse set="sename='gkr_A00154'"
 @【玉露】
-タイハ魚の王様ノハズなのニ、\n僕たちシガナイ金魚に食ワれるナンテ\n世ノ中ハ無情ダネ
+The tai… The sea bream is the king of the fish, but we, the ungrateful goldfish, will eat him.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -322,7 +322,7 @@
 
 @plse set="sename='szk_A00087'"
 @【鈴来くん】 name="f.name='Suzuki'"
-へへ、美味しいだろ～？\n僕、ここのたい焼きははじっこのカリカリした\nトコロが特にスキなんだ！
+Hehe, isn’t it delicious? I especially love the crunchy bits on the edges of these taiyakis!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -330,7 +330,7 @@
 
 @plse set="sename='kim_A00169'"
 @【祁門】
-…………………\n熱イ………
+……Hot…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -338,7 +338,7 @@
 
 @plse set="sename='sui_A00153'"
 @【水仙】
-甘イ………
+Sweet…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -346,7 +346,7 @@
 
 @plse set="sename='gkr_A00155'"
 @【玉露】
-モソモソスル………
+Squishy…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -354,7 +354,7 @@
 
 @plse set="sename='szk_A00088'"
 @【鈴来くん】 name="f.name='Suzuki'"
-たい焼きって、\n中身はクリームとかチョコとかもあるけど、\nやっぱり僕はあんこが一番だな
+There are taiyaki with chocolate and vanilla cream, but I really like bean paste best.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -362,7 +362,7 @@
 
 @plse set="sename='szk_A00089'"
 @【鈴来くん】 name="f.name='Suzuki'"
-やっぱり粒あん、それが一番だよ
+Especially the coarse kind! So good…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -370,7 +370,7 @@
 
 @plse set="sename='sui_A00154'"
 @【水仙】
-ドチラカというト、サトーがスキソウな味ダヨ、コレ
+Whichever it is, I’m pretty sure Sato would like this kind of flavor.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -378,7 +378,7 @@
 
 @plse set="sename='kim_A00170'"
 @【祁門】
-サトーサン顔に似合わズ甘いモノスキだモンネー
+Sato-san doesn’t look like it, but he really likes sweet stuff.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -386,7 +386,7 @@
 
 @plse set="sename='gkr_A00156'"
 @【玉露】
-…………………\nヤッパリ僕タチの口に合うノハ、\n……………………………………
+……As soon as this touched our mouths…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -394,7 +394,7 @@
 
 @plse set="sename='sui_A00155'"
 @【水仙】
-………サトー………
+Sato…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -402,7 +402,7 @@
 
 @plse set="sename='kim_A00171'"
 @【祁門】
-………サトーサンのゴハンが、食べたいナ………
+I wanna eat Sato-san’s food…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -410,7 +410,7 @@
 
 @plse set="sename='gkr_A00157'"
 @【玉露】
-…………………\nウウン。\nチガウヨ、僕タチは「食事」ヲ探シニ来たンダヨ
+……No, that’s not it. We came here for our “Meal”, didn’t we?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -418,7 +418,7 @@
 
 @plse set="sename='kim_A00172'"
 @【祁門】
-………玉露？
+…Gyokuro?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -426,7 +426,7 @@
 
 @plse set="sename='gkr_A00158'"
 @【玉露】
-サトーのゴハンヨリ、池の藻ヨリ、\n「食事」ハモット僕タチの口に合うハズダヨ
+Sato's rice, the algae in the pond… The "Meal" is more than enough for us!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -434,7 +434,7 @@
 
 @plse set="sename='sui_A00156'"
 @【水仙】
-………ウン。\nソノタメニ、ワザワザ街に来タンダモンネ
+…Right. That’s why we came here, after all.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -442,7 +442,7 @@
 
 @plse set="sename='kim_A00173'"
 @【祁門】
-………「食事」………\nソレをシナイと、僕タチ帰レナインダヨネ
+…”Meal”... If we can’t do it, we’ll go home, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -459,7 +459,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_b_c_g"
 @plse set="sename='sui_A00157'"
 @【水仙】
-タコヤキっテ………イツモ黒狐が言ってるヤツダヨネ
+Takoyaki… Kurogitsune never shuts up about that, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -468,7 +468,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_e_a_a"
 @plse set="sename='gkr_A00159'"
 @【玉露】
-ウン。アイツの大好物ダヨ
+Yeah, it’s his favorite thing.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -478,7 +478,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_d_a"
 @plse set="sename='kim_A00174'"
 @【祁門】
-僕タチにイツモ自慢シテタヨネ、\n食えない僕ラがカワイソウッテ………
+He always boasts about how sad it is that we've never had any…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -487,7 +487,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00160'"
 @【玉露】
-…………………\nナマイキダヨー。\n僕タチダッテタコくらい食えるヨ
+…He’s really arrogant. We can have tako too, you know!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -496,7 +496,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_a_a"
 @plse set="sename='szk_A00090'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nえーと………\nタコ焼きが、いいのかな？
+……Uh… So you want takoyaki?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -505,7 +505,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_h_a_g"
 @plse set="sename='gkr_A00161'"
 @【玉露】
-頭足類ナドニ臆する僕タチジャナイヨ
+We aren’t scared of no cephalopod!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -514,7 +514,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_e2_g"
 @plse set="sename='sui_A00158'"
 @【水仙】
-共食イヨリハマシダヨ。\nタコ足の八本デモ九本デモダストイイヨー
+It’s better than cannibalism! It doesn’t matter if that octopus has eight or nine tentacles, we’ll eat ‘em all!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -523,7 +523,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_e"
 @plse set="sename='szk_A00091'"
 @【鈴来くん】 name="f.name='Suzuki'"
-よくわかんないけど、タコ焼きでいいんだね。\nじゃあ、ちょっと待ってて
+I’m kinda confused, but it seems like you want takoyaki? Alright, just a second then.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -546,7 +546,7 @@
 
 @plse set="sename='gkr_A00162'"
 @【玉露】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -554,7 +554,7 @@
 
 @plse set="sename='kim_A00175'"
 @【祁門】
-コレがタコヤキ………？
+This is takoyaki…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -562,7 +562,7 @@
 
 @plse set="sename='sui_A00159'"
 @【水仙】
-ナンカチガクナイ………？
+I feel like something’s off…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -570,7 +570,7 @@
 
 @plse set="sename='szk_A00092'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え？　何が？\nあ、熱いから気をつけてね
+Huh? What is it? Oh, be careful. It’s hot.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -578,7 +578,7 @@
 
 @plse set="sename='kim_A00176'"
 @【祁門】
-黒狐が言ってたノト、ナンカチガウヨ
+This feels a lot different than how Kurogitsune described it…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -586,7 +586,7 @@
 
 @plse set="sename='sui_A00160'"
 @【水仙】
-楊枝デ刺シテ一口デッて言ってたヨ、アイツ
+He said you put them on toothpicks and popped them into your mouth…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -594,7 +594,7 @@
 
 @plse set="sename='gkr_A00163'"
 @【玉露】
-丸くテ、アツアツで、\n中ノタコがチョーウマイッテ………
+He said they were ball-shaped, really hot, and that the inside was the best thing ever…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -602,7 +602,7 @@
 
 @plse set="sename='kim_A00177'"
 @【祁門】
-ネエソラ、コレホントにタコヤキ？
+Is this really takoyaki, Sora?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -610,7 +610,7 @@
 
 @plse set="sename='szk_A00093'"
 @【鈴来くん】 name="f.name='Suzuki'"
-何言ってるんだよ、タコが焼けてるじゃないか。\nこれがタコ焼き以外の何だって言うんだい？
+What are you talking about? It’s an octopus that’s been grilled. What do you call this other than takoyaki?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -618,7 +618,7 @@
 
 @plse set="sename='gkr_A00164'"
 @【玉露】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -626,7 +626,7 @@
 
 @plse set="sename='kim_A00178'"
 @【祁門】
-ナンカダマサレテル気がスルヨ
+I feel like we’ve been fooled.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -634,7 +634,7 @@
 
 @plse set="sename='gkr_A00165'"
 @【玉露】
-中にタコの入ってないタコヤキナンテ\nタコヤキジャナイヨー
+Takoyaki without octopus inside… isn’t takoyaki at all!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -642,7 +642,7 @@
 
 @plse set="sename='szk_A00094'"
 @【鈴来くん】 name="f.name='Suzuki'"
-なんていうか、この粒あんのつぶが\nたこ足みたいでいいよね！
+What’re you talking about? The taste and texture of red bean paste is just like how I imagine an octopus’ tentacle is like!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -650,7 +650,7 @@
 
 @plse set="sename='gkr_A00166'"
 @【玉露】
-………タコアシ………
+…Octopus’ tentacle…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -659,7 +659,7 @@
 
 @plse set="sename='sui_A00161'"
 @【水仙】
-コンナモノ食べる為ニ、\nワザワザ街に来た訳ジャナイヨ。\n「食事」をシニキタンダヨー
+We didn’t come to the town for this! We came for the “Meal”, remember!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -667,7 +667,7 @@
 
 @plse set="sename='gkr_A00167'"
 @【玉露】
-コンナタコモドキデ、\n腹が満たされる僕タチジャナイヨー
+This psuedoctopus won’t cut it! We need a lot more to feel full!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -675,7 +675,7 @@
 
 @plse set="sename='kim_A00179'"
 @【祁門】
-ネ。ドウスル？
+What do we do?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -684,7 +684,7 @@
 
 @plse set="sename='sui_A00162'"
 @【水仙】
-…………………\nドウスルッテ、ソレハ………
+…What do we do? Well obviously, we…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -693,7 +693,7 @@
 
 @plse set="sename='gkr_A00168'"
 @【玉露】
-………モチロン。\nソロソロ、頃合いダヨ
+…Of course. It’s time.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -728,7 +728,7 @@
 @trans-s
 @plse set="sename='szk_A00095'"
 @【鈴来くん】 name="f.name='Suzuki'"
-どう？　君たちお腹いっぱいになった？
+Well? Are you feeling a little bit fuller now?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -737,7 +737,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_b_a_a"
 @plse set="sename='sui_A00163'"
 @【水仙】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -748,7 +748,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_b_b_g"
 @plse set="sename='kim_A00180'"
 @【祁門】
-お腹、イッパイ。\n…………………
+I’m full…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -760,7 +760,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_b_a_e"
 @plse set="sename='gkr_A00169'"
 @【玉露】
-ウウン、マダマダダヨ
+No, not yet.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -769,7 +769,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_h_a"
 @plse set="sename='szk_A00096'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え？　まだ入るの？\n君たち見かけによらずすごいなァ。\nもう一個食べる？
+Wait, you’re still hungry? You guys have a big appetite for your size. Want another one?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -778,7 +778,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_h_a_e"
 @plse set="sename='gkr_A00170'"
 @【玉露】
-ウウン。\n僕タチがしタイノハ、「食事」ダヨ
+No… What we want is a “Meal”.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -787,7 +787,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_g_a"
 @plse set="sename='szk_A00097'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………「食事」？
+…”Meal”?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -797,7 +797,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_b_e_d"
 @plse set="sename='sui_A00164'"
 @【水仙】
-僕タチ、モウズット長いコト飢えテイルンダ
+It’s something that we’ve been hungering for… forever…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -806,7 +806,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_b_b_e"
 @plse set="sename='kim_A00181'"
 @【祁門】
-ズットズット、「食事」ヲ待ってたンダヨ。\n………ソラに会うマデ
+We’ve been waiting for a “Meal” forever and ever… until we met you, Sora…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -815,7 +815,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_a"
 @plse set="sename='szk_A00098'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………え………\n僕に？
+…What? Me?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -825,7 +825,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_b_a_d"
 @plse set="sename='gkr_A00171'"
 @【玉露】
-僕タチは、アンタニ逢いニ来たンダ
+We came to meet you, Sora.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -834,7 +834,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_h_e2_e"
 @plse set="sename='sui_A00165'"
 @【水仙】
-ズット逢いたかったヨ、アンタニ
+We’ve wanted to meet you for so long…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -843,7 +843,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_b_a_d"
 @plse set="sename='kim_A00182'"
 @【祁門】
-ヤット逢えタネ、ソラ
+And we finally found you, Sora.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -852,7 +852,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_a_a"
 @plse set="sename='szk_A00099'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nよく、意味が解らないんだけど
+………I don’t really understand…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -862,7 +862,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_e"
 @plse set="sename='gkr_A00172'"
 @【玉露】
-ソノウチワカルヨ。\nサア、僕タチと一緒ニ行コウ？
+You’ll understand soon enough. Now, shall we go?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -872,7 +872,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00183'"
 @【祁門】
-キッと、その方ガ楽しいヨ
+It’ll be fun.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -881,7 +881,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_e"
 @plse set="sename='sui_A00166'"
 @【水仙】
-アンタにトッテモ、キッとイイコトダヨ
+It’ll be something you’ll really like.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -890,7 +890,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_c_g_a"
 @plse set="sename='szk_A00100'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………\nでも、君たち帰らなくていいの？\nもう日も暮れたし、親が心配しない？
+…But the sun’s already down, isn’t it? You should go home soon… Aren’t your parents worried?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -900,7 +900,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_d"
 @plse set="sename='gkr_A00173'"
 @【玉露】
-僕タチ親ナンテ居ないヨ
+We don’t have parents.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -909,7 +909,7 @@
 @chara5 b="sora_b1_A002" f="sora_f1_d_c_f_ab"
 @plse set="sename='szk_A00101'"
 @【鈴来くん】 name="f.name='Suzuki'"
-えっ！？\n………そうなんだ、ゴメン。\nでも、家は？
+Huh?! Oh, I’m sorry… Then, where’s your house?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -919,7 +919,7 @@
 @chara5 b="sora_b1_A001" f="sora_f1_a_a_e"
 @plse set="sename='szk_A00102'"
 @【鈴来くん】 name="f.name='Suzuki'"
-もう暗いし、送っていってあげるよ。\n………ね、お家どこ？
+It’s already dark. C’mon, I’ll take you home. Where’s your house?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -928,7 +928,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00167'"
 @【水仙】
-…………………\nドウスル？
+…What now?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -937,7 +937,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_b_a_d"
 @plse set="sename='kim_A00184'"
 @【祁門】
-………イイヨ。\n僕タチの領域にサエ、連れて来れレバ………
+…It’s fine. If we take him into our domain…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -947,7 +947,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_d"
 @plse set="sename='gkr_A00174'"
 @【玉露】
-………ソウ。\nソレが、「食事」の始まりダヨ
+…Right. That’ll begin the “Meal”...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -987,22 +987,3 @@
 ;呼び出し元に戻る
 @return
 @endif
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

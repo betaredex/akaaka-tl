@@ -24,7 +24,7 @@
 @trans-s
 @plse set="sename='ran_A00023'"
 @【嵐昼】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -32,7 +32,7 @@
 
 @plse set="sename='ran_A00024'"
 @【嵐昼】
-…………………\n………由様………
+…………Yue-sama…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -41,7 +41,7 @@
 @chara3 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00025'"
 @【嵐昼】
-先ほど通りかかった時と、\n全く状態が変わっていない………
+I came by a while ago, but his condition hasn’t changed a bit…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 
 @plse set="sename='ran_A00026'"
 @【嵐昼】
-今日何度もこの部屋を通り過ぎたが、\nその都度何も変わっていない………
+I have passed this room many times today, and each time nothing has changed…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -59,7 +59,7 @@
 @chara3 b="ran_b1_A001" f="ran_f1_h_a_g_a"
 @plse set="sename='ran_A00027'"
 @【嵐昼】
-…………………\n……………………………………\n寝過ぎです、由様………
+You sleep too much, Yue-sama…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -68,7 +68,7 @@
 @chara3 b="ran_b1_A001" f="ran_f1_a_a_a"
 @plse set="sename='ran_A00028'"
 @【嵐昼】
-………ん？
+…Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -84,7 +84,7 @@
 @trans-n
 @plse set="sename='krg_A00058'"
 @【黒狐】
-タッダイマーって、ン？\nなんだランチューじゃねーか
+I’m home!!! …Oh, Ranchuu.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -93,7 +93,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_h_e_g"
 @plse set="sename='ran_A00029'"
 @【嵐昼】
-なんだとはなんだ失礼な。\n大体、いつも言っているが\nもっと静かに廊下を歩けんのか？　煩い
+How rude. I always have to tell you, can't you walk down the hallway more quietly? It's annoying.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_h_a2_i" o="kokko_o1"
 @plse set="sename='krg_A00059'"
 @【黒狐】
-うっせ、オシトヤカに歩くのは\nおれのキャラじゃねーんだよ
+Shuddup. It’s not in my character to walk all refined and ladylike.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -112,7 +112,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_e_a_g"
 @plse set="sename='ran_A00030'"
 @【嵐昼】
-ほう、わざわざ役作りという訳か。\n………意味がない上にせせこましい事だな
+Ooh, you put a lot of effort into playing your character… Too bad it’s for a trivial and meaningless reason.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_b_e_i_a" o="kokko_o1"
 @plse set="sename='krg_A00060'"
 @【黒狐】
-………ッ、そういうイミじゃねーよ！\nったく、オマエいちいちウルセーよなァ。\n由が起きちまうじゃねーか
+…It’s not like that! You’re so damn annoyin’ about everything. Is Yue up?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -130,7 +130,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00031'"
 @【嵐昼】
-だから煩いのはきさまの方だと………。\nそれに、由様はこれくらいでは起きないぞ
+No, you are the annoying one… No, Yue-sama is not awake yet.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -139,7 +139,7 @@
 @chara4.5 b="kokko_b1_A005" f="kokko_f1_b_e2_i_a" o="kokko_o1"
 @plse set="sename='krg_A00061'"
 @【黒狐】
-あー？\n………っつーか、まだ寝てんのか由………\nおれが出かけてからもう何時間だよ？
+Huh?? So he went back to sleep… The hell, Yue? How many hours’ it been since I went out?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -148,7 +148,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_a_d_g"
 @plse set="sename='ran_A00032'"
 @【嵐昼】
-私の知る限り、きさまが出かける更に前、\nつまり朝方からずっとこの状態だ。\nいい加減、逆に具合を悪くしないか心配だが
+As far as I know, it has been this way since early in the morning, even before you left. I'm worried that his condition may be worse than I thought.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -157,7 +157,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_e_b_i" o="kokko_o1"
 @plse set="sename='krg_A00062'"
 @【黒狐】
-いや、コイツ今ちょっと調子悪いから。\n………だったら、部屋で寝りゃいいのによー
+Nah, I’m sure he’s just a little under the weather… But if he’s tired, why doesn’t he sleep in his room?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -166,7 +166,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_a_a_a"
 @plse set="sename='ran_A00033'"
 @【嵐昼】
-確かに、布団で寝る方がずっと心地よいだろうに、\n由様はいつもここで寝ているな
+I’m sure that sleeping on a futon would be far better for him, but Yue-sama has been here all day.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -176,7 +176,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_b_b_d" o="kokko_o1"
 @plse set="sename='krg_A00063'"
 @【黒狐】
-寝てる癖に人恋しいんだろ。\n………多分。\nったくよー
+He wants company, even when he’s asleep… Probably. Man…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -185,7 +185,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_a_a_g"
 @plse set="sename='ran_A00034'"
 @【嵐昼】
-…………………\nほう………
+…Hmmm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -194,7 +194,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_a_a_a" o="kokko_o1"
 @plse set="sename='krg_A00064'"
 @【黒狐】
-………ン？　なんだよ、その反応は
+Huh? What’s that look mean?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -203,7 +203,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_e_a2_g"
 @plse set="sename='ran_A00035'"
 @【嵐昼】
-………別に。\n確かにいつも共に居るだけの事は\nあるのかと思っただけだ
+Nothing in particular. I just wondered if there was indeed something to be said for always being together.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -212,7 +212,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_g_b_e" o="kokko_o1"
 @plse set="sename='krg_A00065'"
 @【黒狐】
-ったりめーだろ、\nコイツにとっちゃおれがアニキみたいなもんだからな
+Of course there is! I’m his big bro, got it? 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -221,7 +221,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_h_a2_g"
 @plse set="sename='ran_A00036'"
 @【嵐昼】
-由様にとっては逆なんだろうがな。\n自分も同意だが
+I believe Yue-sama sees the relationship in the opposite way. I must agree with him.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -230,7 +230,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_a_e_i_a" o="kokko_o1"
 @plse set="sename='krg_A00066'"
 @【黒狐】
-アーン！？　今なんつったランチュー！
+Huh?! Hell’d you just say, Ranchuu?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -239,7 +239,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_e_a_g"
 @plse set="sename='ran_A00037'"
 @【嵐昼】
-きさまのような煩い犬の世話を\nしなければならない由様に、自分は同情する
+I said, the fact that Yue-sama must always take care of an incessant dog like you must be truly tiring. Of course, I sympathize.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -248,7 +248,7 @@
 @chara4.5 b="kokko_b3_A003" f="kokko_f3_a_e_i_a" o="kokko_o3"
 @plse set="sename='krg_A00067'"
 @【黒狐】
-ウルサイのはテメーの方だろうが！\n顔合わせる度にネチネチネチネチ言いやがって、
+YOU’re… in-sess-ant! Every time he sees you, you’re always naggin’ and naggin’ him about something or other!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -256,7 +256,7 @@
 
 @plse set="sename='krg_A00068'"
 @【黒狐】
-オマエおれに身長負けてるのが\nそんなに悔しいのかよ！
+And it must be REAL sad that you ain’t even as tall as me, isn’t it?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -265,7 +265,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_f_e_i_ab"
 @plse set="sename='ran_A00038'"
 @【嵐昼】
-なっ………そんな小さな事にこだわりはない！！
+Wha… You’d fuss over such a trivial detail?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -274,7 +274,7 @@
 @chara4.5 b="kokko_b3_A003" f="kokko_f3_a_e_i_a" o="kokko_o3"
 @plse set="sename='krg_A00069'"
 @【黒狐】
-ウソツケ、\nおれの方がちょっとデカイって判った途端、\nおれのメシから牛乳抜いた癖に！！
+You liar! Ya skipped milk from my meal as soon as you found out I was a little bigger than you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -284,7 +284,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_a_e_i_a"
 @plse set="sename='ran_A00039'"
 @【嵐昼】
-それはきさまが腹を下したからだろうが！！！！
+That was because you’re lactose intolerant!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +293,7 @@
 
 @plse set="sename='yue_A00037'"
 @【由】
-…………………\nんー………
+……Mmm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -302,7 +302,7 @@
 @chara4.5 b="kokko_b3_A008" f="kokko_f3_a_a2_i_a" o="kokko_o3"
 @plse set="sename='krg_A00070'"
 @【黒狐】
-………ん？　ユエ？
+…Hm? Yue?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -311,7 +311,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_a_a2_g_a"
 @plse set="sename='ran_A00040'"
 @【嵐昼】
-あ、由様………
+Ah, Yue-sama…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -319,7 +319,7 @@
 
 @plse set="sename='yue_A00038'"
 @【由】
-………たりとも………るさい………むにゃ
+Shut… you two… Zzz…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -328,7 +328,7 @@
 @chara4.5 b="kokko_b3_A003" f="kokko_f3_b_e_a_a" o="kokko_o3"
 @plse set="sename='krg_A00071'"
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -337,7 +337,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_a_d_a_a"
 @plse set="sename='ran_A00041'"
 @【嵐昼】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -346,7 +346,7 @@
 @chara4.5 b="kokko_b3_A003" f="kokko_f3_h_e2_i_a" o="kokko_o3"
 @plse set="sename='krg_A00072'"
 @【黒狐】
-…………………\nああ、確かにウルサイよ。\nけどそれでもまだ寝るのかよ、オマエ………
+…Yeah, I can see how we were annoying… But man, you sleep too damn much.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -355,7 +355,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_h_a2_g_a"
 @plse set="sename='ran_A00042'"
 @【嵐昼】
-………私とした事が、申し訳ありません由様………
+My deepest apologies, Yue-sama…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -364,7 +364,7 @@
 @chara4.5 b="kokko_b3_A001" f="kokko_f3_e_b_i" o="kokko_o3"
 @plse set="sename='krg_A00073'"
 @【黒狐】
-も、いーや。\nそういえば狭塔様はどこ行ったんだ？
+Alright, that’s enough ‘a that. Where’d Sato-sama go?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -372,7 +372,7 @@
 
 @plse set="sename='krg_A00074'"
 @【黒狐】
-いつもならこんだけウルサイと、\nそろそろ叱られる頃合いなのに
+Whenever we start arguin’, he always shows up to scold us.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -381,7 +381,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_a_a_g"
 @plse set="sename='ran_A00043'"
 @【嵐昼】
-狭塔様は、掃除だ
+Sato-sama is currently cleaning.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -390,7 +390,7 @@
 @chara4.5 b="kokko_b3_A001" f="kokko_f3_a_a_i" o="kokko_o3"
 @plse set="sename='krg_A00075'"
 @【黒狐】
-掃除？\n………こんな時間にまでかよ？
+Cleaning…? At this hour…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -399,7 +399,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_h_a2_g"
 @plse set="sename='ran_A00044'"
 @【嵐昼】
-いや、今日は出張掃除だ
+No, he’s on a cleaning trip for business today.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -408,7 +408,7 @@
 @chara4.5 b="kokko_b3_A001" f="kokko_f3_a_a_g" o="kokko_o3"
 @plse set="sename='krg_A00076'"
 @【黒狐】
-…………………\n出張………そーじ………？
+…A cleanin’ trip… for business…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -417,7 +417,7 @@
 @chara1.5 b="ran_b1_A001" f="ran_f1_e_a_g"
 @plse set="sename='ran_A00045'"
 @【嵐昼】
-ああ
+Yes.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

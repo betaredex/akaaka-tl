@@ -31,7 +31,7 @@
 @messagelay
 @plse set="sename='sui_A00075'"
 @【水仙】
-ココハ………
+This’s…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -40,7 +40,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_e"
 @plse set="sename='gkr_A00077'"
 @【玉露】
-学校ダネ。\nヒトビトの子どもが、通うトコロダヨー。\nてれびデ、よく見るヨ
+A school! I see this all the time on TV. Human kids go here.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_b_e"
 @plse set="sename='kim_A00084'"
 @【祁門】
-ソッカー、ジャアここナラヒトビトがイッパイイルネ。\n僕タチの「食事」モ、見付かるカナァ？
+I see… So this place probably has lotsa people. Maybe we can find our Meal in there?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_d_g"
 @plse set="sename='sui_A00076'"
 @【水仙】
-デモ、見たトコロ、フツウのヒトビトばっかりダネー
+But wherever you look, it’s just normal humans…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -67,7 +67,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00078'"
 @【玉露】
-ウン、モウチョット探してミヨウ…………………
+Hmm… Maybe we can look a little bit.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -75,7 +75,7 @@
 
 @plse set="sename='aky_A00000'"
 @【秋良】 name="f.name='???'"
-…………………ッ\n………グシュン！
+…Ah, ah… choo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -84,7 +84,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_a"
 @plse set="sename='gkr_A00079'"
 @【玉露】
-…………………ン？
+…Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -93,7 +93,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00077'"
 @【水仙】
-今ノハ………？
+Was that…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -102,7 +102,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00085'"
 @【祁門】
-クシャミ？
+…someone sneezing?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 @trans-s
 @plse set="sename='aky_A00001'"
 @【秋良】 name="f.name='???'"
-…………………\nチッ、花粉が………
+…*sniff* I hate pollen…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -129,7 +129,7 @@
 
 @plse set="sename='aky_A00002'"
 @【秋良】 name="f.name='???'"
-今日はやや暖かい所為か、花粉が多いな。\n………っくシッ！　…………………
+Maybe it's just the slightly warmer weather today, but there's a lot of pollen… Achoo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -138,7 +138,7 @@
 
 @plse set="sename='aky_A00003'"
 @【秋良】 name="f.name='???'"
-………チッ………\n………ん？
+…Tch… Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -147,7 +147,7 @@
 
 @plse set="sename='aky_A00004'"
 @【秋良】 name="f.name='???'"
-ティッシュの残量が少ないな。\n買い足しに行くか………
+I’m almost out of tissues… I’ll have to go pick some up.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -165,7 +165,7 @@
 @trans-s
 @plse set="sename='sui_A00078'"
 @【水仙】
-何だろあのヒトビト？\nさっきからクシャミばっかりシテルヨ。\nビョーキカナー？
+What is it with that human? He's been sneezing a lot. Is he sick?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -174,7 +174,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00080'"
 @【玉露】
-アー、アレはタブン、\nカフンショウってイウヤツダヨー
+Ohh, that’s probably one of those “pollen allergies”.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -182,7 +182,7 @@
 
 @plse set="sename='gkr_A00081'"
 @【玉露】
-神社に来るヒトビトも、\nヨクこの時期クシュクシュ言ってるヨー
+People like that who come to the shrine sneeze a lot, just like him~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -192,7 +192,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00086'"
 @【祁門】
-ソッカー、アレガ有名ナ………。\nヒトビトの世界ニハ大変なコトがイッパイアルヨー。\n金魚鉢の中ハホント安全ダヨ
+I see, so it’s well-known… There really is a lot of trouble in the world of humans. It's much safer in the fishbowl.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -209,7 +209,7 @@
 @trans-s
 @plse set="sename='aky_A00005'"
 @【秋良】 name="f.name='???'"
-…………………ん？\n何か視線を感じる………
+…Hm? I feel someone’s gaze…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -217,7 +217,7 @@
 
 @plse set="sename='aky_A00006'"
 @【秋良】 name="f.name='???'"
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -236,7 +236,7 @@
 @trans-s
 @plse set="sename='sui_A00079'"
 @【水仙】
-ン？
+Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -245,7 +245,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00082'"
 @【玉露】
-エ？
+Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -254,7 +254,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00087'"
 @【祁門】
-ヘ？
+Uh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -274,7 +274,7 @@
 @trans-s
 @plse set="sename='aky_A00007'"
 @【秋良】 name="f.name='???'"
-………学校に子ども………？\nいや、何か違うような………
+…Do you three go to this school…? No, somehow I feel that’s not right…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -282,7 +282,7 @@
 
 @plse set="sename='aky_A00008'"
 @【秋良】 name="f.name='???'"
-………普通の子どもとは何かが違う
+You seem… different from normal children.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -291,7 +291,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_d_g"
 @plse set="sename='sui_A00080'"
 @【水仙】
-アレ、凄イヨ。\nコイツ、僕タチのコトワカッタ？
+Wow, he’s good. Does he know what we are?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -300,7 +300,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00088'"
 @【祁門】
-マサカ。\n僕タチのコト知ってるヒトビトは居ナイハズダヨ
+No way. There aren’t any people who know what we are.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -308,7 +308,7 @@
 
 @plse set="sename='kim_A00089'"
 @【祁門】
-知ったヒトはミンナ\n「食事」ニナッチャッテルんダカラ
+The ones who do know are the ones who become “Meals”.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -317,7 +317,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00083'"
 @【玉露】
-フウン………\n余り関わらないホウガイイネ、コレハ
+…Hmm… I don’t want to get involved with this.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -325,7 +325,7 @@
 
 @plse set="sename='aky_A00009'"
 @【秋良】 name="f.name='???'"
-………おい、お前ら………
+…Hey, you three…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -334,7 +334,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00084'"
 @【玉露】
-ヨシ、行コウフタリトモ！
+Alright, let’s go, you two!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -346,7 +346,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='kim_A00090'"
 @【水仙】
-アッ、待っテヨ玉露ー
+Oh, wait for us, Gyokuro!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -358,7 +358,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00081'"
 @【水仙】
-ニゲロニゲロー
+Run, run!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -369,7 +369,7 @@
 
 @plse set="sename='aky_A00010'"
 @【秋良】 name="f.name='???'"
-………ん？\nおい、待て………ッ\n………ックシュン！
+…Huh? Wait, you…  Ah, achoo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -381,7 +381,7 @@
 @chara3 b="aki_b5_A001"
 @plse set="sename='aky_A00011'"
 @【秋良】 name="f.name='???'"
-………ッ、く………\n逃げられたか………
+…Gh… They ran.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -389,7 +389,7 @@
 
 @plse set="sename='aky_A00012'"
 @【秋良】 name="f.name='???'"
-………だが、もしかしてあいつらは………\nだとしたら、逃がしはせん
+…But perhaps, are they…? Then I can’t let them escape!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -419,7 +419,7 @@
 @messagelay
 @plse set="sename='sui_A00082'"
 @【水仙】
-よくワカンナイケド、アイツ、\n気を付けた方ガイイカも………
+…I don’t know why, but I feel like we shouldn’t go near that guy…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -428,7 +428,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00091'"
 @【祁門】
-ウン………僕タチのコト、\n何か勘づいたミタイダッタモンネ。\n………ッテ、エ？
+Yeah, I feel like he suspects something about us… Wait, huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -439,7 +439,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00085'"
 @【玉露】
-………何か音が………
+…Some sort of noise…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -457,7 +457,7 @@
 @trans-s
 @plse set="sename='aky_A00013'"
 @【秋良】 name="f.name='???'"
-………ッ、見つけた………！
+…Huff, huff… Found you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -475,7 +475,7 @@
 @trans-s
 @plse set="sename='kim_A00092'"
 @【祁門】
-キャーッオイカケテキター！
+GASP!! He chased us!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -484,7 +484,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_e2_g_a"
 @plse set="sename='sui_A00083'"
 @【水仙】
-ボッ、僕タチのコト、捕マエル気！？
+Does he wanna catch us!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -493,7 +493,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00086'"
 @【玉露】
-………ヨシ、ニゲルヨ！
+…Let’s run, now!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -518,7 +518,7 @@
 @trans-s
 @plse set="sename='aky_A00014'"
 @【秋良】 name="f.name='???'"
-………？\n確かにこの路地に逃げたと思ったが………
+…? I thought for sure they went this way…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -526,7 +526,7 @@
 
 @plse set="sename='aky_A00015'"
 @【秋良】 name="f.name='???'"
-………くそ、撒かれたか………
+Damn, they gave me the slip…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -534,7 +534,7 @@
 
 @plse set="sename='aky_A00016'"
 @【秋良】 name="f.name='???'"
-しかし、幼児の癖に、オレの足から逃れるとは、\nやはり只者ではなかったようだな、うん。\n………ックシュン！
+But the fact those toddlers outran me proves they certainly aren’t normal humans… Achoo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -543,7 +543,7 @@
 @chara3 b="aki_b5_A002"
 @plse set="sename='aky_A00017'"
 @【秋良】 name="f.name='???'"
-………う、ハー………\nダメだ、今日は花粉が濃い………。\nまたの機会にするとしよう
+…Guh, hah… Not today. Too much pollen. I’ll wait for my next chance.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -551,7 +551,7 @@
 
 @plse set="sename='aky_A00018'"
 @【秋良】 name="f.name='???'"
-…………………\nだが、オレの勘が正しければ、アイツらは………
+…But if my hunch is correct, then they were…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -560,7 +560,7 @@
 @chara3 b="aki_b5_A001"
 @plse set="sename='aky_A00019'"
 @【秋良】 name="f.name='???'"
-…………………\n次は、逃がしはせん
+…I won’t let dem run again…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -573,7 +573,7 @@
 
 @plse set="sename='gkr_A00087'"
 @【玉露】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -582,7 +582,7 @@
 @chara3 b="kin_B001"
 @plse set="sename='gkr_A00088'"
 @【玉露】
-………アブナカッタ………
+…That was close…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -591,7 +591,7 @@
 @chara3 b="kin_B002"
 @plse set="sename='sui_A00084'"
 @【水仙】
-何ナノアイツ？\nチョー足速インダケド！
+What was with that guy? He was so fast!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -601,7 +601,7 @@
 @chara3 b="kin_B006"
 @plse set="sename='kim_A00093'"
 @【祁門】
-コワカッタヨー、ブルブル
+I was so scared… *shiver*
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -618,7 +618,7 @@
 @trans-s
 @plse set="sename='gkr_A00089'"
 @【玉露】
-………要注意ダネ、あのメガネ
+We’ve gotta stay careful around that glasses guy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

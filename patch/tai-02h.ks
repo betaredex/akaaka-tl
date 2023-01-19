@@ -29,7 +29,7 @@
 @trans-s
 @plse set="sename='sak_A00000'"
 @【朔】
-………あ
+…Ah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -39,7 +39,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_e_a_g"
 @plse set="sename='nag_A00000'"
 @【薙】
-…………………\nどうしたの？　朔
+…What is it, Saku?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 @trans-s
 @plse set="sename='sak_A00001'"
 @【朔】
-ねぇねぇ、薙。\nあそこに居るのって、もしかして………
+Hey, Nagi. Could those three over there be…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_b_a_a"
 @plse set="sename='nag_A00001'"
 @【薙】
-…………………\nあら………
+…Oho.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -71,7 +71,7 @@
 @messagelay
 @plse set="sename='sak_A00002'"
 @【朔】
-あーやっぱり～！\nキンギョだ、ヤッホー！
+Oh, I knew it! Yahoo, goldfishies!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -80,7 +80,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_a_a_g"
 @plse set="sename='sui_A00068'"
 @【水仙】
-エ………
+Weh…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -90,7 +90,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00073'"
 @【祁門】
-朔サン………\nト、薙サン………
+Saku-san… and Nagi-san?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -99,7 +99,7 @@
 @chara4.5 b="saku_b1_A002" f="saku_f1_g_b_f"
 @plse set="sename='sak_A00003'"
 @【朔】
-めずらしーい、キンギョがコッチに居るなんて！\nねぇねぇ、サトーは？　来てないの？
+Wow, I like, never see you guys around here? Where’s Sato? Did he not come?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -108,7 +108,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_b_a_g"
 @plse set="sename='nag_A00002'"
 @【薙】
-………まさか、あなた達だけでこの街に来たの？
+…Did you three really come to the town alone?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -117,7 +117,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00069'"
 @【水仙】
-僕タチだけで来チャ悪イ？
+Would that be a bad thing?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -126,7 +126,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_g"
 @plse set="sename='gkr_A00072'"
 @【玉露】
-別ニ、サトーがイナクテモ、\n僕タチだって街クライ来れるヨー
+Even if Sato-san’s not here, we can come whenever we want.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -135,7 +135,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_h_e2_g"
 @plse set="sename='kim_A00074'"
 @【祁門】
-ウン。僕タチサトーサンがイナクテモ、\nゼンゼンダイジョーブなんダカラ
+Yeah, we’re totally fine even if Sato-san’s not here.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -144,7 +144,7 @@
 @chara1.5 b="nagi_b1_A002" f="nagi_f1_h_a_g"
 @plse set="sename='nag_A00003'"
 @【薙】
-………そう。\n狭塔と喧嘩したのねあなた達
+…I see. So you three had a fight with Sato.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -153,7 +153,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_i_a"
 @plse set="sename='kim_A00075'"
 @【祁門】
-エッ！？\nナ、ナンデワカルノ！？
+Huh?! H-how did you know?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -162,7 +162,7 @@
 @chara4.5 b="saku_b1_A001" f="saku_f1_g_b_f"
 @plse set="sename='sak_A00004'"
 @【朔】
-アハハ、何で分からないと思ったの～？
+Ahaha, you wanna know how we knew?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -171,7 +171,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g_a"
 @plse set="sename='kim_A00076'"
 @【祁門】
-エッ………ナンデっテ………
+Eh… What’s happening…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -180,7 +180,7 @@
 @chara4.5 b="saku_b1_A001" f="saku_f1_a_b_f"
 @plse set="sename='sak_A00005'"
 @【朔】
-でも、キンギョだけで街に来たの、初めて見たよー。\nどう？　楽しい？
+But, I think this is the first time the goldfishies have come to town alone. How is it? You guys having fun?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -189,7 +189,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_h_e2_g"
 @plse set="sename='sui_A00070'"
 @【水仙】
-楽しいトカ、ソーユー問題じゃナイヨ。\n僕タチ、目的がアッテコノ街に来たンダヨ
+It’s not a matter of fun. Right now, the three of us have a very important goal to accomplish.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -198,7 +198,7 @@
 @chara4.5 b="saku_b1_A001" f="saku_f1_a_b_d"
 @plse set="sename='sak_A00006'"
 @【朔】
-ふうん？
+Hmmm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -207,7 +207,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00073'"
 @【玉露】
-ダイタイ、サトーガ僕タチのコト、\nナイガシロにスルのがワルイんだヨ。\nアノ石頭、チョットは反省するとイイヨ
+We’re mad that blockhead Sato-san won’t take us seriously! We want him to reflect on his actions a little bit.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -216,7 +216,7 @@
 @chara4.5 b="saku_b1_A002" f="saku_f1_g_c_f"
 @plse set="sename='sak_A00007'"
 @【朔】
-アハハ、サトー頭カッタイもんね～。\nわかるー。朔、前にこぶし怪我しちゃった事あるもん
+Haha! Yeah, his head really is thick, isn’t it? I injured my fist on his head once.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -225,7 +225,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_a_a"
 @plse set="sename='kim_A00077'"
 @【祁門】
-………エ？　コブシ？
+…Huh? Fist?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -234,7 +234,7 @@
 @chara4.5 b="saku_b1_A002" f="saku_f1_e_a_f"
 @plse set="sename='sak_A00008'"
 @【朔】
-ウン、がつん！　って。\nなのにサトーってばゼンゼン平気そうなのよ、\nムカツク～
+Yeah, like POW! But Sato was like, totally fine. It pissed me off!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -243,7 +243,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_d_g_a"
 @plse set="sename='kim_A00078'"
 @【祁門】
-…………………\nやっぱりこのフタリコワイヨー
+…These two are really scary…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -253,7 +253,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_e_e2_g_a"
 @plse set="sename='sui_A00071'"
 @【水仙】
-サトーより強いって噂ガアルフタリダヨー。\n僕タチ分が悪スギルヨ
+I’ve heard they’re stronger than Sato-san… We wouldn’t stand a chance.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -262,7 +262,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_c_g_a"
 @plse set="sename='gkr_A00074'"
 @【玉露】
-今はテキトーに話して、見逃して貰うヨ
+I’ll be honest… Can you please not tell anyone?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -271,7 +271,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_e_b_g"
 @plse set="sename='nag_A00004'"
 @【薙】
-………朔
+…Saku?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -280,7 +280,7 @@
 @chara4.5 b="saku_b1_A002" f="saku_f1_a_b_d"
 @plse set="sename='sak_A00009'"
 @【朔】
-なあに？　薙
+What, Nagi?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -289,7 +289,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_h_b_g"
 @plse set="sename='nag_A00005'"
 @【薙】
-…………………\nいいえ
+……Nothing.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -298,7 +298,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_a_a_g"
 @plse set="sename='nag_A00006'"
 @【薙】
-まあ、あの男から自立するのは悪い事ではないわ。\nいいんじゃないかしら、金魚達
+Well, be it far from us to do that man any favors. You’re off the hook, goldfish.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -308,7 +308,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00079'"
 @【祁門】
-ホント？　応援してクレル？
+Really? You’re helping us?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -317,7 +317,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_h_a_g"
 @plse set="sename='nag_A00007'"
 @【薙】
-この辺りを散策する事なら、特に構わないわ
+I just don’t see anything wrong with a small walk around town.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -326,7 +326,7 @@
 @chara4.5 b="saku_b1_A002" f="saku_f1_g_a_f"
 @plse set="sename='sak_A00010'"
 @【朔】
-気にくわないヤツだったら、追い出しちゃうケドね！
+If we don’t like someone, we drive ‘em out!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -335,7 +335,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_d_a_a"
 @plse set="sename='kim_A00080'"
 @【祁門】
-…………………\nやっぱりコワイヨー
+……So scary…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -344,7 +344,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00075'"
 @【玉露】
-ダイジョーブ。\nナワバリさえ荒らさなキャ、このフタリは何もシナイヨ
+It’s fine. If you don't do anything on their territory, they’ll leave you alone.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -355,7 +355,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_e_e2_b"
 @plse set="sename='sui_A00072'"
 @【水仙】
-サッサと行くに限ルヨー
+Maybe we should go~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -365,7 +365,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_a_a_g"
 @plse set="sename='nag_A00008'"
 @【薙】
-あら、もう行くの？
+Oh, leaving already?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -374,7 +374,7 @@
 @chara3 b="sui_b1_A001" f="sui_f1_h_e2_g"
 @plse set="sename='sui_A00073'"
 @【水仙】
-ソウダヨ。\n僕タチ、忙しいンダヨ
+Yep! We’re busy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -384,7 +384,7 @@
 @chara1.5 b="nagi_b1_A001" f="nagi_f1_b_a_a"
 @plse set="sename='nag_A00009'"
 @【薙】
-そう。\n最近、この辺りに良くない奴らが増えているから、\nそれだけは気をつけてね
+I see. There are certain… detestable ones popping up more often recently. Take care now.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -393,7 +393,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00081'"
 @【祁門】
-………エ？\nヨクナイヤツ？
+Eh? Detestable…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -402,7 +402,7 @@
 @chara1.5 b="nagi_b1_A002" f="nagi_f1_h_a_g"
 @plse set="sename='nag_A00010'"
 @【薙】
-ええ。\n狭塔達にも、もう少ししっかりなさいと\n伝えておきなさい
+Indeed. Tell Sato he should be a bit more on top of things.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -410,7 +410,7 @@
 
 @plse set="sename='nag_A00011'"
 @【薙】
-私達、面倒見る為に居るんじゃないんだから
+We’re not here to take care of his mistakes.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -419,7 +419,7 @@
 @chara4.5 b="saku_b1_A001" f="saku_f1_g_b_d"
 @plse set="sename='sak_A00011'"
 @【朔】
-手伝わないから、ガンバってね！
+We can’t help you, but good luck!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -433,7 +433,7 @@
 
 @plse set="sename='kim_A00082'"
 @【祁門】
-………ア………
+…Ah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -448,7 +448,7 @@
 @trans-s
 @plse set="sename='sui_A00074'"
 @【水仙】
-…………………\n何のコトダロ？？？
+…What was that?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -457,7 +457,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00083'"
 @【祁門】
-サア………？
+…Who knows?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -466,7 +466,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_a"
 @plse set="sename='gkr_A00076'"
 @【玉露】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

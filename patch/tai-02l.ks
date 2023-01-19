@@ -31,7 +31,7 @@
 @messagelay
 @plse set="sename='sui_A00100'"
 @【水仙】
-ココハ………
+This is…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -40,7 +40,7 @@
 
 @plse set="sename='kim_A00107'"
 @【祁門】
-僕タチのお家ノ入り口ダヨー。\n戻ってキチャッタヨー
+The entrance to our home. We came back.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00097'"
 @【玉露】
-僕タチ、マダ戻るワケにはイカナイヨ。\n目的ヲ、達成するマデハ帰れナイヨー
+We can’t go home until we’ve completed our objective. We have to keep going.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_a_e"
 @plse set="sename='kim_A00108'"
 @【祁門】
-デモ、コウヤッテ改メテ入り口を見るト、\nナンダカ不思議ダネ
+But doesn’t looking at the entrance like this feel sorta weird and cool?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -67,7 +67,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_a_d"
 @plse set="sename='sui_A00101'"
 @【水仙】
-ソウダネー。\n普段ハ、ナカナカ来ないモンネ
+Yeah, yeah. We never ever come here.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -76,7 +76,7 @@
 @chara5 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00109'"
 @【祁門】
-ヤッパリこの辺リに来ルト、ナンダカ元気が出ルヨー
+Coming here is kinda exciting though~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -86,7 +86,7 @@
 @chara1 b="sui_b1_A001" f="sui_f1_g_a_d"
 @plse set="sename='sui_A00102'"
 @【水仙】
-ウン、ミコサマノお陰ダネー
+Yeah, thank you Mikoto-sama~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -95,7 +95,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00098'"
 @【玉露】
-水仙、祁門、和むノモイイケド、\nマダマダ僕タチヤルコトガアルヨ。\nソロソロイクヨー
+Suisen, Kiimun, it’s okay to get relaxed, but don’t get too relaxed. We still have stuff to do.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -105,7 +105,7 @@
 @chara5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00110'"
 @【祁門】
-………ア、ウン………
+…Okay…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -114,7 +114,7 @@
 @chara1 b="sui_b1_A001" f="sui_f1_a_a_g"
 @plse set="sename='sui_A00103'"
 @【水仙】
-ソーダッタ。\nジャ、暫くココとはお別れダネ
+Alright. Bye for now, entrance!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -123,7 +123,7 @@
 @chara5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00111'"
 @【祁門】
-…………………\nオワカレカー………
+…Goodbye…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -132,7 +132,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_a"
 @plse set="sename='gkr_A00099'"
 @【玉露】
-無事「食事」ガ終わったラ、マタ帰って来れるヨ。\nソレまでの辛抱ダヨー
+Once we complete our “Meal” safely we can go home. Hold out just a little longer.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @chara5 b="kim_b1_A001" f="kim_f1_h_d_g"
 @plse set="sename='kim_A00112'"
 @【祁門】
-…………………\nオトナにナルッテ、厳しいヨー
+….Becoming an adult… is hard.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -150,7 +150,7 @@
 @chara1 b="sui_b1_A001" f="sui_f1_g_a_e"
 @plse set="sename='sui_A00104'"
 @【水仙】
-イイヨ、ハヤク見つけてハヤクカエロー
+Okay, find ‘em quick and go home quick!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -159,7 +159,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_a"
 @plse set="sename='gkr_A00100'"
 @【玉露】
-水仙はキラクダネ。\nマ、僕モソー思うケド
+Suisen’s pretty carefree. I guess I am too.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -168,7 +168,7 @@
 @chara5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00113'"
 @【祁門】
-フタリトモ、結局ハヤク帰りたいンジャナイ………\nモー、ホントにハヤク行くヨー？
+You guys both seem like you want to go back soon… Let’s go, okay?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -177,7 +177,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_d"
 @plse set="sename='gkr_A00101'"
 @【玉露】
-ソウ言う祁門ガ一番帰りたいンでショー
+You’re the one who wants to go back the most, Kiimun.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -187,7 +187,7 @@
 @chara5 b="kim_b1_A001" f="kim_f1_a_b_i_ab"
 @plse set="sename='kim_A00114'"
 @【祁門】
-ソ、ソンナコトナイヨー！
+N-not true!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -196,7 +196,7 @@
 @chara1 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00105'"
 @【水仙】
-アハハ、フタリトモ行くヨー。\n次に戻るトキは、僕タチオトナダヨ！
+Ahaha, let’s go you guys. When we go back, we’re gonna be adults!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

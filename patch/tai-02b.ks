@@ -31,7 +31,7 @@
 @messagelay
 @plse set="sename='sui_A00041'"
 @【水仙】
-ドーコーカーナー美味しそうなヒトー♪\nトッテモオイシソウなヒットービットー♪
+Take the humans out to us, take the humans to us~ Find some tasty humans and we’ll have a Meal, I don’t care if we never go back~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -40,7 +40,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_b_e"
 @plse set="sename='kim_A00039'"
 @【祁門】
-アァ、ドンナヒトなのかなァ………ドキドキするヨ。\nイイニオイ、スルカナァ………
+Ah, I wonder what kind of human we’ll find… My heart is thumping! I hope it smells good…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_e"
 @plse set="sename='gkr_A00046'"
 @【玉露】
-サア、ソレハ逢ってミナイト分からナイヨ。\nソレニ、ソンナにすぐ見付かるものナラ、\nモット楽に暮らしてるヨ僕タチ
+Well, we’ll probably know when we meet them. If we find them soon, that’d be easier for all of us.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_a_e"
 @plse set="sename='kim_A00040'"
 @【祁門】
-ソウダヨネー。\nソウイエバ、ウチの神社のミンナの中デ、\n最近「食事」した人ッテイルっケ？
+Yeah, you’re right. By the way, has everyone else at the shrine had “Meals” lately?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -67,7 +67,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_g"
 @plse set="sename='sui_A00042'"
 @【水仙】
-サー、マタ足部サン達ガお客を食べちゃっタのナラ、\n知ってルケド
+Dunno. I’d definitely know if the Abe-sans definitely ate a customer recently.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -76,7 +76,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00047'"
 @【玉露】
-足部サン達ハ、お客でオイシソウなヒト、\nスグ見つケルからナー。\n好みの幅が広い人は得ダネ
+The Abe-sans eat all their customers… They have really broad tastes in people.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00041'"
 @【祁門】
-デモああいう無節操な大人にはナラナイっテ、\n決めてたデショー僕タチ
+Yeah, but we promised “never to be an unchaste adult like him”, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -104,7 +104,7 @@
 @trans-s
 @plse set="sename='m08_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -123,7 +123,7 @@
 @messagelay
 @plse set="sename='sui_A00043'"
 @【水仙】
-アッ、ダレカ来タ
+Oh, someone’s here.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -132,7 +132,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00048'"
 @【玉露】
-デモ、アレはハズレダネ。\nタダのヒトにしか見えないネー
+But it looks like a miss. He looks like any old human.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00042'"
 @【祁門】
-…………………\nマズソウ
+……Not good.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -163,7 +163,7 @@
 
 @plse set="sename='m08_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-………ん？\n何だよ、お前ら、人の事ジッと見て
+Huh? What is it, brats? Don’t you know it’s rude to stare?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -173,7 +173,7 @@
 @trans-s
 @plse set="sename='sui_A00044'"
 @【水仙】
-デモ、実際モンダイ、このヒトでも、\nオイシイって思うもののけはイルノ？
+But then does that mean that maybe some other mononoke would find this human delicious?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -182,7 +182,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00049'"
 @【玉露】
-そりゃイルんジャナイノ？\n………タブンダケド。\nヒトそれぞれ、イヤ、もののけそれぞれだヨ
+Do you really think so? …Actually, it’s likely. Humans are plentiful, no, mononoke are plentiful.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -191,7 +191,7 @@
 @chara5 b="hito_b09"
 @plse set="sename='m08_A00002'"
 @【ヒトビト】 name="f.name='Human'"
-ア？\nなんだァ？
+Huh? Whaddya say?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -200,7 +200,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00043'"
 @【祁門】
-ダトシタラ、他人ノ好みはワカンナイネ。\n悪趣味ダトしか思えナイヨー
+But then I don’t understand other mononoke’s likes, I guess. I can’t see him as anything other than in bad taste.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -208,7 +208,7 @@
 
 @plse set="sename='m08_A00003'"
 @【ヒトビト】 name="f.name='Human'"
-なんだかよくわからんが、失礼な事\n言いやがって！　ナメんじゃねーぞコラァ、\nガキだからって手加減しねーぞ！
+I… don’t get what you’re talkin’ about, but it sounds like you’re lookin’ down on me! You wanna go, brats? I won’t hold back even if you’re kids!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -217,7 +217,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_c_e"
 @plse set="sename='gkr_A00050'"
 @【玉露】
-ホントに、アンタみたいなのデモ、\n食べてクレル人が居るとイインダケド
+Actually, I really wish someone who’d want to eat this guy would show up already.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -227,7 +227,7 @@
 @trans-s
 @plse set="sename='sui_A00045'"
 @【水仙】
-誰にも相手ニされなかっタラ、\nカワイソウだもんネー。\n今度、ミンナに紹介シトクヨー
+It’d be unfortunate to be alone for your whole life~ Next time, we’ll introduce you to everyone.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -236,7 +236,7 @@
 @chara5 b="hito_b02"
 @plse set="sename='m08_A00004'"
 @【ヒトビト】 name="f.name='Human'"
-ハァ？　だから一体何が………
+What? Like I said, what are you…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -245,7 +245,7 @@
 @chara1.5 b="kim_b1_A001" f="kim_f1_h_d_g"
 @plse set="sename='kim_A00044'"
 @【祁門】
-早くダレカにオイシイって、食べて貰えるとイイネ。\n僕、応援シテルヨー
+I hope someone will come and eat you soon! We’re rooting for you~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -254,7 +254,7 @@
 @chara5 b="hito_b09"
 @plse set="sename='m08_A00005'"
 @【ヒトビト】 name="f.name='Human'"
-…………………。\nあのなァ………\n………いい加減に………
+Like I said… That’s enough out of…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -270,7 +270,7 @@
 @chara5 b="hito_b08"
 @plse set="sename='m08_A00006'"
 @【ヒトビト】 name="f.name='Human'"
-しろッ………！
+YOU!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -280,7 +280,7 @@
 @chara5 b="hito_b01"
 @plse set="sename='m08_A00007'"
 @【ヒトビト】 name="f.name='Human'"
-……………………………………ん？
+…Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -298,7 +298,7 @@
 @messagelay
 @plse set="sename='kim_A00045'"
 @【祁門】
-他人の嗜好ッテ、ホント不思議ダヨー。\nいつかワカル日が来るノカナー？
+Other mononoke’s tastes really are strange~ Hopefully the day when we understand will come soon enough.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -306,7 +306,7 @@
 
 @plse set="sename='gkr_A00051'"
 @【玉露】
-僕タチ好みが高尚だからショウガナイヨ。\nカンタンに見付かるようナノは口に合わナイんだヨー
+We just have refined palates, that’s all. We won’t find someone so easily~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -314,7 +314,7 @@
 
 @plse set="sename='sui_A00046'"
 @【水仙】
-ソーソー、次いこ次ー
+Yep! Onto the next!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -329,7 +329,7 @@
 @chara3 b="hito_b01"
 @plse set="sename='m08_A00008'"
 @【ヒトビト】 name="f.name='Human'"
-…………………\nおーい…………
+……Hey…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -337,7 +337,7 @@
 
 @plse set="sename='m08_A00009'"
 @【ヒトビト】 name="f.name='Human'"
-………あんまり人をナメんじゃねって………
+…Don’t underestimate me…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -345,7 +345,7 @@
 
 @plse set="sename='m08_A00010'"
 @【ヒトビト】 name="f.name='Human'"
-…………………\nグスン
+…*sob*
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

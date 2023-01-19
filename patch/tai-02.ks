@@ -74,7 +74,7 @@
 
 @plse set="sename='f01_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-………でさー
+…So, like…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -84,7 +84,7 @@
 @chara4.5 b="hito_b05"
 @plse set="sename='f02_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-今日どこか寄ってくー？
+Where’re we goin’ today?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -106,7 +106,7 @@
 @trans-n
 @plse set="sename='m01_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-最近なんかつまんないよなー
+Been real boring lately.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @chara1.5 b="hito_b07"
 @plse set="sename='m02_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-カラオケ飽きたよー曲増えなくて
+I’m sick of karaoke. No new songs.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -124,7 +124,7 @@
 @chara4.5 b="hito_b05"
 @plse set="sename='m01_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-どっか行こうぜー
+Where do we go?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -146,7 +146,7 @@
 @trans-n
 @plse set="sename='m03_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-アイツ馬ッ鹿じゃねーの、イヤんなるぜ
+That guy’s so stupid, I hate him~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -154,7 +154,7 @@
 
 @plse set="sename='m04_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-………だよなー
+…For sure.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -162,7 +162,7 @@
 
 @plse set="sename='m03_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-いなくなっちまえばいいのにな
+It’d be better if he disappeared.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -171,7 +171,7 @@
 @chara4.5 b="hito_b04"
 @plse set="sename='m04_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-それは言い過ぎだろー
+Maybe that’s a bit too far.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -193,7 +193,7 @@
 @trans-n
 @plse set="sename='m05_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-もうすぐ期末だよー全然勉強してねーよー
+‘S  almost first-term finals, man! I haven’t studied jack…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -202,7 +202,7 @@
 @chara4.5 b="hito_b09"
 @plse set="sename='m06_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-期末じゃなくて学年末だろー\nオレも勉強してないけど
+Not first-term, final finals.  And I haven’t studied either. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -226,7 +226,7 @@
 @trans-n
 @plse set="sename='f03_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-今日はテレビの日だね～。\n早く帰ろー
+Let’s go see what’s on TV today~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -235,7 +235,7 @@
 @chara4.5 b="hito_b04"
 @plse set="sename='f04_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-イゴイゴーイゴイゴー
+Igo-Igo-Igo-Igo~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -244,7 +244,7 @@
 @chara1.5 b="hito_b05"
 @plse set="sename='f03_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-全てを壊しーそれから創るー
+Destroy everything~ Then build it up again~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -262,7 +262,7 @@
 @trans-n
 @plse set="sename='szk_A00000'"
 @【鈴来くん】 name="f.name='Suzuki'"
-…………………
+….
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -270,7 +270,7 @@
 
 @plse set="sename='szk_A00001'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ハァ………
+…Haah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -279,7 +279,7 @@
 @chara3 b="sora_b1_A001" f="sora_f1_b_c_g"
 @plse set="sename='szk_A00002'"
 @【鈴来くん】 name="f.name='Suzuki'"
-どうしよう………
+What do I do…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -288,7 +288,7 @@
 @chara3 b="sora_b1_A001" f="sora_f1_h_c_g"
 @plse set="sename='szk_A00003'"
 @【鈴来くん】 name="f.name='Suzuki'"
-悩むなァ………\n………ハァ………
+This is troubling…Haaah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -315,7 +315,7 @@
 @messagelay
 @plse set="sename='gkr_A00032'"
 @【玉露】
-………サテ。\n着いたはイイケド、まずドコへ行こうカ？
+…Okay then. It’s good we got here, but where do we go now?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -324,7 +324,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_d_g"
 @plse set="sename='sui_A00027'"
 @【水仙】
-何の下調べも無シに来チャッタケド、\n僕タチの食事っテ、一体何処ニ行けばアルのかナ？
+We’ve never done a preliminary investigation or anything. Our “Meals”, where do we even go for them?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -333,7 +333,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00026'"
 @【祁門】
-ソーソー。\n僕タチの為ダケの、最高の「食事」が、\nコノ街のドコカにアルんだよネ？
+Yeah, yeah. We want the best and awesomest “Meal”, just for us. Where in this town do you find it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -342,7 +342,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_a"
 @plse set="sename='gkr_A00033'"
 @【玉露】
-ウン。\nサトーや、食べたコトのアル皆に拠るト、
+We always depended on Sato-san and everyone else to get us food.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -351,7 +351,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00034'"
 @【玉露】
-自分にトッテ一番イイ「食事」は、\nダイタイハジメから見れば解るんだっテ
+From what I get, we’ll know the best “Meal” for us as soon as we see it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -360,7 +360,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00035'"
 @【玉露】
-ダカラ、マズはこの街を適当ニ見て回レバ\nイイと思うヨー
+So first off, we should thoroughly survey the town!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -369,7 +369,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00028'"
 @【水仙】
-ヘー、ソレは簡単でイイネー
+Wow, that sounds so easy, that’s great~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -378,7 +378,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_a"
 @plse set="sename='kim_A00027'"
 @【祁門】
-確かに、ヒトビトっテドウ見てもマズソウだモンネー。\nドンナにお腹が空いているカラっテ、\nアレを食べるのはチョットヤダナ
+Are humans really so tasty? I don’t think I’d eat any, even if I was hungry.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -387,7 +387,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_d"
 @plse set="sename='sui_A00029'"
 @【水仙】
-ソーソ、お腹壊シそうだモンネー。\nオイシイものがホントにオイシソウに見えるなら、\nきっとすぐ見付かるヨ
+Yeah, yeah! They might give you a stomachache. I’m sure if something really tasty shows up, we’ll be able to tell.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -396,7 +396,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00030'"
 @【水仙】
-ヨーし、ジャア早速探しに行こウ！
+Awright! Let’s goooo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -405,7 +405,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_g_b_d"
 @plse set="sename='kim_A00028'"
 @【祁門】
-オー！
+Woo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -414,7 +414,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_e"
 @plse set="sename='gkr_A00036'"
 @【玉露】
-トリアエズ、ヒトビトが居そうナ所に行ってミヨウヨ。\n数打てば当タルってヤツダヨー
+First, we should find somewhere where it looks like a lot of people will be. It’s like the Law of Great Numbers, or something.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -423,7 +423,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_b_e"
 @plse set="sename='kim_A00029'"
 @【祁門】
-僕、街ニ下りるノチョーヒサシブリダカラ、\nナンダカワクワクスルヨ～。\nオイシイモノ、イッパイ見付かるトイイナ～
+It’s been so long since I got to go to the town. I hope there’s lotsa good stuff!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -432,7 +432,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_e2_e"
 @plse set="sename='sui_A00031'"
 @【水仙】
-今日はサトーも居ないシ、スキに回るゾー
+Sato’s not here today, so we get to go wherever we want!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -441,7 +441,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_d"
 @plse set="sename='gkr_A00037'"
 @【玉露】
-………僕タチの為の、サイコウの「食事」………\nどこに居るのかなア？
+…I wonder, where might our greatest Meal be…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

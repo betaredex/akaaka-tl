@@ -44,7 +44,7 @@
 @messagelay
 @plse set="sename='krg_A00000'"
 @【黒狐】
-おーいユエーッ
+Oi, Yueee!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -63,7 +63,7 @@
 @trans-n
 @plse set="sename='krg_A00001'"
 @【黒狐】
-おい由、起きろよもう昼だぞーッ！
+Oi Yue, wake up! It’s noon already!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -71,7 +71,7 @@
 
 @plse set="sename='yue_A00000'"
 @【由】
-…………………\nう～ん……………
+…Mmmgh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -80,7 +80,7 @@
 @chara3 b="kokko_b1_A005" f="kokko_f1_a_a_i" o="kokko_o1"
 @plse set="sename='krg_A00002'"
 @【黒狐】
-朝飯食ったからってゴロゴロいつまでも\n二度寝してんじゃねえよ！\n昼飯の時間になっちまうぞっ
+The second you finished breakfast, you went back to sleep! Now it’s lunch already!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -88,7 +88,7 @@
 
 @plse set="sename='yue_A00001'"
 @【由】
-…………………\n………んー………
+…Mmm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -97,7 +97,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_g_e_i" o="kokko_o1"
 @plse set="sename='krg_A00002'"
 @【黒狐】
-ほら由、おーきーろー！\n起きろオキロおきろーーーーっ！\nおーーーーい！！！
+Yue! Wake. Up! Wake up, wake up, wake up, wake up! OI!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -106,7 +106,7 @@
 
 @plse set="sename='yue_A00002'"
 @【由】
-………んー………ウン…………
+…Fine…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_a_a_a" o="kokko_o1"
 @plse set="sename='krg_A00004'"
 @【黒狐】
-…………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -123,7 +123,7 @@
 
 @plse set="sename='yue_A00003'"
 @【由】
-…………………\nくう………すぴー………
+…Zzz…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -132,7 +132,7 @@
 @chara3 b="kokko_b1_A006" f="kokko_f1_b_a_g_a" o="kokko_o1"
 @plse set="sename='krg_A00005'"
 @【黒狐】
-…………………\nあのなあ………
+…This little…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -140,7 +140,7 @@
 
 @plse set="sename='krg_A00006'"
 @【黒狐】
-お前、その寝言なんだか返事してんだか\nわからない発言ヤメロよな。\n聞いてないなら聞いてないってちゃんと言え！
+Look, I don't know whether you're talking in your sleep or actually respondin’. If you're not listenin’, just say you're not listenin’!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -148,7 +148,7 @@
 
 @plse set="sename='yue_A00004'"
 @【由】
-…………………\n………聞いてない………\nむにゃ………
+…I’m not listening.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -157,7 +157,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_a_e_i_a" o="kokko_o1"
 @plse set="sename='krg_A00007'"
 @【黒狐】
-ってシッカリ聞こえてんじゃねーか！\nチクショー、座布団ひっくり返すぞコラァ！
+I heard you answer that just now! Don’t make me flip your futon, dumbass!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -165,7 +165,7 @@
 
 @plse set="sename='yue_A00005'"
 @【由】
-…………………\nんー………くろぎつね………
+…Kurogitsune…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -173,7 +173,7 @@
 
 @plse set="sename='krg_A00008'"
 @【黒狐】
-あん？
+Yeah?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -181,7 +181,7 @@
 
 @plse set="sename='yue_A00006'"
 @【由】
-…………………\n………ウルサイ………むにゃむにゃ
+…Annoying… Zzz…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -190,7 +190,7 @@
 @chara3 b="kokko_b1_A006" f="kokko_f1_b_a_g_a" o="kokko_o1"
 @plse set="sename='krg_A00009'"
 @【黒狐】
-夢心地のまま喧嘩売るんじゃねえよ！\nチッ、しょーがねえな………
+You tryin’ to start a fight in your dreams?! Tch, fine, guess I gotta…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -199,7 +199,7 @@
 @chara3 b="kokko_b1_A006" f="kokko_f1_a_e_a_a" o="kokko_o1"
 @plse set="sename='krg_A00010'"
 @【黒狐】
-こういう状態の時のコイツは何やっても\n無駄だからな………
+Not much you can do when he’s like this…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -208,7 +208,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_e_a_i" o="kokko_o1"
 @plse set="sename='krg_A00011'"
 @【黒狐】
-いっそ歌でも歌うか？\nスゲー目覚め良さそうなヤツ
+Maybe I oughta sing? That wakes him up real fast.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -217,7 +217,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_g_a_e" o="kokko_o1"
 @plse set="sename='krg_A00012'"
 @【黒狐】
-イゴイゴ歌っちゃうか～？？？
+What song… Maybe Igo Igo’s theme??
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -225,7 +225,7 @@
 
 @plse set="sename='yue_A00007'"
 @【由】
-………うた………
+…Song…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -234,7 +234,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_a_a_e" o="kokko_o1"
 @plse set="sename='krg_A00013'"
 @【黒狐】
-………ん？　どーした？\n何かリクエストかよ？
+Hm? Got a request?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -242,7 +242,7 @@
 
 @plse set="sename='yue_A00008'"
 @【由】
-………聞こえてた気がする………
+…I can hear a song…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -251,7 +251,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_a_e2_i" o="kokko_o1"
 @plse set="sename='krg_A00014'"
 @【黒狐】
-ア？　まだ歌ってねーぞおれは！！！
+Huh? I’m not singing yet, idiot!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -259,7 +259,7 @@
 
 @plse set="sename='yue_A00009'"
 @【由】
-………ゆめ………聞こえてた………\n誰かのうたが………
+…In my dream… I can hear a song… A song someone’s singing…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -268,7 +268,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_a_a_a" o="kokko_o1"
 @plse set="sename='krg_A00015'"
 @【黒狐】
-ユメ？　あー、夢の話か。\nどんなん見てたんだよ、オマエ
+Dream? Ah, dream-talk. I wonder what he’s seeing right now?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -276,7 +276,7 @@
 
 @plse set="sename='yue_A00010'"
 @【由】
-…………………\nあかい………
+…Crimson…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -285,7 +285,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_a_e2_i" o="kokko_o1"
 @plse set="sename='krg_A00016'"
 @【黒狐】
-あん？　よく聞こえねーよ
+Huh? Speak up!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +293,7 @@
 
 @plse set="sename='yue_A00011'"
 @【由】
-………さいて………かれ………くー………
+Blooming… Withering… Zzz…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -302,7 +302,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_h_e_i" o="kokko_o1"
 @plse set="sename='krg_A00017'"
 @【黒狐】
-最低なカレー？\nバッカ、カレーに最低なんてあるかよ\nカレーはいつでも最高だッ！
+Booming? Watering? Listen, I’m not about to have you start a water balloon fight today!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -310,7 +310,7 @@
 
 @plse set="sename='yue_A00012'"
 @【由】
-………………………………………………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -319,7 +319,7 @@
 @chara3 b="kokko_b1_A006" f="kokko_f1_b_e2_a_a" o="kokko_o1"
 @plse set="sename='krg_A00018'"
 @【黒狐】
-………オマエ寝てるんなら、\n寝顔でダメ出しすんなよな………
+If you’re sleeping, don’t make that kind of face…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -327,7 +327,7 @@
 
 @plse set="sename='yue_A00013'"
 @【由】
-…………………\nも、いーから寝かせておいてよ………\n眠いんだよ、ふぁ～
+…Just let me sleep already… I’m tired… Haah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -336,7 +336,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_a_e2_i" o="kokko_o1"
 @plse set="sename='krg_A00019'"
 @【黒狐】
-勿体ねーだろ、折角良い天気なのによ。\nこんな日はこんな日なりにいろいろやる事もあんだろ、\n釣りとか花摘みとか山荒らしとか！
+What a waste of a beautiful day! I'm sure there are plenty’a things to do on a day like this, like fishing, picking flowers, tearing up the mountains…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -344,7 +344,7 @@
 
 @plse set="sename='yue_A00014'"
 @【由】
-ウン、おかげですごく気持ちいい………\n寝るのが………ぐう
+…Mmm, it definitely makes me feel good… about sleeping…Zzz…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -353,7 +353,7 @@
 @chara3 b="kokko_b1_A001" f="kokko_f1_g_e_i_ab" o="kokko_o1"
 @plse set="sename='krg_A00020'"
 @【黒狐】
-～～～～～～ッックソッ！\nとにかく起きろよっ！　外で待ってるからな！！！\nこなかったら怒るからな！！！！
+Grrr!! Wake up!! I’ll be waiting outside! If you don’t come I’ll get really mad!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -370,7 +370,7 @@
 @messagelay
 @plse set="sename='yue_A00015'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -385,7 +385,7 @@
 @messagelay
 @plse set="sename='yue_A00016'"
 @【由】
-…………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -393,7 +393,7 @@
 
 @plse set="sename='yue_A00017'"
 @【由】
-おなかがすいて、ちからがでない………
+When my stomach’s empty, I don’t have any strength…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

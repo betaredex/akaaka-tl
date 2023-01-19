@@ -32,7 +32,7 @@
 
 @plse set="sename='sui_A00032'"
 @【水仙】
-ハァ………
+…Haaah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -41,7 +41,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_g"
 @plse set="sename='kim_A00030'"
 @【祁門】
-ツカレタネ………
+I’m tired.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -51,7 +51,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00038'"
 @【玉露】
-ゼンゼン見付かんナイ………\n僕タチの、「食事」………
+We didn’t find anything like a “Meal”…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -60,7 +60,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_c_b"
 @plse set="sename='sui_A00033'"
 @【水仙】
-オナカスイタヨー……
+I'm hungry...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -69,7 +69,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_a_b"
 @plse set="sename='kim_A00031'"
 @【祁門】
-このままジャ、僕タチ、\nカピカピに干涸びチャウヨー………
+At this rate, we're gonna become all dried out...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -78,7 +78,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_c_g"
 @plse set="sename='gkr_A00039'"
 @【玉露】
-水………\n水のあるトコ………行こうカ………
+Water... Let's go somewhere with water...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -88,7 +88,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_c_g"
 @plse set="sename='sui_A00034'"
 @【水仙】
-ウン………ソウダヨネ………\n水サエアレば、とりあえズ大丈夫だモンネ、\n僕タチ………
+Yeah...That's right... As long as we have water, everything will be alright...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -97,7 +97,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_a"
 @plse set="sename='kim_A00032'"
 @【祁門】
-ソウダ、川行コウ………
+Right, let's go to the river…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

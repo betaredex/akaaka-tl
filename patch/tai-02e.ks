@@ -31,7 +31,7 @@
 @messagelay
 @plse set="sename='gkr_A00059'"
 @【玉露】
-ナンカヒトビトッ気がナイネ、この辺
+There aren’t any humans here…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -40,7 +40,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00055'"
 @【祁門】
-ウン………ソレに、ナンカ、デッカイおうちが多イヨー
+Yeah… But there are a lot of really big houses.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_d_g"
 @plse set="sename='sui_A00054'"
 @【水仙】
-コノウチなんテ、今通って来たトコロの中デ、\n一番デカイヨー。この家にナラ、\nモシカシテ僕タチの「食事」、居ル？
+This is the biggest house I've ever been to. Maybe our “Meal” is somewhere inside?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -70,7 +70,7 @@
 @messagelay
 @plse set="sename='m09_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-あれ、どうしたの君達。\nこのお宅に何か用かい？
+Oh, hello there. Do you three have some business with this household?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -79,7 +79,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_a_e"
 @plse set="sename='sui_A00055'"
 @【水仙】
-ウウン別ニ。\nタダ、でっかいカラ、見てたダケダヨー
+Nope. It’s just so big, we had to stop and look.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -88,7 +88,7 @@
 @chara4.5 b="hito_b05"
 @plse set="sename='m09_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-ああ、凄いおうちだよねえ。\nここは大地主さんのお宅だよ
+Oh, it's a great house, isn't it? This is a big landowner's house.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -97,7 +97,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_a_e"
 @plse set="sename='kim_A00056'"
 @【祁門】
-………オオジヌシ？\nソレッテオイシイノカナ？
+…Landowner…? Is that something tasty?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -106,7 +106,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_h_c_a"
 @plse set="sename='gkr_A00060'"
 @【玉露】
-…………………祁門
+……Kiimun…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @chara4.5 b="hito_b01"
 @plse set="sename='m09_A00002'"
 @【ヒトビト】 name="f.name='Human'"
-そうそう、この辺り一帯の土地は、\n元は、ほとんどここの大地主さんの物\nだったんじゃないかなァ
+Oh yes, I think almost all of the land around here used to belong to the landowner.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -125,7 +125,7 @@
 @chara4.5 b="hito_b02"
 @plse set="sename='m09_A00003'"
 @【ヒトビト】 name="f.name='Human'"
-この街には、そういう土地が多いらしいよ
+I hear there's a lot of land like that in this city.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -133,7 +133,7 @@
 
 @plse set="sename='m09_A00004'"
 @【ヒトビト】 name="f.name='Human'"
-おじさんも、お手紙の配達の時に伺うんだけど、\n中もすっごい立派でねえ
+My uncle goes inside when he delivers letters, and the inside of the house is really nice, too!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -142,7 +142,7 @@
 @chara4.5 b="hito_b08"
 @plse set="sename='m09_A00005'"
 @【ヒトビト】 name="f.name='Human'"
-いやあ、\n一度はこういう家に住んでみたいもんだねえ～
+Just imagine living here for a day…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -152,7 +152,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00056'"
 @【水仙】
-ナニイッテルノコイツ。\nこの空環の土地ハ、ゼンブミコサマのモノダヨー。\nソコニ飼われてるダケの癖に、ヨクイウヨ
+What’s he talking about? Everywhere in Utsuwa is Miko-sama’s land! You’re just like a pet to her. How sad~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -161,7 +161,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_h_b_e"
 @plse set="sename='kim_A00057'"
 @【祁門】
-ショーガナイヨ、\nヒトビトはソレヲ知ラナイんダカラ
+There’s no point. Humans won’t understand that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -169,7 +169,7 @@
 
 @plse set="sename='kim_A00058'"
 @【祁門】
-金魚鉢の中で\nナワバリ争いシテルようなモノダヨー
+It's like fighting for territory in a goldfish bowl~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -178,7 +178,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00061'"
 @【玉露】
-………オオジヌシ………\nサトーが言ってタ………
+…Landowner… Sato-san said something about that…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -187,7 +187,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00059'"
 @【祁門】
-ン？　ドウシタノ玉露
+Hm? What is it, Gyokuro?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -196,7 +196,7 @@
 @chara1.5 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00062'"
 @【玉露】
-オモイダシタヨ。\nココはダメダヨ、別のトコニ行コー
+I remembered. This place is bad news. We gotta go somewhere else.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -207,7 +207,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00057'"
 @【水仙】
-エ？　エ？
+Huh? What?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -216,7 +216,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00060'"
 @【祁門】
-玉露ー？
+Gyokuro…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -233,7 +233,7 @@
 @chara3 b="hito_b01"
 @plse set="sename='m09_A00006'"
 @【ヒトビト】 name="f.name='Human'"
-…………………？
+………Hm? 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -243,7 +243,7 @@
 @chara3 b="hito_b02"
 @plse set="sename='m09_A00007'"
 @【ヒトビト】 name="f.name='Human'"
-おーい、ぼうや達～？
+Hey! Boys!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -265,7 +265,7 @@
 @trans-s
 @plse set="sename='sui_A00058'"
 @【水仙】
-急にドシタノ、玉露。ビックリシタヨ
+Hey, you scared us, Gyokuro!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -273,7 +273,7 @@
 
 @plse set="sename='kim_A00061'"
 @【祁門】
-アノオウチ、一体何ナノ？
+What’s up with that house?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -282,7 +282,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_g"
 @plse set="sename='gkr_A00063'"
 @【玉露】
-アノ家ハ、サトーの獲物ダヨ。\nダカラ、近づいちゃダーメ
+That house is Sato-san’s prey’s house. We can’t go near it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -291,7 +291,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_a_e"
 @plse set="sename='kim_A00062'"
 @【祁門】
-…………………\nアァー
+…Oooohhh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -300,7 +300,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_e"
 @plse set="sename='sui_A00059'"
 @【水仙】
-ソッカ、アノ家カァ
+Right, that house.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -309,7 +309,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_g"
 @plse set="sename='gkr_A00064'"
 @【玉露】
-サトーが近づくナって、イツモ言ってたデショ？
+Sato-san always tells us to stay away, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -318,7 +318,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00063'"
 @【祁門】
-サトーサン、そのハナシするトキ、\nちょっとコワイモんネ
+He’s kinda scary when he says that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -327,7 +327,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_g_a_e"
 @plse set="sename='gkr_A00065'"
 @【玉露】
-ダカラ、僕タチは僕タチノ「食事」を探ソー
+Then, let’s go search for our own Meals~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -336,7 +336,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00060'"
 @【水仙】
-オー
+Woo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -345,7 +345,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_g_b_d"
 @plse set="sename='kim_A00064'"
 @【祁門】
-オー！
+Wooo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

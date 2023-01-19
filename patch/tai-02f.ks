@@ -29,7 +29,7 @@
 @messagelay
 @plse set="sename='f06_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-ねえねえ、最近物騒よねえ
+Things have been way crazy lately.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -37,7 +37,7 @@
 
 @plse set="sename='f07_A00000'"
 @【ヒトビト】 name="f.name='Human'"
-そうそう、ホントなんかイヤよね～。\n連続殺人事件が流行っているんでしょう？
+I know, right? Serial murder cases keep popping up, one after the other.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -46,7 +46,7 @@
 @chara4.5 b="hito_b01"
 @plse set="sename='f06_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-え？　私は、連続誘拐事件って聞いたけど………
+Huh? I thought I heard they were serial kidnappings…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -54,7 +54,7 @@
 
 @plse set="sename='f07_A00001'"
 @【ヒトビト】 name="f.name='Human'"
-あら？\n貴方、一体どなたから聞いたの？
+Huh? Who’d you hear that from?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -63,7 +63,7 @@
 @chara4.5 b="hito_b09"
 @plse set="sename='f06_A00002'"
 @【ヒトビト】 name="f.name='Human'"
-私は………えーと、誰だったかしら………？
+I… Er, who did I hear that from…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -72,7 +72,7 @@
 @chara1.5 b="hito_b15"
 @plse set="sename='f07_A00002'"
 @【ヒトビト】 name="f.name='Human'"
-私も、思い出せないわ～。\nでも、流行ってるのよねえ。\n確かにそう聞いたのよねぇ～
+I don’t remember who I heard it from either. But they’re definitely popping up!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -81,7 +81,7 @@
 @chara4.5 b="hito_b07"
 @plse set="sename='f06_A00003'"
 @【ヒトビト】 name="f.name='Human'"
-そうなのよねェ。聞いたのよねェ
+That’s true. I heard something like that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -90,7 +90,7 @@
 @chara1.5 b="hito_b17"
 @plse set="sename='f07_A00003'"
 @【ヒトビト】 name="f.name='Human'"
-ホント、恐いわね～～
+Pretty scary, yeah?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -111,7 +111,7 @@
 @messagelay
 @plse set="sename='sui_A00061'"
 @【水仙】
-………ダッテサ。\nフーン………
+…So then……Hm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00065'"
 @【祁門】
-ドコカのダレカガ、\nイッパイ「食事」、シタのカナー？
+Someone out there is pretty full of Meals, huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -130,7 +130,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_d_g"
 @plse set="sename='sui_A00062'"
 @【水仙】
-デモ、何も聞いテナイヨー。\nウチの神社のダレカジャアナイヨ
+But I haven’t heard anything like that. At least, there’s no one at the shrine like that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00066'"
 @【玉露】
-「食事」サレたヒトビトヲ、\n少しデモ覚えてるヒトビトが居るッテ事ハ、\nドコカにヘタクソに食べタヤツガ居ルんダヨ
+The fact that there are still humans who remember what was eaten ever existed means that they did a pretty bad job of eating.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -150,7 +150,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_c_e"
 @plse set="sename='sui_A00063'"
 @【水仙】
-ソレハダメダメダネー
+That’s no good at all!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -159,7 +159,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_b_e"
 @plse set="sename='kim_A00066'"
 @【祁門】
-ウン、綺麗に「食事」デキナイナンテ、\nもののけトシテ失格ダヨー。\nサトーサンに言っテ、オシオキして貰わナイト
+If you don’t do a pretty job of “eating”, then you’re disqualified from being a mononoke. Sato-san said he’d punish us if we did that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -168,7 +168,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_e"
 @plse set="sename='gkr_A00067'"
 @【玉露】
-僕タチは、モット上手くやるヨー。\n………ヒトビトの記憶の片隅ニモ残らナイように、\n丁寧にお行儀ヨクネ
+We’ll do better, then. We’ll make sure that not a single bit of memory stays behind in anyone’s head.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -177,7 +177,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00067'"
 @【祁門】
-エッ………\nデモ、もしマズイ部分トカアッタラ、\n残しちゃダメー？
+Uh… So if there are bad parts, we need to eat those too…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -186,7 +186,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_g"
 @plse set="sename='gkr_A00068'"
 @【玉露】
-ダメー、ゼッタイ
+Absolutely.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -194,7 +194,7 @@
 
 @plse set="sename='kim_A00068'"
 @【祁門】
-エー………\nデモ………
+Eh… But…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -203,7 +203,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_e"
 @plse set="sename='sui_A00064'"
 @【水仙】
-ダイジョーブダヨー。\n「食事」なんだカラ、ゼッタイオイシイヨー
+It’s fine! Our “Meal” will taste good, it’s gotta!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -212,7 +212,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_d_a"
 @plse set="sename='kim_A00069'"
 @【祁門】
-ウン………\nデモ、もし食べられナイトコロがアッタラ、\nフタリがタベテネ
+Okay… But if there’s anything I can’t eat, you two have to eat it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -221,7 +221,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00069'"
 @【玉露】
-祁門ハ、偏食ダヨー
+Kiimun… You need to have a balanced diet.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -230,7 +230,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00065'"
 @【水仙】
-ソレヲ言うナラ、食ワズ嫌いジャナイ？
+Come on, don’t knock it before you try it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -239,7 +239,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_f_d_a_b"
 @plse set="sename='kim_A00070'"
 @【祁門】
-ゼッタイダヨ、約束ダヨー
+Please! Promise me!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -248,7 +248,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_a"
 @plse set="sename='gkr_A00070'"
 @【玉露】
-アル意味ヘタクソなヤツよりタチが悪いヨ、祁門ハ
+In a way, you're worse than that guy, Kiimun.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -257,7 +257,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_e2_e"
 @plse set="sename='sui_A00066'"
 @【水仙】
-アハハ、イエテルー
+Ahaha, you tell him!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -266,7 +266,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_f_d_i_b"
 @plse set="sename='kim_A00071'"
 @【祁門】
-モー、フタリトモ僕ヨリ好き嫌いスクナイカラ、\nそう言うコト言えるンダヨー！
+Ugh, you two only say that because you’re not as picky as I am!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -275,7 +275,7 @@
 
 @plse set="sename='sui_A00067'"
 @【水仙】
-ハイハイ、ワカッタヨー、食べるヨー
+Fine, fine. Promise.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -284,7 +284,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00071'"
 @【玉露】
-ケド、祁門もナルベク食べなヨー？
+But you’ll eat what you can, right Kiimun?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +293,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_a_b"
 @plse set="sename='kim_A00072'"
 @【祁門】
-ウン、ガンバル………
+I’ll try…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

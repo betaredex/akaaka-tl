@@ -31,7 +31,7 @@
 @messagelay
 @plse set="sename='sui_A00092'"
 @【水仙】
-ココハ………？
+…What is this?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -40,7 +40,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00102'"
 @【祁門】
-…………………？？？\nてれびがイッパイダヨー
+??? It’s filled with televisions…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_e_a_g"
 @plse set="sename='gkr_A00094'"
 @【玉露】
-イッタイ何のお店ダロ？　デンキ屋サン？
+What kind of shop is this? An electronics store?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_d_g"
 @plse set="sename='sui_A00093'"
 @【水仙】
-デモ、カンケーナイモノもアルヨー。\nヨクワカンナイヨー
+But there’s things totally unrelated to electronics! I don’t get it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -71,7 +71,7 @@
 @chara4 b="kim_b1_A001" f="kim_f1_a_d_g_a"
 @plse set="sename='kim_A00103'"
 @【祁門】
-……………………\nネエ………
+…Uhh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -80,7 +80,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_a"
 @plse set="sename='sui_A00094'"
 @【水仙】
-ン？　ドウシタノ祁門
+Huh? What is it, Kiimun?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -89,7 +89,7 @@
 @chara4 b="kim_b1_A001" f="kim_f1_a_d_a_a"
 @plse set="sename='kim_A00104'"
 @【祁門】
-ナンカ、嫌ナ感じシナイ？
+Don’t you guys feel something’s… wrong?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -98,7 +98,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_a_g"
 @plse set="sename='sui_A00095'"
 @【水仙】
-嫌な感じッテ？
+Wrong how?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -107,7 +107,7 @@
 @chara4 b="kim_b1_A001" f="kim_f1_a_d_g_a"
 @plse set="sename='kim_A00105'"
 @【祁門】
-ナンカ………僕タチの大嫌イなヤツが、\n近くに来た時のカンジがスル………
+It’s like… our greatest enemy is just around the corner, or something…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -117,7 +117,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_c_b"
 @plse set="sename='sui_A00096'"
 @【水仙】
-エ？
+Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -126,7 +126,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_a_a_a_a"
 @plse set="sename='gkr_A00095'"
 @【玉露】
-…………………\n僕もスル………\nココ、アイツが居るヨー
+…I feel it too… Our enemy is here…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -135,7 +135,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_e2_b_a"
 @plse set="sename='sui_A00097'"
 @【水仙】
-エエエ？\nデ、デモ今の僕タチナラ大丈夫ダヨー？
+Eeeh? But with the three of us now, we can deal with it, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -144,7 +144,7 @@
 @chara4 b="kim_b1_A001" f="kim_f1_f_d_i_b"
 @plse set="sename='kim_A00106'"
 @【祁門】
-ダケド、引っかかれたら痛いヨ！\nウッカリタベラレチャッタラモット痛いヨー！
+But if you get scratched, it hurts! And if you get eaten, it hurts more!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -153,7 +153,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_a_e2_g_a"
 @plse set="sename='sui_A00098'"
 @【水仙】
-祁門、落ち着いテ………
+Kiimun, calm down…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -162,7 +162,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_c_g_a"
 @plse set="sename='gkr_A00096'"
 @【玉露】
-………ウン。\nデモ水仙、ココは、近づくノ止めてオコ？
+…Yeah. But Suisen, shouldn’t we get away from here right now?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -171,7 +171,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_e_e2_g_a"
 @plse set="sename='sui_A00099'"
 @【水仙】
-………ワカッタヨー
+…Fine.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -189,7 +189,7 @@
 @chara3 b="neko_b01"
 @plse set="sename='cat_A00000'"
 @【その他】 name="f.name='Sennen Cat'"
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -197,7 +197,7 @@
 
 @plse set="sename='cat_A00001'"
 @【その他】 name="f.name='Sennen Cat'"
-………ニャー
+…Meow.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

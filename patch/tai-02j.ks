@@ -26,7 +26,7 @@
 @trans-n
 @plse set="sename='krg_A00040'"
 @【黒狐】
-アッ………
+Uh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -43,7 +43,7 @@
 @trans-s
 @plse set="sename='sui_A00085'"
 @【水仙】
-アー
+Ah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -52,7 +52,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_a_e"
 @plse set="sename='kim_A00094'"
 @【祁門】
-黒狐ダー。\n何シテルノ、こんなトコで？
+Kurogitsune? What’re you doing here?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -61,7 +61,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_a_e2_i" o="kokko_o1"
 @plse set="sename='krg_A00041'"
 @【黒狐】
-テメーらこそ何してんだよ。\n狭塔様はどうしたんだ？
+What are YOU guys doing? Where’s Sato-sama?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -70,7 +70,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_g"
 @plse set="sename='gkr_A00090'"
 @【玉露】
-サトーの名前は今出さないでヨ。聞きたくナイヨ
+Don’t speak Sato-san’s name right now. We don’t wanna hear it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -79,7 +79,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_a_a_e" o="kokko_o1"
 @plse set="sename='krg_A00042'"
 @【黒狐】
-ハァ？\n何だ、お前ら狭塔様と喧嘩でもしたのかよ？　珍しい
+Huh? Wait, you mean you guys got inta a fight with Sato-sama? Now that’s somethin’ you don’t see everyday.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -88,7 +88,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_e2_g"
 @plse set="sename='sui_A00086'"
 @【水仙】
-黒狐ニハ、カンケーナイヨー
+Nothing you need to worry about, Kurogitsune~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -97,7 +97,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_a_a_i" o="kokko_o1"
 @plse set="sename='krg_A00043'"
 @【黒狐】
-あーん？\nマァ、そうだけどよ………
+What?? Oh, well, I guess not, but…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -106,7 +106,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00095'"
 @【祁門】
-ソンナコトヨリ、黒狐ハ？\nユエニ、元気ガデルモノ探しに来たンデショ。\n見付かっター？
+Anyways, what about you, Kurogitsune? You said you were looking for something that would cheer up Yue. Did you find it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_a_a_d" o="kokko_o1"
 @plse set="sename='krg_A00044'"
 @【黒狐】
-あ？\nアア、まーな。\nこれから行きつけの駄菓子屋に見繕いに行くところだよ
+Huh? Yeah, well, you know. I'm ‘bout to go to my favorite candy store to look for something.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -124,7 +124,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00087'"
 @【水仙】
-エー、駄菓子ー？\nソレ、黒狐がスキなダケジャン
+Candy?! You did that for yourself, Kurogitsune!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -133,7 +133,7 @@
 @chara5 b="kokko_b1_A006" f="kokko_f1_b_a_g_a" o="kokko_o1"
 @plse set="sename='krg_A00045'"
 @【黒狐】
-うっせえな。\n由は、そこで売ってるエビせんべいが好きなんだよ
+Shuddup. Yue loves the shrimp crackers they’ve got there.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -143,7 +143,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_d_g"
 @plse set="sename='kim_A00096'"
 @【祁門】
-ダメダヨ、\n具合悪いトキニ、消化に悪いモノアゲチャー。\nオタマジャクシダッテ、ソレクライ知ってるヨ
+That’s no good, Kurogitsune. You can’t digest things when you feel bad. You want to get something you can ladle into his mouth.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -152,7 +152,7 @@
 @chara5 b="kokko_b1_A006" f="kokko_f1_h_e_i" o="kokko_o1"
 @plse set="sename='krg_A00046'"
 @【黒狐】
-だーかーらー、\n元気になったら食べればいーだろうが
+Like. I. Said. This is for when he gets better!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -161,7 +161,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_h_e3_d" o="kokko_o1"
 @plse set="sename='krg_A00047'"
 @【黒狐】
-駄菓子はそれまでアイツの枕元に置いてやるんだ
+I'll leave the candy under his pillow ‘till then.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -170,7 +170,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_b_d_d" o="kokko_o1"
 @plse set="sename='krg_A00048'"
 @【黒狐】
-こういう時の飯は、\n結局ランチューのヤツの方が得意だしよ。\nおれに出来るのは、これくらいだから
+Ranchuu’s better at making food at times like this. This is about all I can do.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -179,7 +179,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_b_a_e"
 @plse set="sename='gkr_A00091'"
 @【玉露】
-フーン。\nデモソレ、我慢出来ナクテ、\n黒狐が先に食べチャウコースジャナイノー
+Hmm. But won’t you get impatient and eat it before he gets better?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -188,7 +188,7 @@
 @chara5 b="kokko_b1_A006" f="kokko_f1_b_a_i_a" o="kokko_o1"
 @plse set="sename='krg_A00049'"
 @【黒狐】
-るっせ。\nあとで欲しいって言っても、\nお前らには分けてやんないからな！
+Shaddap! Even if you want it later, I ain't sharing it with you guys!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -198,7 +198,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_e2_e"
 @plse set="sename='sui_A00088'"
 @【水仙】
-イラナイヨー。\n僕タチは、僕タチの為の「食事」を、\nコレカラ見つけに行くンダカラ
+We don’t want it. We’re off to find a “Meal” for us. That’s what we came to do.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -207,7 +207,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_a_a_a" o="kokko_o1"
 @plse set="sename='krg_A00050'"
 @【黒狐】
-…………………\n「食事」………？
+…”Meal”…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -216,7 +216,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_h_b_e"
 @plse set="sename='kim_A00097'"
 @【祁門】
-僕タチもののけにとって、一番大事なコトダヨ。\n僕タチそれで、\nサトーサンを越エル強イ漢にナルンダ！
+It’s the best thing imaginable for us mononoke. We’re going to eat it, and become strongmen who surpass even Sato!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -225,7 +225,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_e_b_i" o="kokko_o1"
 @plse set="sename='krg_A00051'"
 @【黒狐】
-………………\nあー………\nまァ、いいんじゃねェの………？
+…….Huh…Well, good luck with that…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -235,7 +235,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00089'"
 @【水仙】
-アッ、ナンダヨそのドーデモヨサソーナ態度ハ！\n黒狐ダッテ、イツマデモヒトビトの食べ物バッカリ\n食べテルカラ小さいママなんダロー
+Huh?! What’s up with your “who cares” attitude!? As long as you just go around eating human food like this, you’ll always be small and weak!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -244,7 +244,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_b_e_i_a" o="kokko_o1"
 @plse set="sename='krg_A00052'"
 @【黒狐】
-小さくねえよ、うっせえ！！！
+YOU’RE the small ones! Screw you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -253,7 +253,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_b_a_i_a" o="kokko_o1"
 @plse set="sename='krg_A00053'"
 @【黒狐】
-おれは、好きでコッチ食ってんだからいいんだよ。\nテメーラもテメーラで精々頑張んな
+I can eat whatever I damn well please! You have fun on your quest or whatever.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -262,7 +262,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_g"
 @plse set="sename='kim_A00098'"
 @【祁門】
-………黒狐はキョーミナイノ？\n「食事」………
+…Kurogitsune, you don’t care about the “Meal”...?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -271,7 +271,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_h_a2_i" o="kokko_o1"
 @plse set="sename='krg_A00054'"
 @【黒狐】
-おれがヒトビトの匂いがキライだって、\n知ってるだろ？
+I hate the smell of humans. Got it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -281,7 +281,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_h_e_a_a" o="kokko_o1"
 @plse set="sename='krg_A00055'"
 @【黒狐】
-あんなモン食えるかよ、\n菓子の匂いの方がよっぽどいいぜ
+I don’t get how you’d wanna put that in your mouth! I mean, candy smells way better.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -291,7 +291,7 @@
 @chara3 b="kim_b1_A001" f="kim_f1_a_b_a"
 @plse set="sename='kim_A00099'"
 @【祁門】
-………フーン………
+Hmmm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -301,7 +301,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_c_e"
 @plse set="sename='gkr_A00092'"
 @【玉露】
-ワカッタヨ。\n黒狐は、まだコドモナンダネ
+Got it. Kurogitsune is just a big baby.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -312,7 +312,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_h_c_e"
 @plse set="sename='sui_A00090'"
 @【水仙】
-大人の階段、上りタクナインダネ
+He doesn’t wish to climb the stairs of adulthood…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -321,7 +321,7 @@
 @chara5 b="kokko_b1_A001" f="kokko_f1_a_e_i_a" o="kokko_o1"
 @plse set="sename='krg_A00056'"
 @【黒狐】
-おれよりガキのテメーラに言われたくネェよ！！！\nったく………
+I don’t wanna hear that from someone younger than me! Geez…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -337,7 +337,7 @@
 @chara3 b="kokko_b3_A003" f="kokko_f3_a_e_i" o="kokko_o3"
 @plse set="sename='krg_A00057'"
 @【黒狐】
-とにかく、食事だかなんだか知らねーけど、\n早く帰らないと、狭塔様が心配するからな。\nちゃんと帰れよ！！！
+Anyways, Meal or whatever aside. Sato-sama’ll get worried if you guys don’t come back soon. Get back ‘fore dark, aight?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -354,7 +354,7 @@
 @trans-s
 @plse set="sename='kim_A00100'"
 @【祁門】
-…………………\n行っちゃっタ
+He’s gone.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -364,7 +364,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_b_e2_g"
 @plse set="sename='sui_A00091'"
 @【水仙】
-アイカワラズ生意気ダヨ、アイツー
+He’s still a cocky brat!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -373,7 +373,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_h_d_a_b"
 @plse set="sename='kim_A00101'"
 @【祁門】
-サトーサンが、僕タチの心配ナンテ\nシテクレル訳ナイヨー。\n………クスン
+There’s no way Sato-san would ever worry about us……*sob*
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -382,7 +382,7 @@
 @chara3 b="gyo_b1_A001" f="gyo_f1_h_a_g"
 @plse set="sename='gkr_A00093'"
 @【玉露】
-イイヨ、「食事」を見つケルまでノ、辛抱ダヨー。\nソレまで、ガンバロー
+Just hold on until we find our Meal, okay? It’ll be alright.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

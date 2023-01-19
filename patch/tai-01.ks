@@ -29,7 +29,7 @@
 @trans-n
 @plse set="sename='sui_A00000'"
 @【水仙】
-今日モイイ天気ダネー
+The weather is good today~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -37,7 +37,7 @@
 
 @plse set="sename='gkr_A00000'"
 @【玉露】
-ソウジビヨリダネ、サトー
+Perfect for sweeping, Sato~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -46,7 +46,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_e" o="kin_A001"
 @plse set="sename='sto_A00000'"
 @【狭塔】
-そうですねえ。\n気持ちの良い天気ですね
+Indeed it is. Good feelings come with good weather.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -55,7 +55,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_e" o="kin_A004"
 @plse set="sename='kim_A00000'"
 @【祁門】
-サトーサン、ソージスキダモンネー
+Sato-san loves cleaning~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -65,7 +65,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_g_a_e" o="kin_A004"
 @plse set="sename='sto_A00001'"
 @【狭塔】
-好きというより、性分なんですよ。これが。\nスッキリすると、気持ちが良いでしょう
+Rather than like, I would say it is in my very nature. When all is clean, I feel happy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -73,7 +73,7 @@
 
 @plse set="sename='sto_A00002'"
 @【狭塔】
-今日は、徹底的にこの辺りを掃除しましょうか
+Today I will be deep-cleaning this area.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -82,7 +82,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_g_a_e" o="kin_A001"
 @plse set="sename='kim_A00001'"
 @【祁門】
-デモ………
+But…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -91,7 +91,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_g_a_e" o="kin_A002"
 @plse set="sename='sui_A00001'"
 @【水仙】
-毎日ヤッテルンダカラ、ワザワザ改メテ\nスルコトナイト思ウケドネ
+You do it every day already, can’t you leave it for another time just once?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -99,7 +99,7 @@
 
 @plse set="sename='kim_A00002'"
 @【祁門】
-シーッ！\n水仙、ソレハイッチャダメ
+Shh! Suisen, don’t say that!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -108,7 +108,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_g_a_e" o="kin_A007"
 @plse set="sename='gkr_A00001'"
 @【玉露】
-サトーノイキガイダカラコレ
+It’s Sato’s purpose in life~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -117,7 +117,7 @@
 
 @plse set="sename='sui_A00002'"
 @【水仙】
-エー？
+Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -126,7 +126,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_h_a_e" o="kin_A007"
 @plse set="sename='sto_A00003'"
 @【狭塔】
-水仙、玉露、祁門。\n聞こえてますよ
+Suisen, Gyokuro, Kimun. I can hear you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -135,7 +135,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_h_a_e" o="kin_A001"
 @plse set="sename='sui_A00003'"
 @【水仙】
-アッ………
+Ah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -143,7 +143,7 @@
 
 @plse set="sename='gkr_A00002'"
 @【玉露】
-ウワッ………
+Ooh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -151,7 +151,7 @@
 
 @plse set="sename='sto_A00004'"
 @【狭塔】
-例え目には見えなくとも、毎日塵は積もるものです
+Even if they are unseen to the naked eye, much accumulates each day.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -159,7 +159,7 @@
 
 @plse set="sename='sto_A00005'"
 @【狭塔】
-見えないからこそ、\nそのうちに処理しておかねば
+It is precisely because you cannot see it that it must be cleaned.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -167,7 +167,7 @@
 
 @plse set="sename='sui_A00004'"
 @【水仙】
-ソーユーモノ？
+Like that?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -177,7 +177,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_g_a_e" o="kin_A001"
 @plse set="sename='sto_A00006'"
 @【狭塔】
-そうですよ。\n………それに、ほら、そこに大きな黒い塊が………
+Yes. …Like this black bundle, you see?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -188,7 +188,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_g" o="kin_A001"
 @plse set="sename='sto_A00007'"
 @【狭塔】
-………？\nこれは大きい塵ですね
+…? This is quite the heap of dirt…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -197,7 +197,7 @@
 
 @plse set="sename='kim_A00003'"
 @【祁門】
-サトーサン………
+Sato-san…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -206,7 +206,7 @@
 
 @plse set="sename='gkr_A00003'"
 @【玉露】
-ソレ、塵ジャナクテ黒狐ダヨー
+That’s not dirt! It’s Kurogitsune!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -214,7 +214,7 @@
 
 @plse set="sename='sto_A00008'"
 @【狭塔】
-おや？
+Oho?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -232,7 +232,7 @@
 @trans-n
 @plse set="sename='krg_A00021'"
 @【黒狐】
-……………………………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -242,7 +242,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_h_d_a" o="kokko_o1"
 @plse set="sename='krg_A00022'"
 @【黒狐】
-ハァー…………………
+Haah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -251,7 +251,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A001"
 @plse set="sename='sto_A00009'"
 @【狭塔】
-どうしたんですか黒狐、こんな所で。\n余りにも沈みこんでいるものだから、\n塵と勘違いしてしまいましたよ
+What might you be doing here, Kurogitsune? You had become so depressed I nearly mistook you for the very earth itself.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -260,7 +260,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_h_d_a" o="kokko_o1"
 @plse set="sename='krg_A00023'"
 @【黒狐】
-………イエ…………\nスミマセン、おれ、邪魔で………
+Oh, no, I… Sorry, I was in the way…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -268,7 +268,7 @@
 
 @plse set="sename='sto_A00010'"
 @【狭塔】
-そんな事は言っていませんが
+That was not what I meant.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -276,7 +276,7 @@
 
 @plse set="sename='gkr_A00004'"
 @【玉露】
-モ、ソーユー扱イハシタヨネ
+But you were treating him like it was~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -284,7 +284,7 @@
 
 @plse set="sename='krg_A00024'"
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +293,7 @@
 
 @plse set="sename='kim_A00004'"
 @【祁門】
-ネエ、ドウシタノ黒狐？
+Hey, what’s wrong, Kurogitsune?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -302,7 +302,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A002"
 @plse set="sename='sui_A00005'"
 @【水仙】
-ホントに元気ナイヨ、珍シー
+You’re really down, that’s weird to see~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -311,7 +311,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_b_d_i" o="kokko_o1"
 @plse set="sename='krg_A00025'"
 @【黒狐】
-………別に………\n……………………………………ハァ
+Nothin’...... Haah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -319,7 +319,7 @@
 
 @plse set="sename='kim_A00005'"
 @【祁門】
-ナンカ口カラ出チャッテルヨー
+Something came out of his mouth just now~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -328,7 +328,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A001"
 @plse set="sename='sui_A00006'"
 @【水仙】
-イロイロハミダシチャッテルヨー
+It was a lot of air~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -337,7 +337,7 @@
 @chara1.5 b="sato_b1_A005" f="sato_f1_a_a_a" o="kin_A001"
 @plse set="sename='sto_A00011'"
 @【狭塔】
-………本当に元気がありませんね。\n普段は何もせずとも、騒々しいというのに
+…You really do seem troubled. Normally, you are quite boisterous even without having something to do.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -346,7 +346,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_b_d_a" o="kokko_o1"
 @plse set="sename='krg_A00026'"
 @【黒狐】
-…………………\nはー………
+Haah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -355,7 +355,7 @@
 
 @plse set="sename='gkr_A00005'"
 @【玉露】
-ドウセ、マタユエガ起キナイカラ、\n拗ネテルダケデショ。\nイツモノコトダヨ
+He’s just sad Yue won’t wake up. It’s just like always~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -363,7 +363,7 @@
 
 @plse set="sename='sui_A00007'"
 @【水仙】
-ア、ナンダソウイウコト？
+Oh, is it like that?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -372,7 +372,7 @@
 @chara1.5 b="sato_b1_A005" f="sato_f1_a_a_a" o="kin_A004"
 @plse set="sename='kim_A00006'"
 @【祁門】
-ネエ黒狐、ユエハー？　ネテルノー？
+Hey, Kurogitsune, is it true? Is he asleep?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -381,7 +381,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_h_d_a" o="kokko_o1"
 @plse set="sename='krg_A00027'"
 @【黒狐】
-うるっせェな………今調子悪ィんだよ
+Shuddup… Not feeling well…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -390,7 +390,7 @@
 @chara1.5 b="sato_b1_A005" f="sato_f1_a_a_a" o="kin_A001"
 @plse set="sename='kim_A00007'"
 @【祁門】
-エ？　ドコカ悪イノ？　黒狐
+Eh? What’s the problem, Kurogitsune?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -399,7 +399,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_b_d_i" o="kokko_o1"
 @plse set="sename='krg_A00028'"
 @【黒狐】
-おれじゃなくて、由がだよ。\n………最近また、なんかあんま具合よくない\nみたいでよ………
+Oh, not me, Yue is. Lately, he’s just seemed really outta sorts…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -408,7 +408,7 @@
 @chara1.5 b="sato_b1_A005" f="sato_f1_b_a_a" o="kin_A001"
 @plse set="sename='sto_A00012'"
 @【狭塔】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -416,7 +416,7 @@
 
 @plse set="sename='sui_A00008'"
 @【水仙】
-ヘー、ソレデ心配シテルンダ、成程
+Hmmm, so that’s what you’re worried about. I see~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -424,7 +424,7 @@
 
 @plse set="sename='gkr_A00006'"
 @【玉露】
-ホントユエガイナイトダメダネー黒狐ハ
+Really, Kurogitsune can’t do anything without Yue around~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -433,7 +433,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_h_d_i" o="kokko_o1"
 @plse set="sename='krg_A00029'"
 @【黒狐】
-るっせえな、逆だ逆。\n………ハァ………\n飯も朝昼、あんま食えてなかったみたいだしよ………
+Shuddup. It’s the other way around, y’hear? …It’s just, he hasn’t eaten either breakfast or lunch…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -442,7 +442,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_b_d_i" o="kokko_o1"
 @plse set="sename='krg_A00030'"
 @【黒狐】
-大丈夫かなアイツ………
+I really wonder if he’s okay…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -450,7 +450,7 @@
 
 @plse set="sename='sui_A00009'"
 @【水仙】
-ユエガゴハン食ベテナイノハ、\n半分寝テタカラダトオモウケドー
+Yue didn’t eat his food because he was half asleep~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -458,7 +458,7 @@
 
 @plse set="sename='gkr_A00007'"
 @【玉露】
-イツモノコトダヨネー
+It’s just like always~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -467,7 +467,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_h_d_a" o="kokko_o1"
 @plse set="sename='krg_A00031'"
 @【黒狐】
-なんか、精のつく美味いモン\n食わせてやりたいな……そしたら\nガツッと元気出るんじゃねーかな………
+I wanna give him somethin’ tasty to eat… Maybe that’ll cheer him up…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -476,7 +476,7 @@
 @chara1.5 b="sato_b1_A005" f="sato_f1_b_a_a" o="kin_A003"
 @plse set="sename='gkr_A00008'"
 @【玉露】
-アッ、スルーシタ。\n………ナマイキダナ
+He’s ignoring us! Cocky brat!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -484,7 +484,7 @@
 
 @plse set="sename='kim_A00008'"
 @【祁門】
-マーマー。\n精ガツクッテ、ソンナコト言ッテモ、\n一体何食ベサセルツモリ？
+Calm down. He said he wanted to cheer him up… What would you feed someone to do that?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -493,7 +493,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_a_a_a" o="kokko_o1"
 @plse set="sename='krg_A00032'"
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -502,7 +502,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A003"
 @plse set="sename='sto_A00013'"
 @【狭塔】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -510,7 +510,7 @@
 
 @plse set="sename='sui_A00010'"
 @【水仙】
-ヤモリトカ？
+A lizard?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -519,7 +519,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A001"
 @plse set="sename='gkr_A00009'"
 @【玉露】
-スッポン？　裏ノ池ニ居タヨネ確カ
+A turtle? Maybe the skin on the bottom is good~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -527,7 +527,7 @@
 
 @plse set="sename='kim_A00009'"
 @【祁門】
-ユエモ、サスガニ顔見知リハ嫌ダトオモウケド………
+I guess Yue must think of us as acquaintances he doesn’t like…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -536,7 +536,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_e_a_i" o="kokko_o1"
 @plse set="sename='krg_A00033'"
 @【黒狐】
-…………………\nそうか………
+…I see…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -546,7 +546,7 @@
 @chara4.5 b="kokko_b3_A001" f="kokko_f3_a_a_f" o="kokko_o3"
 @plse set="sename='krg_A00034'"
 @【黒狐】
-よーっし！\nおれちょっくら何か美味いモン探しに行って来る！
+Alright! I’m gonna go off and look for somethin’ tasty!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -554,7 +554,7 @@
 
 @plse set="sename='kim_A00010'"
 @【祁門】
-オオーイキナリダネ
+Oh, so sudden~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -563,7 +563,7 @@
 
 @plse set="sename='sui_A00011'"
 @【水仙】
-相変ワラズ突拍子ナイネ
+Marches to the beat of his own drum~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -572,7 +572,7 @@
 @chara4.5 b="kokko_b3_A001" f="kokko_f3_g_a_f" o="kokko_o3"
 @plse set="sename='krg_A00035'"
 @【黒狐】
-狭塔様、\nそういうわけでちょっと街行って来ますから！
+For that, Sato-sama, I need to head out to the town real quick!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -581,7 +581,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_a_a_g" o="kin_A001"
 @plse set="sename='sto_A00014'"
 @【狭塔】
-………黒狐
+…Kurogitsune.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -590,7 +590,7 @@
 @chara4.5 b="kokko_b3_A003" f="kokko_f3_g_a_f" o="kokko_o3"
 @plse set="sename='krg_A00036'"
 @【黒狐】
-大丈夫です、ちゃんと夕飯の時間までには\n帰ってきますんで！
+It’s fine, I’ll make sure to be back by dinner!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -599,7 +599,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_d_a_g" o="kin_A001"
 @plse set="sename='sto_A00015'"
 @【狭塔】
-別にそんな事の心配はしていませんが………。\n仕方ありませんね
+That was not what I was worried about, but… I suppose I cannot stop you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -608,7 +608,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_h_a_g" o="kin_A001"
 @plse set="sename='sto_A00016'"
 @【狭塔】
-行くのは良いですが、\nあまり悪さなどはしないように
+You may go, but try not to get yourself into trouble.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -617,7 +617,7 @@
 
 @plse set="sename='sto_A00017'"
 @【狭塔】
-それから、保健所には気をつけなさい。\n捕まっても迎えになど行きませんよ
+And be careful near the rescue shelter. They may catch you and put you up for adoption should they see you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -626,7 +626,7 @@
 @chara4.5 b="kokko_b3_A008" f="kokko_f3_a_a_g_a" o="kokko_o3"
 @plse set="sename='krg_A00037'"
 @【黒狐】
-エッ………？\nあ、ハイ………
+Huh? …Oh, right…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -635,7 +635,7 @@
 @chara1.5 b="sato_b1_A004" f="sato_f1_h_a_g" o="kin_A008"
 @plse set="sename='sui_A00012'"
 @【水仙】
-サトーソレ本気デ言ッテル？
+Is this the real Sato?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -644,7 +644,7 @@
 
 @plse set="sename='gkr_A00010'"
 @【玉露】
-サトーハイツデモ本気ダヨ
+Sato is always real~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -652,7 +652,7 @@
 
 @plse set="sename='kim_A00011'"
 @【祁門】
-ダヨネー
+That’s true~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -661,7 +661,7 @@
 @chara4.5 b="kokko_b3_A008" f="kokko_f3_e_a2_a_a" o="kokko_o3"
 @plse set="sename='krg_A00038'"
 @【黒狐】
-……………………………………\nなーんか引っ掛かるけど………\nま、いいか
+I feel like I just got mixed up in somethin’, but… Whatever!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -670,7 +670,7 @@
 @chara4.5 b="kokko_b3_A001" f="kokko_f3_g_a_f" o="kokko_o3"
 @plse set="sename='krg_A00039'"
 @【黒狐】
-じゃ、行ってきまーす！\nアバヨ金魚達！
+I’m going! Seeya, Goldfish!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -688,7 +688,7 @@
 @trans-s
 @plse set="sename='kim_A00012'"
 @【祁門】
-行ッチャッタ
+He’s gone~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -696,7 +696,7 @@
 
 @plse set="sename='gkr_A00011'"
 @【玉露】
-犬ハ単純デイイネ
+Simple like a dog~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -706,7 +706,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A002"
 @plse set="sename='sui_A00013'"
 @【水仙】
-デモ、僕タチモナンカ、オ腹空カナイ？\nソロソロオヤツノ時間ダヨ
+But aren’t we hungry by now? It’s probably snacktime now~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -715,7 +715,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A006"
 @plse set="sename='kim_A00013'"
 @【祁門】
-ソウダ、オヤツダオヤツー
+Yeah, snacks, snacks~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -725,7 +725,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_a" o="kin_A008"
 @plse set="sename='gkr_A00012'"
 @【玉露】
-サトー、ゴハンチョーダイ。\n今日ハイツモノヤツガイイー
+Sato, let us eat, today we want the usual~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -734,7 +734,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_d_a_g" o="kin_A008"
 @plse set="sename='sto_A00018'"
 @【狭塔】
-…………………\nああ、そうでした
+…Ah, yes.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -742,7 +742,7 @@
 
 @plse set="sename='gkr_A00013'"
 @【玉露】
-エ？
+Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -751,7 +751,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_g" o="kin_A008"
 @plse set="sename='sto_A00019'"
 @【狭塔】
-実は最近掃除に忙しくて、お前達の食事を\n切らしてしまっていたんですよ
+I had been so preoccupied with cleaning that I forgot I had run out of food for you three.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -762,7 +762,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_g" o="kin_A001"
 @plse set="sename='kim_A00014'"
 @【祁門】
-エッ………
+Eh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -771,7 +771,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_g" o="kin_A003"
 @plse set="sename='gkr_A00014'"
 @【玉露】
-ナッナナナナンデ！？
+W-w-w-w-whaaat??
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -780,7 +780,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_a_a_g" o="kin_A007"
 @plse set="sename='sui_A00014'"
 @【水仙】
-僕タチノゴハン無イノ！？　作ッテ無イノ！？
+There’s no food for us??? Nothing that can be made???
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -789,7 +789,7 @@
 @chara3 b="sato_b1_A003" f="sato_f1_g_a_e" o="kin_A007"
 @plse set="sename='sto_A00020'"
 @【狭塔】
-ええ。私とした事が。\nですからすみません、\n今日のところはこれで我慢してください
+Yes, and it is my fault, so I must apologize. Please bear with it for today.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -802,7 +802,7 @@
 
 @plse set="sename='gkr_A00015'"
 @【玉露】
-「ニコニコゲンキ」………ッテ、\nソレ市販品ノ餌ジャナイノ………
+“Smile Smile Healthy”... No, not that supermarket animal food…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -811,7 +811,7 @@
 
 @plse set="sename='sui_A00015'"
 @【水仙】
-僕タチニソンナ乾イテパサパサシタモノヲ\n食エッテ言ウノ………！？
+You’re telling us to eat that dry and crunchy stuff??
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -819,7 +819,7 @@
 
 @plse set="sename='kim_A00015'"
 @【祁門】
-サトーサン酷イヨーーーーーーー！！！
+Sato-san’s the woooooorst!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -828,7 +828,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_a_a_g" o="kin_A002"
 @plse set="sename='sto_A00021'"
 @【狭塔】
-…………………\nおやおや
+Oh my.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -837,7 +837,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_a_a_g" o="kin_A007"
 @plse set="sename='gkr_A00016'"
 @【玉露】
-僕タチハソコラノ金魚トハ違ウンダカラ、\nサトーノ作ッタゴハンジャナイト駄目ナンダヨ！
+I’m not like those other goldfish! I won’t eat anything Sato hasn’t made!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -846,7 +846,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_a_a_g" o="kin_A003"
 @plse set="sename='sui_A00016'"
 @【水仙】
-ズット一緒ニイルノニ、\nソンナコトモ解ッテクレテナカッタナンテ\n酷イヨー！！！
+We’ve been with you for so long… How can you do this to us now? You’re the worst!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -855,7 +855,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_a_a_g" o="kin_A005"
 @plse set="sename='kim_A00016'"
 @【祁門】
-僕タチノ事ナンテ、\nサトーサンドウデモイイノーーー！？
+For us, anything Sato-san makes is good!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -864,7 +864,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_g_a_e" o="kin_A005"
 @plse set="sename='sto_A00022'"
 @【狭塔】
-そんな事はありませんが。\n何分、切らした事に気付いたのが今朝でしたから
+It was not on purpose. After all, it was only this morning that I realized that I had run out.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -873,7 +873,7 @@
 
 @plse set="sename='sto_A00023'"
 @【狭塔】
-また作ってあげますから、\n今日のところはこれで我慢して下さい
+If you would like me to make some, you will have to exercise patience for today.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -882,7 +882,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_g_a_e" o="kin_A008"
 @plse set="sename='sui_A00017'"
 @【水仙】
-…………………ッッッ！！！\nツメタイ………！
+…!!! So cold…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -891,7 +891,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_g_a_e" o="kin_A006"
 @plse set="sename='gkr_A00017'"
 @【玉露】
-モウイイヨ！！！\nサトーハ僕タチヨリ掃除ノ方ガ大事ナンダヨ！\nワカッテタヨソンナコト！！！
+Enough!! Sato-san, aren’t we more important to you than cleaning? You have to understand at least that!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -900,7 +900,7 @@
 @chara3 b="sato_b1_A004" f="sato_f1_g_a_e" o="kin_A002"
 @plse set="sename='kim_A00017'"
 @【祁門】
-僕タチガ乾イタエサデ\nパサパサニナッチャッタラ………
+We’re going to have to eat that dry and crunchy stuff…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -908,7 +908,7 @@
 
 @plse set="sename='kim_A00018'"
 @【祁門】
-サトーサンニ掃イテ捨テラレチャウンダーッ！\nウワーーーン！！！！
+Sato-san has thrown us away!! Waaaaaaaah!!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -917,7 +917,7 @@
 @chara3 b="sato_b1_A005" f="sato_f1_d_a_g" o="kin_A002"
 @plse set="sename='sto_A00024'"
 @【狭塔】
-…………………\nこれは困りましたね、やれやれ
+…My, how troubling…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -925,7 +925,7 @@
 
 @plse set="sename='gkr_A00018'"
 @【玉露】
-ゼンゼン困ッテナイ顔デ言ウナー！！！
+You say that, but you don’t seem troubled at all!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -941,7 +941,7 @@
 @trans-n
 @plse set="sename='ran_A00000'"
 @【嵐昼】
-………お取り込み中のところすみません。\n狭塔様、少々宜しいですか？
+…I apologize for the interruption. Sato-sama, do you have a moment?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -950,7 +950,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_a_a_g" o="kin_A002"
 @plse set="sename='sto_A00025'"
 @【狭塔】
-嵐昼。\nどうしましたか
+Ranchuu. What is it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -959,7 +959,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_h_a2_g"
 @plse set="sename='ran_A00001'"
 @【嵐昼】
-兎たちが戻って参りました。\n狭塔様にご報告があるそうです
+The rabbits have returned. It seems they have a report for you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -968,7 +968,7 @@
 @chara1.5 b="sato_b1_A004" f="sato_f1_h_a_g" o="kin_A002"
 @plse set="sename='sto_A00026'"
 @【狭塔】
-分かりました。\n………では、これを
+I understand. …Then, take this.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -977,7 +977,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_a_a_g"
 @plse set="sename='ran_A00002'"
 @【嵐昼】
-…………………？\nこれは………？
+…? This is…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -985,7 +985,7 @@
 
 @plse set="sename='sto_A00027'"
 @【狭塔】
-彼らの食事です。\n私の代わりに、食べさせてあげておいてください
+Their food. In my stead, please feed them.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -994,7 +994,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_a_b_g"
 @plse set="sename='ran_A00003'"
 @【嵐昼】
-………ハァ……………
+…Okay…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1003,7 +1003,7 @@
 @chara1.5 b="sato_b1_A003" f="sato_f1_g_a_e" o="kin_A002"
 @plse set="sename='sto_A00028'"
 @【狭塔】
-頼みましたよ。\nでは失礼
+I leave it to you. Now, if you’ll excuse me…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1020,7 +1020,7 @@
 @chara1.5 b="kin_B001"
 @plse set="sename='ran_A00004'"
 @【嵐昼】
-..........
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1028,7 +1028,7 @@
 
 @plse set="sename='sui_A00018'"
 @【水仙】
-ウッウッ………
+Uuu… Uuu…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1036,7 +1036,7 @@
 
 @plse set="sename='gkr_A00019'"
 @【玉露】
-エッエッ………
+Hic… Hic…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1044,7 +1044,7 @@
 
 @plse set="sename='kim_A00019'"
 @【祁門】
-ヒックヒック………サトーサン………
+Snrk… Sato-san…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1053,7 +1053,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00005'"
 @【嵐昼】
-..........
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1061,7 +1061,7 @@
 
 @plse set="sename='sui_A00019'"
 @【水仙】
-何ダヨ、僕タチ何モ悪イコトシテナイノニ………\nサトーノアンポンタンッッ
+What did we do, we didn’t do anything wrong… Sato-san, you big dummy!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1069,7 +1069,7 @@
 
 @plse set="sename='gkr_A00020'"
 @【玉露】
-サトーノオタンコナス！！！\nソージオタクーッ！！！
+Sato’s a blockhead! Clean freak!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1077,7 +1077,7 @@
 
 @plse set="sename='kim_A00020'"
 @【祁門】
-僕タチノコトナンテ、モウドーデモイインダ、\nサトーサンハ………フエエエン！！！
+Anything you make is good, Sato-san… Waaaah!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1086,7 +1086,7 @@
 @chara4.5 b="ran_b1_A002" f="ran_f1_h_a2_g_a"
 @plse set="sename='ran_A00006'"
 @【嵐昼】
-…………………\nアー………これ。\n食べるか？
+…Uh, can you… eat this?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1095,7 +1095,7 @@
 @chara1.5 b="kin_B003"
 @plse set="sename='gkr_A00021'"
 @【玉露】
-イラナイ！！！
+No!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1104,7 +1104,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_h_a_g_a"
 @plse set="sename='ran_A00007'"
 @【嵐昼】
-そうか。\n…………………
+I see. …
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1112,7 +1112,7 @@
 
 @plse set="sename='sui_A00020'"
 @【水仙】
-ウッウッ………
+Uuu… Uuu…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1120,7 +1120,7 @@
 
 @plse set="sename='gkr_A00022'"
 @【玉露】
-エッエッ………
+Hic… Hic…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1128,7 +1128,7 @@
 
 @plse set="sename='kim_A00021'"
 @【祁門】
-ヒックヒック………
+Snrk… Snrk…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1137,7 +1137,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00008'"
 @【嵐昼】
-…………………あー。\nその、狭塔様はお忙しいんだ
+…Ah, well, Sato-sama is quite busy…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1145,7 +1145,7 @@
 
 @plse set="sename='ran_A00009'"
 @【嵐昼】
-いつも側にいるお前達なら、\nそこは解って差し上げられるだろう？
+You three are always with him, so you should be able to understand that, yes?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1154,7 +1154,7 @@
 @chara1.5 b="kin_B007"
 @plse set="sename='sui_A00021'"
 @【水仙】
-デモ、忙シイッテイッテモ、ドーセ掃除デショ
+He says he’s busy, but he always has time to sweep!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1163,7 +1163,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_h_a2_g_a"
 @plse set="sename='ran_A00010'"
 @【嵐昼】
-…………………\nまあ、そうだが………
+…Well… that is true…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1172,7 +1172,7 @@
 @chara1.5 b="kin_B002"
 @plse set="sename='gkr_A00023'"
 @【玉露】
-モウイイヨ………
+…No more…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1181,7 +1181,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_a_a_a"
 @plse set="sename='ran_A00011'"
 @【嵐昼】
-ん？
+Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1189,7 +1189,7 @@
 
 @plse set="sename='gkr_A00024'"
 @【玉露】
-僕タチデナントカスルヨ………
+We’ll do something about this…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1198,7 +1198,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_a_a2_g_a"
 @plse set="sename='ran_A00012'"
 @【嵐昼】
-おい、ろくでもない事を考えるのは止めろよ？
+Please stop thinking such good-for-nothing things.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1207,7 +1207,7 @@
 @chara1.5 b="kin_B001"
 @plse set="sename='sui_A00022'"
 @【水仙】
-ソーダ！　自分達でナントカスレバイインダ！！！
+That’s right! We can do something about this!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1216,7 +1216,7 @@
 @chara4.5 b="ran_b1_A003" f="ran_f1_a_d_g_a"
 @plse set="sename='ran_A00013'"
 @【嵐昼】
-って、おい………
+Hey, wait…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1225,7 +1225,7 @@
 @chara1.5 b="kin_B003"
 @plse set="sename='gkr_A00025'"
 @【玉露】
-僕タチダッテ\n自分達デ食事クライ出来ルンダカラ！
+We can get food for ourselves!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1233,7 +1233,7 @@
 
 @plse set="sename='gkr_A00026'"
 @【玉露】
-サトーノゴハンナンカヨリ、\nズットイイ食事ヲシテ\nサトーヨリオッキクナッテヤル！
+Something better than Sato’s, something way bigger, and something that looks way cooler!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1241,7 +1241,7 @@
 
 @plse set="sename='sui_A00023'"
 @【水仙】
-ソーダソーダ！　サトーヲミカエシテヤルー！
+Yeah, yeah! We’ll triumph over Sato!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1250,7 +1250,7 @@
 @chara1.5 b="kin_B005"
 @plse set="sename='kim_A00022'"
 @【祁門】
-フタリトモ………\nワカッタヨ、僕モガンバル！！！
+You two… Yeah, we’ll do our best!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1259,7 +1259,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00014'"
 @【嵐昼】
-おいおいおい………
+Hey, hey, hey…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1268,7 +1268,7 @@
 @chara1.5 b="kin_B004"
 @plse set="sename='gkr_A00027'"
 @【玉露】
-止メテモ無駄ダカラ！\n嵐昼ハ、サトーニ後悔シテモ遅イッテ言ッテオイテ！
+Resistance is futile! Ranchuu, tell Sato it’s too late to regret what he’s done!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1277,7 +1277,7 @@
 @chara1.5 b="kin_B006"
 @plse set="sename='sui_A00024'"
 @【水仙】
-僕タチ、サトーヲ越エル漢ニナルマデ、\n鉢ニハ帰ラナイカラ！！！
+Until we’ve found something that surpasses Sato, we’re not going back to the bowl!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1286,7 +1286,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_a_d_a_a"
 @plse set="sename='ran_A00015'"
 @【嵐昼】
-………というかそれは既に\n目的が変わってきていないか？
+And I suppose it’s too late to change your minds?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1295,7 +1295,7 @@
 @chara1.5 b="kin_B002"
 @plse set="sename='kim_A00023'"
 @【祁門】
-三人デ立派ナキンギョニナロウ！！！
+The three of us will be the awesomest goldfish around!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1304,7 +1304,7 @@
 @chara1.5 b="kin_B005"
 @plse set="sename='all_A00000'"
 @【祁門】 name="f.name='All'"
-オーッ！！！
+YEAH!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1312,7 +1312,7 @@
 
 @plse set="sename='ran_A00016'"
 @【嵐昼】
-…………………\nまあ、止めはしないが
+…Well, I can’t stop them.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1321,7 +1321,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_a_d_g"
 @plse set="sename='ran_A00017'"
 @【嵐昼】
-狭塔様を越えると言っても、\n具体的にはどうするつもりだ？　お前達
+Surpassing Sato… Just how do you plan to do so?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1330,7 +1330,7 @@
 @chara1.5 b="kin_B004"
 @plse set="sename='gkr_A00029'"
 @【玉露】
-…………………\nソレハモチロン………
+…Of course, we’ll…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1365,7 +1365,7 @@
 @trans-s
 @plse set="sename='sui_A00025'"
 @【水仙】
-街ニ行くんダヨー
+Go to the town!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1374,7 +1374,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00018'"
 @【嵐昼】
-…………………\n選択の余地がないな
+…That wasn’t even an option.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1396,7 +1396,7 @@
 @trans-s
 @plse set="sename='gkr_A00030'"
 @【玉露】
-街ニ行くんダヨー
+Go to the town!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1406,7 +1406,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00019'"
 @【嵐昼】
-…………………\n選択の余地がないな
+…That wasn’t even an option.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1429,7 +1429,7 @@
 @trans-s
 @plse set="sename='kim_A00024'"
 @【祁門】
-街ニ行くんダヨー
+Go to the town!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1438,7 +1438,7 @@
 @chara4.5 b="ran_b1_A001" f="ran_f1_e_d_a_a"
 @plse set="sename='ran_A00020'"
 @【嵐昼】
-…………………\n選択の余地がないな
+…That wasn’t even an option.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1465,7 +1465,7 @@
 @trans-s
 @plse set="sename='gkr_A00031'"
 @【玉露】
-サ、行コー！\n嵐昼、あと宜しくネー！
+Now, let’s go! Ranchuu, we’ll leave the rest to you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1474,7 +1474,7 @@
 @chara1.5 b="sui_b1_A001" f="sui_f1_g_a_e"
 @plse set="sename='sui_A00026'"
 @【水仙】
-イッテきまース
+Let’s go~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1483,7 +1483,7 @@
 @chara4.5 b="kim_b1_A001" f="kim_f1_g_b_e"
 @plse set="sename='kim_A00025'"
 @【祁門】
-街行くノって、チョー久しブリだネ！　エヘヘヘッ
+It’s been super long since we went to the town, ehehe~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1500,7 +1500,7 @@
 @chara3 b="ran_b1_A001" f="ran_f1_a_a_a"
 @plse set="sename='ran_A00021'"
 @【嵐昼】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1510,7 +1510,7 @@
 @chara3 b="ran_b1_A001" f="ran_f1_h_a_g"
 @plse set="sename='ran_A00022'"
 @【嵐昼】
-………喰われないといいが、あいつら
+Maybe it’d be better if those three didn’t eat...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
