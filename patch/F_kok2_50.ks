@@ -37,7 +37,7 @@
 @trans-n
 @plse set="sename='mkt_F00013'"
 @【ミコト】
-………未だ見付からぬか
+So they have still not been found…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -55,7 +55,7 @@
 @trans-n
 @plse set="sename='sto_F00030'"
 @【狭塔】
-はい。霞がかかったように気配が辿れないと、\n兎達が申しております。\nまるで、何かに守られているようだと………
+Yes. Indeed, like a haze is covering their presence, we cannot follow them, so the rabbits say. Almost as though something were to be protecting them…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -65,7 +65,7 @@
 @trans-n
 @plse set="sename='mkt_F00014'"
 @【ミコト】
-………ふむ………\nお前の僕はどうじゃ
+…Hm… And what of your servants?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -75,7 +75,7 @@
 @trans-n
 @plse set="sename='sto_F00031'"
 @【狭塔】
-陽のあるうちは総力を挙げて\n捜させておりますが……
+As soon as the sun rises, they will once again put in their utmost efforts, but…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @trans-n
 @plse set="sename='sto_F00032'"
 @【狭塔】
-やはり、彼らの眼をもってしても、\n姿を捉える事はできておりませぬ
+Unsurprisingly, with their eyes, they cannot perceive forms.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -95,7 +95,7 @@
 @trans-n
 @plse set="sename='mkt_F00015'"
 @【ミコト】
-なるほどのう………\nいろいろ策を巡らせているようじゃの、あの二人
+I see… Many things surround those two, after all.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -105,7 +105,7 @@
 @trans-n
 @plse set="sename='sto_F00033'"
 @【狭塔】
-要らぬ知恵が働きましたな。\nしかし、それが叶う場所など、\nあの街に幾つもありはしない
+I’m sure that this is needless to say, however there are not many places in that town where one can expect their wish to be granted. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @trans-n
 @plse set="sename='sto_F00034'"
 @【狭塔】
-的は絞られたも同じと言えましょう
+I’d say our target has been narrowed down.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -125,7 +125,7 @@
 @trans-n
 @plse set="sename='mkt_F00016'"
 @【ミコト】
-…………………\nそうじゃな
+…Perhaps.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -135,7 +135,7 @@
 @trans-n
 @plse set="sename='sto_F00035'"
 @【狭塔】
-ミコト様は、彼らが戻った暁には、\n黒狐をどうなさるおつもりですか？
+Mikoto-sama, should they return by dawn, what do you plan to do with Kurogitsune?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -145,7 +145,7 @@
 @trans-n
 @plse set="sename='mkt_F00017'"
 @【ミコト】
-………ん？\nなんじゃ、いきなり
+…? What’s this, so suddenly?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -155,7 +155,7 @@
 @trans-n
 @plse set="sename='sto_F00036'"
 @【狭塔】
-やはり、あれを由君に………というより、\n依代につけておくのは間違いだったのではないかと\n考えておりました
+As I thought, creating that for Yue-kun… or rather, for the yorishiro, creating it was a mistake, perhaps?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -165,7 +165,7 @@
 @trans-n
 @plse set="sename='mkt_F00018'"
 @【ミコト】
-今更何を言う、狭塔。\nあれを由につけたのは、シンがそう望んだからじゃ
+What are you saying, Sato? Creating that for Yue was Shin’s wish, after all.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -175,7 +175,7 @@
 @trans-n
 @plse set="sename='sto_F00037'"
 @【狭塔】
-………シン様だから、裏切る事はないと？
+…And Shin-sama would never betray us?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -185,7 +185,7 @@
 @trans-n
 @plse set="sename='mkt_F00019'"
 @【ミコト】
-あれは………、\n黒狐はシンを大層慕っておったからのう
+That… no, Kurogitsune has adored Shin greatly for a long time.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -195,7 +195,7 @@
 @trans-n
 @plse set="sename='sto_F00038'"
 @【狭塔】
-………ですが………\n今回は、それが裏目に出てしまった
+…Yes, but, this time… it seems to have backfired, no?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -205,7 +205,7 @@
 @trans-n
 @plse set="sename='mkt_F00020'"
 @【ミコト】
-…………………\nお前の言う事も否定はせぬ
+…I cannot deny your words.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -215,7 +215,7 @@
 @trans-n
 @plse set="sename='mkt_F00021'"
 @【ミコト】
-永く依代を繰り返してきたのじゃ。\n何が起ころうと不自然でもあるまい
+The cycle of the yorishiro has been a long one, indeed. At this point, nothing is unnatural.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -225,7 +225,7 @@
 @trans-n
 @plse set="sename='mkt_F00022'"
 @【ミコト】
-じゃが、もし………このまま何事もなく、\nあれが由と共に戻れば、\n今回の事は不問としても構わぬと思っている
+However, perhaps… Should he return without incident, together with Yue, perhaps we can overlook things, just this time?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -235,7 +235,7 @@
 @trans-n
 @plse set="sename='sto_F00039'"
 @【狭塔】
-………事はそう容易く運ぶものとは思いかねますが
+…I ask you to not take things so lighly.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -245,7 +245,7 @@
 @trans-n
 @plse set="sename='mkt_F00023'"
 @【ミコト】
-さて、それは由次第、といったところか
+Well, no matter what, it all depends on Yue.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -255,7 +255,7 @@
 @trans-n
 @plse set="sename='sto_F00040'"
 @【狭塔】
-ミコト様は、些か楽観が過ぎるようですな
+Mikoto-sama, do you not believe you may be too optimistic about this…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -265,7 +265,7 @@
 @trans-n
 @plse set="sename='mkt_F00024'"
 @【ミコト】
-なに、今に始まった事でもなかろう
+What, am I not always like this?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -273,7 +273,7 @@
 
 @plse set="sename='sto_F00041'"
 @【狭塔】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -283,7 +283,7 @@
 @trans-n
 @plse set="sename='mkt_F00025'"
 @【ミコト】
-どちらもかわいい子どもたちじゃ。\n何事もなく戻ると良いのう
+Both are precious children. For both to return unharmed is a good thing.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +293,7 @@
 @trans-n
 @plse set="sename='mkt_F00026'"
 @【ミコト】
-のう、狭塔？
+Is it not, Sato?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -303,7 +303,7 @@
 @trans-n
 @plse set="sename='sto_F00042'"
 @【狭塔】
-……………………………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -312,7 +312,7 @@
 @chara1.5 b="miko_b2_A002" f="miko_f2_c_b_g" o="miko_o2"
 @trans-n
 @【ミコト】
-…………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -322,7 +322,7 @@
 @trans-n
 @plse set="sename='mkt_F00027'"
 @【ミコト】
-…………………\n黒狐………
+………Kurogitsune…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -343,7 +343,7 @@
 @trans-n
 @plse set="sename='ran_F00007'"
 @【嵐昼】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

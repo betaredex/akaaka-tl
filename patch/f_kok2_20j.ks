@@ -30,7 +30,7 @@
 @trans-n
 @plse set="sename='yue_F00135'"
 @【由】
-ウーン、まだ終わってないみたいだね～
+Hmm, it’s still not done…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -38,7 +38,7 @@
 
 @plse set="sename='krg_F00150'"
 @【黒狐】
-だなー。\nまあ、まだいつもより早い時間だもんなー
+I know, right… Well, it is early in the morning.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -48,7 +48,7 @@
 @trans-n
 @plse set="sename='yue_F00136'"
 @【由】
-お昼でも、街だと空が変な色だから分かりにくいね
+It’s hard to tell what time it is. The sky’s always a weird color in the town.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 @trans-n
 @plse set="sename='krg_F00151'"
 @【黒狐】
-そーかー？\nまー確かに神社ん中よりは濁ってる気はするけど………
+You think? Well, it certainly seems murkier than in the shrine…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -69,7 +69,7 @@
 @trans-n
 @plse set="sename='yue_F00137'"
 @【由】
-どうする？\nつばき達が出てくるまで、ここで待ってる？
+What now? Do we wait here until Tsubaki and Akiyoshi come out?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -79,7 +79,7 @@
 @trans-n
 @plse set="sename='krg_F00152'"
 @【黒狐】
-いやー、まだまだかかるぜー？\nだったら中に入った方が………
+Naah, and stay hidden for all that time? Might as well just go in at that rate.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -87,7 +87,7 @@
 
 @plse set="sename='m55_F00000'"
 @【その他】 name="f.name='???'"
-ん？　なんだね君たちは
+Hm? What are you doing here?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -97,7 +97,7 @@
 @trans-n
 @plse set="sename='yue_F00138'"
 @【由】
-ん？
+Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -114,7 +114,7 @@
 @trans-n
 @plse set="sename='m55_F00001'"
 @【その他】 name="f.name='Human'"
-遅刻の生徒かね？\n学年とクラスを言いなさい。\nそれから生徒手帳を出しなさい
+Are you a tardy student? Tell me your grade and class. Then show me your student handbook.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -124,7 +124,7 @@
 @trans-n
 @plse set="sename='m55_F00002'"
 @【その他】 name="f.name='Human'"
-全く………最近は無断で遅刻する者が多くて困る。\n自主性だなんだと甘やかしすぎているんだな。\n己を律する精神がまるで足りん
+Good grief. Lately, the number of those who are late without excuse simply keeps increasing… Independence? Bah! They’re spoiling them, I say. To discipline oneself is more than enough.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -134,7 +134,7 @@
 @trans-n
 @plse set="sename='yue_F00139'"
 @【由】
-いや、オレ達は………
+Er, we…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -144,7 +144,7 @@
 @trans-n
 @plse set="sename='krg_F00153'"
 @【黒狐】
-ちっ、めんどくせー事になったな
+Well, this is a mess.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -154,7 +154,7 @@
 @trans-n
 @plse set="sename='m55_F00003'"
 @【その他】 name="f.name='Human'"
-ん？　なんだ君。\n制服は指定通り着てこなければダメだろう
+Hm? You’re not wearing your designated uniform? No good, no good at all.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -164,7 +164,7 @@
 @trans-n
 @plse set="sename='m55_F00004'"
 @【その他】 name="f.name='Human'"
-服装の乱れは風紀の乱れ。\n精神がたるんでる証拠だぞ
+Your attire is in clear violation of the rules. Proof you have slackened your soul!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -172,7 +172,7 @@
 
 @plse set="sename='m55_F00005'"
 @【その他】 name="f.name='Human'"
-制服をきちんと着用してこそ\n高校生らしく振舞えるというものだ
+To wear one’s uniform correctly and properly is the true mark of a high school student!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -180,7 +180,7 @@
 
 @plse set="sename='m55_F00006a'"
 @【その他】 name="f.name='Human'"
-最近の生徒はヘッドホンだの\n派手なコートだの、実にいかん。\n歴史ある本校の生徒たるもの………クドクド………
+What an affront for students to wear headphones and flashy coats these days. Students of our school with a long history… blah blah blah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -190,7 +190,7 @@
 @trans-n
 @plse set="sename='yue_F00140'"
 @【由】
-なんか語り始めちゃった
+I feel like I’m being preached to.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -200,7 +200,7 @@
 @trans-n
 @plse set="sename='krg_F00154'"
 @【黒狐】
-今のうちに行こうぜ？
+Think we should go now?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -210,7 +210,7 @@
 @trans-n
 @plse set="sename='yue_F00141'"
 @【由】
-ウン、そーだね。\nそーっと、そーっと………
+Yeah. Slowly, slowly…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -226,7 +226,7 @@
 @trans-n
 @plse set="sename='m55_F00007'"
 @【その他】 name="f.name='Human'"
-………つまりだね、やはりブレザーよりは\n詰め襟の方が良いと思わんかね、君？
+…And so, it truly was a much better time when straight collars and blazers were the norm, wouldn’t you agree…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -236,7 +236,7 @@
 @trans-n
 @plse set="sename='m55_F00008'"
 @【その他】 name="f.name='Human'"
-………ん？　どこへ行った？　おーい
+Hm? Where did you go? Oi!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -246,7 +246,7 @@
 @trans-n
 @plse set="sename='m55_F00009'"
 @【その他】 name="f.name='Human'"
-そういえばあの生徒の着ていた制服、\n昔の制服に似ているような………\nそうだ、私がまだ学生だった頃の………
+Hmmm, now that I think about it, his attire reminded me a bit of an older uniform… Oh, was it during the days back when I was a student…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -261,7 +261,7 @@
 @trans-n
 @plse set="sename='aky_F00000'"
 @【秋良】
-…………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -269,7 +269,7 @@
 
 @plse set="sename='m55_F00010'"
 @【その他】 name="f.name='Human'"
-………っと、こら、待ちなさいそこ！
+…Er, stop right there!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -279,7 +279,7 @@
 @trans-n
 @plse set="sename='aky_F00001'"
 @【秋良】
-…………………\nチッ、気付かれたか
+…Tch, he noticed.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -295,7 +295,7 @@
 @trans-n
 @plse set="sename='m55_F00011'"
 @【その他】 name="f.name='Human'"
-君は二年の遠近だな。\nまた休み時間に抜け出していたのか
+You’re the second year, Tochika. Trying to slip out during breaktime again?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -305,7 +305,7 @@
 @trans-n
 @plse set="sename='m55_F00012'"
 @【その他】 name="f.name='Human'"
-何度言ったらわかるんだ、\n下校時間まで外出は禁止だろう！
+How many times must I say you are forbidden from leaving school grounds before the end of the day!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -329,7 +329,7 @@
 @trans-n
 @plse set="sename='aky_F00005'"
 @【秋良】
-学校の裏の小売店まで\nマスクを購入しに行っていただけです
+I'm simply going to buy a mask from a shop down the road.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -337,7 +337,7 @@
 
 @plse set="sename='aky_F00006'"
 @【秋良】
-登校時に焦っていた為、\n勢いで落としてしまったのです
+It fell off when I was in a rush to get to school.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -347,7 +347,7 @@
 @trans-n
 @plse set="sename='m55_F00014'"
 @【その他】 name="f.name='Human'"
-そんなもの、購買部のマスクを買い給え。\n山ほど在庫があったろう
+If that’s what you need, simply buy it from the school store! They have plenty!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -357,7 +357,7 @@
 @trans-n
 @plse set="sename='aky_F00007'"
 @【秋良】
-…………………お言葉ですが。\n購買部のマスクは一般的なガーゼでできており\n縦横無尽に飛散する花粉を防ぐ事ができません
+…I’m afraid I must disagree. The school store’s masks are made of gauze. They provide no defense against the pollen scattering through the air in all directions.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -367,7 +367,7 @@
 @trans-n
 @plse set="sename='aky_F00008'"
 @【秋良】
-本来であれば、花粉を防ぐ事ができないマスクなど、\nマスクを名乗る資格すらないと思いますが………
+By all rights, masks that cannot defend from pollen don’t deserve to be called masks.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -383,7 +383,7 @@
 @trans-n
 @plse set="sename='aky_F00002'"
 @【秋良】
-学校の裏の小売店までティッシュボックスを\n購入しに行っていただけです
+I am simply going to buy some tissues from a shop down the road.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -391,7 +391,7 @@
 
 @plse set="sename='aky_F00003'"
 @【秋良】
-生憎今日は花粉の飛散量が多く、\n持ち合わせが尽きたので
+There was too much pollen in the air today, and I ran out of what I had on hand.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -401,7 +401,7 @@
 @trans-n
 @plse set="sename='m55_F00013'"
 @【その他】 name="f.name='Human'"
-そんなもの、購買部のティッシュを買い給え。\n山ほど在庫があったろう
+If that’s what you need, simply buy it from the school store! They have plenty!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -411,7 +411,7 @@
 @trans-n
 @plse set="sename='aky_F00004'"
 @【秋良】
-…………………お言葉ですが。\n購買部のティッシュは粗悪品なので\n使い続けると鼻が剥けてしまいます
+…I’m afraid I must disagree. The school store’s version is faulty. They always cause my nose to peel. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -426,7 +426,7 @@
 @trans-n
 @plse set="sename='m55_F00015'"
 @【その他】 name="f.name='Human'"
-甘えるな！\n毎回同じ言い訳だが、規則は規則だ！\n破る事はまかりならん
+Too spoiled! No matter what, a rule is a rule! Something you cannot break!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -434,7 +434,7 @@
 
 @plse set="sename='m55_F00016'"
 @【その他】 name="f.name='Human'"
-外出が必要なときは申請書を提出しろと\n生徒手帳に書いてある。忘れたとは言わせんぞ
+It says in the student handbook that if you need to go out, you must submit an application. Don't tell me you forgot.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -444,7 +444,7 @@
 @trans-n
 @plse set="sename='m55_F00017a'"
 @【その他】 name="f.name='Human'"
-全く、私は君のお父さんとは同窓だったが、\n文武に秀でたすばらしい青年だったぞ。\n顔はそっくりなのに中身は正反対でクドクド………！
+Indeed, I was a classmate of your father, and he was a wonderful young man who excelled in the literary and military arts! He had a face just like yours, but on the inside he was the complete opposite… blah blah blah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -454,7 +454,7 @@
 @trans-n
 @plse set="sename='aky_F00009'"
 @【秋良】
-………ぬかったな。\n………まあ、いいか、授業に遅れる口実が出来た
+…A mistake. Well, at least now I have an excuse as to why I’m late to class.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -464,7 +464,7 @@
 @trans-n
 @plse set="sename='m55_F00018a'"
 @【その他】 name="f.name='Human'"
-クドクドクド………私達が生徒だった頃は\n皆が皆勉学に勤しみスポーツに打ち込み\n短い青春を精一杯謳歌したというのにクドクド………！
+Blah blah blah… When we were students, we all studied hard, played sports, and enjoyed our short youth to the fullest… blah blah blah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -474,7 +474,7 @@
 @trans-n
 @plse set="sename='aky_F00010'"
 @【秋良】
-…………ハァ、\n遅れるどころか、終わりそうだな。授業
+…Rather than being late, I may miss class entirely.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

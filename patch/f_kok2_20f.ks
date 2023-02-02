@@ -33,7 +33,7 @@
 @trans-s
 @plse set="sename='sak_F00000'"
 @【朔】
-あ、ユエとコッコみーっけ
+Ah, Yue and Kokko spotted~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -41,7 +41,7 @@
 
 @plse set="sename='nag_F00000'"
 @【薙】
-…………………\n奇遇ね
+…Unexpected.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -59,7 +59,7 @@
 @trans-n
 @plse set="sename='yue_F00111'"
 @【由】
-あ、さっちゃんとなっちゃん
+Oh, Sacchan and Nacchan.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -69,7 +69,7 @@
 @trans-n
 @plse set="sename='krg_F00127'"
 @【黒狐】
-ゲ、ゲゲゲッ！！！\nみ、見付かったー！！！！
+Geh, gegegeh! They found us!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -79,7 +79,7 @@
 @trans-n
 @plse set="sename='nag_F00001'"
 @【薙】
-こんな所をフラフラしているなんて、不用心よ
+For us to find you loitering around here… How careless.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -89,7 +89,7 @@
 @trans-n
 @plse set="sename='yue_F00112'"
 @【由】
-もしかして、\nふたりともオレ達が今どうなってるか知ってる？
+Hey, do you guys know about what’s happening to us?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -99,7 +99,7 @@
 @trans-n
 @plse set="sename='sak_F00001'"
 @【朔】
-当たり前じゃない。\nわたしたちを、馬鹿にしちゃいけないわよ？
+Of course! Do you think we’re stupid or something?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -109,7 +109,7 @@
 @trans-n
 @plse set="sename='nag_F00002'"
 @【薙】
-全く、狭塔は相変わらず気が短いわね
+Good grief. Sato is impatient as always…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -119,7 +119,7 @@
 @trans-n
 @plse set="sename='sak_F00002'"
 @【朔】
-カホゴがヘンな方向に向いちゃうのよね～。\nその上融通が利かないから、ホンットめんどうだわ
+If you’re overprotective, your kids always end up weird. And if you’re inflexible too, then things go really bad.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -129,7 +129,7 @@
 @trans-n
 @plse set="sename='yue_F00113'"
 @【由】
-あの、事情知ってるなら話は早い、かな。\nオレ達に会ったの、\n狭塔さん達には内緒にして貰っていい？
+Er, if you understand, then we’ll have to keep this short. Can you keep it a secret from Sato-san that you saw us here?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -139,7 +139,7 @@
 @trans-n
 @plse set="sename='sak_F00003'"
 @【朔】
-いいわよ～。\nサトーの役に立つ気なんてないから、安心して。\nま、ユエ達の味方もしないけど
+Sure thing~ I have no reason to do Sato a favor. But we’re not taking your side either, okay?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -149,7 +149,7 @@
 @trans-n
 @plse set="sename='nag_F00003'"
 @【薙】
-………あまり気楽に出歩くべきではないと思うわ。\n逃げるなら、ちゃんと隠れ家を見つけなさい
+…I would not walk around carelessly. If you must run, make sure you have a hiding spot in mind.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -159,7 +159,7 @@
 @trans-n
 @plse set="sename='sak_F00004'"
 @【朔】
-そうよ～。\nさっきからサトーの僕が飛び回ってるし。\n見つかったら厄介よ？
+That’s right, Sato’s servants are flying around. Be sure not to get spotted, you hear?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -169,7 +169,7 @@
 @trans-n
 @plse set="sename='yue_F00114'"
 @【由】
-あ、ウン、ありがとう～。\nヨカッタネ黒狐、黙っててくれるって
+Ah, yes, thank you! See, Kurogitsune? They’re keeping quiet for us!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -179,7 +179,7 @@
 @trans-n
 @plse set="sename='krg_F00128'"
 @【黒狐】
-だ、だよなー………よかった………ホッ
+…Y-yeah, they are… Phew.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -189,7 +189,7 @@
 @trans-n
 @plse set="sename='sak_F00005'"
 @【朔】
-………けど。\nサトーのヤツ、一度決めたら聞かないから。\n早いとこどうにかしないと、大変よ？
+But when Sato makes up his mind, he won’t change it. So whatever you’re going to do, do it quick, okay?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -199,7 +199,7 @@
 @trans-n
 @plse set="sename='yue_F00115'"
 @【由】
-………ウン。わかってる
+…Okay. I understand.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -209,7 +209,7 @@
 @trans-n
 @plse set="sename='sak_F00006'"
 @【朔】
-わかってるならいいけど。\nあんまり自分の事粗末にしたらいけないんだから
+If you understand, then it’s all good. Try to look after yourself, okay?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -219,7 +219,7 @@
 @trans-n
 @plse set="sename='yue_F00116'"
 @【由】
-…………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -229,7 +229,7 @@
 @trans-n
 @plse set="sename='nag_F00004'"
 @【薙】
-楽をしてはいけないわよ。\n………若人は
+Don’t take this lightly. …Young people…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -239,7 +239,7 @@
 @trans-n
 @plse set="sename='sak_F00007'"
 @【朔】
-もー、薙はすぐそういうコト言うんだから。\nわたしたちも、年取ってなんかないのー！
+Haven’t you had enough of saying that, Nacchan? We’re not that old, okay!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -249,7 +249,7 @@
 @trans-n
 @plse set="sename='nag_F00005'"
 @【薙】
-…………………\nそうかしら
+I suppose not.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -259,7 +259,7 @@
 @trans-n
 @plse set="sename='yue_F00117'"
 @【由】
-アハハ、ありがと、さっちゃんなっちゃん
+Ahaha. Thanks, Sacchan Nacchan!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -269,7 +269,7 @@
 @trans-n
 @plse set="sename='krg_F00129'"
 @【黒狐】
-………ありがとう、ござい、ます………クソッ
+Thank you… very… much… Damn it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -279,7 +279,7 @@
 @trans-n
 @plse set="sename='sak_F00008'"
 @【朔】
-うふふ。\nべーつにっ、何かあっても、\nたすけてなんかあげないんだから
+Ehehe. Just know if anything happens, we won’t help you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -289,7 +289,7 @@
 @trans-n
 @plse set="sename='nag_F00006'"
 @【薙】
-精々頑張るのね
+Do your best.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -299,7 +299,7 @@
 @trans-n
 @plse set="sename='yue_F00118'"
 @【由】
-ウン。\n………まだ、どうしたいのか、決めてないから。\nもうちょっと、がんばってみるよ
+Yeah. …I still don’t know what I want to do yet… So I’ll do my best to find it. Thanks again.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

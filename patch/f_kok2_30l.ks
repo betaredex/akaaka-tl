@@ -31,7 +31,7 @@
 @trans-n
 @plse set="sename='yue_F00198'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -40,7 +40,7 @@
 
 @plse set="sename='krg_A00130'"
 @【黒狐】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -50,7 +50,7 @@
 @trans-n
 @plse set="sename='sgn_F00047'"
 @【嵯峨野】
-………ここは………？
+…So, here’s…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -60,7 +60,7 @@
 @trans-n
 @plse set="sename='yue_F00199'"
 @【由】
-………ここは、ないか
+…Nothing, it looks like.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -70,7 +70,7 @@
 @trans-n
 @plse set="sename='krg_F00184'"
 @【黒狐】
-ああ、ここはネエよ。\n流石に他に行くとこあるだろ
+Yep, nothing. Toldja we should’ve gone somewhere else.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -79,7 +79,7 @@
 
 @plse set="sename='krg_F00185'"
 @【黒狐】
-狭塔様に嫌がられるか嬉々として攻められるか\n読めなくてハイリスク過ぎるしな
+It’s just too high risk- you don’t know if they hate Sato-sama more than they’re happy to attack you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -89,7 +89,7 @@
 @trans-n
 @plse set="sename='sgn_F00048'"
 @【嵯峨野】
-…………………\nフーン、変わってねぇな
+…Hmm… Nope, hasn’t changed at all. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -100,7 +100,7 @@
 @trans-n
 @plse set="sename='yue_F00201'"
 @【由】
-え？　さがのさん何か言った？
+Eh? Did you say something, Sagano-san?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -110,7 +110,7 @@
 @trans-n
 @plse set="sename='krg_F00186'"
 @【黒狐】
-ここはねえから、他行くぞ！
+There’s nothing here! Let’s go!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -120,7 +120,7 @@
 @trans-n
 @plse set="sename='sgn_F00049'"
 @【嵯峨野】
-…………………\nなんでもねえよ。\nちょっと、懐かしかっただけだよ
+……Didn’t say anything. Just got a little nostalgic for some reason.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

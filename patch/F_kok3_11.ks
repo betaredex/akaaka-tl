@@ -42,7 +42,7 @@
 @trans-l
 @plse set="sename='sgn_F00090'"
 @【嵯峨野】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -50,7 +50,7 @@
 
 @plse set="sename='sgn_F00091'"
 @【嵯峨野】
-相変わらず、うざってえ街
+Still a damn annoying town.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 
 @plse set="sename='sgn_F00092'"
 @【嵯峨野】
-もののけも悪食も、好き放題しやがって。\n………よくもまあここまで食い散らかしたもんだぜ
+Mononoke and akujiki run around as they please… How dare they make a mess like this outta eating…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -66,7 +66,7 @@
 
 @plse set="sename='sgn_F00093'"
 @【嵯峨野】
-も、満足だろ。\n……十分良い思いしたんだろ？
+Ain’t you satisfied? …Ain’t it enough to make you happy?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -74,7 +74,7 @@
 
 @plse set="sename='sgn_F00094'"
 @【嵯峨野】
-影も、お前らには飽き飽きだってよ。\n………やっと、解放されるって
+Even the shadows are getting sick of you. “Finally, we’ll be freed…”
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -82,7 +82,7 @@
 
 @plse set="sename='sgn_F00095'"
 @【嵯峨野】
-この影の街もおしまいだ。\n綺麗に片が付いて良かったじゃねェか
+It’s the end of this town of shadows. Be nice if I can at least put a pretty end to it, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -90,7 +90,7 @@
 
 @plse set="sename='sgn_F00096'"
 @【嵯峨野】
-影が完全に動き出すまで、もう何日もねえ。\nそれまで、適当に復讐でもしてやろうかと思ったけど
+The shadows only have so many days before they can completely move. ‘Til then, I’ll make sure to get suitable revenge.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -98,7 +98,7 @@
 
 @plse set="sename='sgn_F00097'"
 @【嵯峨野】
-局、そんな必要もなさそうだ
+In the end, guess it wasn’t necessary after all…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -106,7 +106,7 @@
 
 @plse set="sename='sgn_F00098'"
 @【嵯峨野】
-ざまあねえな。シン？
+What a mess. Ain’t it, Shin?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -114,7 +114,7 @@
 
 @plse set="sename='sgn_F00099'"
 @【嵯峨野】
-自分のした事は、自分に返ってくるんだぜ。\n………存分に、ツケを払えよ？
+As for me, I’m gonna get myself back. …You’ll pay the bill, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -131,7 +131,7 @@
 @trans-n
 @plse set="sename='sgn_F00100'"
 @【嵯峨野】
-お前が大事にしてた、あのワンコと容れ物のガキ。\nどっちも、お前の所為で苦しむんだ
+Your precious doggy and little vessel. Both suffered for your sake, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @trans-n
 @plse set="sename='sgn_F00101'"
 @【嵯峨野】
-お前の、独り善がりが、あいつらを追い詰めてんだぜ
+Thanks to your self-righteousness, they’ve driven both of ‘em to the wall…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -151,7 +151,7 @@
 @trans-n
 @plse set="sename='sgn_F00102'"
 @【嵯峨野】
-カワイソウになあ？
+Pitiful, ain’t it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -161,7 +161,7 @@
 @trans-n
 @plse set="sename='sgn_F00103'"
 @【嵯峨野】
-あんなに、必死なのによ
+Even though you’re so desperate…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -171,7 +171,7 @@
 @trans-n
 @plse set="sename='sgn_F00104'"
 @【嵯峨野】
-どの道、誰も救われない
+No matter what, no one will save you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -181,7 +181,7 @@
 @trans-n
 @plse set="sename='sgn_F00105'"
 @【嵯峨野】
-………………………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -189,7 +189,7 @@
 
 @plse set="sename='sgn_F00106'"
 @【嵯峨野】
-お前のかわりに、見届けてやるよ
+I’ll go see your replacement myself.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -199,7 +199,7 @@
 @trans-n
 @plse set="sename='sgn_F00107'"
 @【嵯峨野】
-なあ、シン？
+Sound good, Shin?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

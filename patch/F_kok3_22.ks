@@ -36,7 +36,7 @@
 @trans-s
 @plse set="sename='yue_F00312'"
 @【由】
-ハァ、ハァ、………黒狐………つばき………
+Huff, huff, huff… Kurogitsune… Tsubaki…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -53,7 +53,7 @@
 @trans-n
 @plse set="sename='aky_F00037'"
 @【秋良】
-一体どこに行ったんだ二人は………！？
+Where in the world did those two go?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -61,7 +61,7 @@
 
 @plse set="sename='hin_F00067'"
 @【灯奈】
-おにーちゃん………
+Big Bro…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -71,7 +71,7 @@
 @trans-n
 @plse set="sename='aky_F00038'"
 @【秋良】
-椿妹、これだけ探して居ないんだ。\nすれ違いで家に戻っているかもしれないな
+Little Tsubaki, we’ve been searching all over and we haven’t found him. It’s possible we missed each other.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -81,7 +81,7 @@
 @trans-n
 @plse set="sename='aky_F00039'"
 @【秋良】
-じきに日が暮れる。お前は一旦家に戻れ
+It’ll be dark soon enough. Go back home to see if he’s there.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -94,7 +94,7 @@
 @trans-s
 @plse set="sename='yue_F00313'"
 @【由】
-あきよし………
+Akiyoshi…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -104,7 +104,7 @@
 @trans-n
 @plse set="sename='aky_F00040'"
 @【秋良】
-お前も何か言ったらどうだ、狐面
+You got something to say, Fox Mask?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -114,7 +114,7 @@
 @trans-s
 @plse set="sename='yue_F00314'"
 @【由】
-なんで自信満々なのあきよし………\nね、灯奈ちゃん、\nお父さんが心配するかもしれないし、一度家に………
+Where’d this Akiyoshi brimming with confidence come from? …I agree, Hina-chan, your dad must be worried, so why don’t you…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -127,7 +127,7 @@
 @trans-n
 @plse set="sename='hin_F00068'"
 @【灯奈】
-だめ。すごく、嫌な予感がするの………
+No. I have a really really bad feeling!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -137,7 +137,7 @@
 @trans-n
 @plse set="sename='hin_F00069'"
 @【灯奈】
-…………………っ！
+…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -147,7 +147,7 @@
 @trans-s
 @plse set="sename='yue_F00315'"
 @【由】
-灯奈ちゃん？
+Hina-chan?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -157,7 +157,7 @@
 @trans-s
 @plse set="sename='hin_F00070'"
 @【灯奈】
-………由くん！　おにーちゃんが………！\nおにーちゃんの、気配が………
+…Yue-kun! My brother… My brother’s presence, he’s, he…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -171,7 +171,7 @@
 @trans-n
 @plse set="sename='aky_F00041'"
 @【秋良】
-やはり椿に何かあったんだな！？
+Did something happen to Tsubaki?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -181,7 +181,7 @@
 @trans-s
 @plse set="sename='hin_F00071'"
 @【灯奈】
-消え、ちゃった………
+He… disappeared…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -191,7 +191,7 @@
 @trans-n
 @plse set="sename='aky_F00042'"
 @【秋良】
-消えたとはどういう事だ、椿妹！
+What do you mean by “disappeared”?! Little Tsubaki!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -201,7 +201,7 @@
 @trans-s
 @plse set="sename='hin_F00072'"
 @【灯奈】
-うそ、………嘘だよ、\n探さなきゃ………灯奈、\nおにーちゃんを探さなきゃ………
+It’s not real… It’s not, it can’t be! Hina has to go look for Big Bro! I… I…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -218,7 +218,7 @@
 @trans-s
 @plse set="sename='yue_F00316'"
 @【由】
-………オレも行く
+…I’ll go with you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -226,7 +226,7 @@
 
 @plse set="sename='msr_F00033'"
 @【眞白】 name="f.name='???'"
-おっ、やっと見つけた～
+Ooh, found ya~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -241,7 +241,7 @@
 @trans-s
 @plse set="sename='msr_F00034'"
 @【眞白】
-どうも居場所がわかんなくて、苦労しちゃったケド
+I really hope you know how much trouble you put us through finding you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -251,7 +251,7 @@
 @trans-s
 @plse set="sename='yue_F00317'"
 @【由】
-あ………
+Ah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -264,7 +264,7 @@
 @trans-n
 @plse set="sename='aky_F00043'"
 @【秋良】
-誰、だ………？
+Who is this man…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -274,7 +274,7 @@
 @trans-s
 @plse set="sename='msr_F00035'"
 @【眞白】
-ユエっち、マダ元気そうで良かったよ～。\nさ、かえろ？
+Yuecchi, good to see you’re feeling well. How about we go home?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -287,7 +287,7 @@
 @trans-s
 @plse set="sename='yue_F00318'"
 @【由】
-眞白さん………
+Mashiro-san…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -300,7 +300,7 @@
 @trans-s
 @plse set="sename='hin_F00073'"
 @【灯奈】
-………っ
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -310,7 +310,7 @@
 @trans-s
 @plse set="sename='msr_F00036'"
 @【眞白】
-ほんとはユエっち見つけるのは、\nかげっちゃんの担当だったんだけどね。\nま、この際どっちでもいーや
+Wait, wasn’t Kagecchan supposed to find you? Whatever, it doesn’t matter at this point.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -323,7 +323,7 @@
 @trans-s
 @plse set="sename='yue_F00319'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -333,7 +333,7 @@
 @trans-s
 @plse set="sename='msr_F00037'"
 @【眞白】
-ホラ、はやくしよ？　狭塔様も待ってるしさ………\nって、おっ？\n初めて見たよ～。ユエっちの反抗的な目
+C’mon, let’s go. Sato-san’s waiting for… Hm? I think this’s the first time I’ve ever seen this…. Yue, starin’ me down all rebellious. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -343,7 +343,7 @@
 @trans-s
 @plse set="sename='yue_F00320'"
 @【由】
-………オレ、帰りません
+…I won’t go home.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -353,7 +353,7 @@
 @trans-s
 @plse set="sename='msr_F00038'"
 @【眞白】
-ゴメンね、君の希望は聞けないんだ
+Sorry, but what you want doesn’t really matter.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -363,7 +363,7 @@
 @trans-s
 @plse set="sename='yue_F00321'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -371,7 +371,7 @@
 
 @plse set="sename='msr_F00039'"
 @【眞白】
-さ、早くいこ？　睨み合っても時間の無駄だよ～
+So, let’s go, shall we? A staring contest is just gonna waste time.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -384,7 +384,7 @@
 @trans-s
 @plse set="sename='hin_F00074'"
 @【灯奈】
-由くん！！！
+Yue-kun!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -397,7 +397,7 @@
 @trans-n
 @plse set="sename='aky_F00044'"
 @【秋良】
-おい、狐面を返せ！！
+Oi, give Fox Mask back!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -410,7 +410,7 @@
 @trans-s
 @plse set="sename='msr_F00040'"
 @【眞白】
-ゴメンね、君たち。ユエっちは返してもらうね
+Sorry, you two, but I need to ask for Yuecchi back from you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -420,7 +420,7 @@
 @trans-s
 @plse set="sename='msr_F00041'"
 @【眞白】
-主様と狭塔様が首をながーくして待ってるからさ。\nあんまり待たせちゃうと、オレが怒られちゃうよ
+Master n’ Sato-sama are waiting on me with bated breath. If you make ‘em wait too long, I'll get angry.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -433,7 +433,7 @@
 @trans-s
 @plse set="sename='yue_F00322'"
 @【由】
-眞白さん………\nオレは、帰りません
+Mashiro-san… I won’t go home.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -443,7 +443,7 @@
 @trans-s
 @plse set="sename='yue_F00323'"
 @【由】
-黒狐も居ないし、あいつ、見つけないと\n今はそれどころじゃないから
+With Kurogitsune gone, and that guy we still haven’t found, it’s not the time for that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -453,7 +453,7 @@
 @trans-s
 @plse set="sename='msr_F00042'"
 @【眞白】
-ワガママはよくないよー？\nユエっち
+It’s not good to be selfish, is it, Yuecchi?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -463,7 +463,7 @@
 @trans-s
 @plse set="sename='msr_F00043'"
 @【眞白】
-オレも、あんまり力尽くってのは好きじゃないし、ね？
+Just so you know, I don’t like using brute force, okay?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -473,7 +473,7 @@
 @trans-s
 @plse set="sename='yue_F00324'"
 @【由】
-…………………っ！？
+……!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -481,7 +481,7 @@
 
 @plse set="sename='sgn_F00108'"
 @【嵯峨野】 name="f.name='???'"
-おい………何やってんだよ
+Oi… What the hell are you doing?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -491,7 +491,7 @@
 @trans-s
 @plse set="sename='yue_F00325'"
 @【由】
-え………
+Eh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -501,7 +501,7 @@
 @trans-s
 @plse set="sename='msr_F00044'"
 @【眞白】
-ん？？？
+???
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -517,7 +517,7 @@
 @trans-n
 @plse set="sename='sgn_F00109'"
 @【嵯峨野】
-何こんなのに捕まってんだお前。\n馬鹿なのか
+How’d you get caught like this? You slow in the head or somethin’?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -533,7 +533,7 @@
 @trans-n
 @plse set="sename='msr_F00045'"
 @【眞白】
-こんなのって失礼だな～～～。\nオレは君を捜してたんだよ、偽物君
+That’s a bit rude to me, isn’t it? We’ve been looking for you, Impostor-kun.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -543,7 +543,7 @@
 @trans-n
 @plse set="sename='sgn_F00110'"
 @【嵯峨野】
-へえ。\n尻尾巻いて逃げた割には威勢がいいじゃねえか。\n相棒居なくて大丈夫なのか？
+Oooh. You're pretty energetic for a guy who ran away with his tail between his legs, aren't you? Gonna be okay without your little boyfriend?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -553,7 +553,7 @@
 @trans-n
 @plse set="sename='msr_F00046'"
 @【眞白】
-そりゃ、ご心配どーも！\n偽者君も、あとで大口後悔しないように、ね！
+Don’t you worry about that. You should be worrying about how your big mouth is gonna have to eat all that crow, Impostor-kun!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -568,7 +568,7 @@
 @trans-n
 @plse set="sename='sgn_F00111'"
 @【嵯峨野】
-………フウン
+…Hmmm.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -578,7 +578,7 @@
 @trans-n
 @plse set="sename='sgn_F00112'"
 @【嵯峨野】
-やっぱ、相棒呼んでこなくて平気か？
+You really sure you don’t need your partner?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -588,7 +588,7 @@
 @trans-n
 @plse set="sename='msr_F00047'"
 @【眞白】
-ご親切も過ぎると失礼だよ～～～、偽者君
+Being too kind can also be seen as rude, Impostor-kun~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -606,7 +606,7 @@
 @trans-n
 @plse set="sename='aky_F00045'"
 @【秋良】
-おい、狐面。どうするんだ
+Oi, Fox Mask. What do we do now?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -616,7 +616,7 @@
 @trans-s
 @plse set="sename='yue_F00326'"
 @【由】
-今の内に、つばき達を探そう
+Let’s go look for Tsubaki and Kurogitsune right now.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -630,7 +630,7 @@
 @trans-n
 @plse set="sename='hin_F00075'"
 @【灯奈】
-うん………！
+Yeah…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -656,7 +656,7 @@
 @trans-n
 @plse set="sename='kgt_F00023'"
 @【架月】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -666,7 +666,7 @@
 @trans-n
 @plse set="sename='kgt_F00024'"
 @【架月】
-まさかこうなるとは思わなかったな。\n………黒狐
+I never thought it would turn out like this… Kurogitsune.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -676,7 +676,7 @@
 @trans-n
 @plse set="sename='kgt_F00025'"
 @【架月】
-………ひとまず、報告するか
+…I have to report this.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -697,7 +697,7 @@
 @trans-n
 @plse set="sename='aky_F00046'"
 @【秋良】
-居たぞ、あそこか！？
+Did you see who that was just now?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -705,7 +705,7 @@
 
 @plse set="sename='yue_F00327'"
 @【由】
-黒狐！！
+Kurogitsune!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -715,7 +715,7 @@
 @trans-n
 @plse set="sename='yue_F00328'"
 @【由】
-…………………え…………………\n………黒、狐？
+……Huh…? Kurogitsune…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -723,7 +723,7 @@
 
 @plse set="sename='krg_F00387'"
 @【黒狐】
-………由……
+Yue…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -734,7 +734,7 @@
 @trans-n
 @plse set="sename='yue_F00329'"
 @【由】
-…………………\n灯奈ちゃんと、あきよしは、ここで待ってて！
+Hina-chan and Akiyoshi, wait right here!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -744,7 +744,7 @@
 @trans-n
 @plse set="sename='yue_F00330'"
 @【由】
-黒狐！
+Kurogitsune!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -762,7 +762,7 @@
 @wait time=1200
 @messagelay
 @【黒狐】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -770,7 +770,7 @@
 
 @plse set="sename='krg_F00388'"
 @【黒狐】
-…………………ユエ………
+……Yue…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -778,7 +778,7 @@
 
 @plse set="sename='krg_F00389'"
 @【黒狐】
-…………………由？
+…Yue?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -786,7 +786,7 @@
 
 @plse set="sename='krg_F00390'"
 @【黒狐】
-………あ、おれ………
+I…I…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -794,7 +794,7 @@
 
 @plse set="sename='yue_F00331'"
 @【由】
-………つばき、は？
+…Tsubaki…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -806,7 +806,7 @@
 
 @plse set="sename='krg_F00391'"
 @【黒狐】
-………おれ、トーゴを、守ろうとして………
+I… I’m… protecting… Tougo…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -814,7 +814,7 @@
 
 @plse set="sename='krg_F00392'"
 @【黒狐】
-………悪食のヤツと、戦って………
+…Those akujiki… they attacked him…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -822,7 +822,7 @@
 
 @plse set="sename='krg_F00393'"
 @【黒狐】
-………それで………
+…And…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -830,7 +830,7 @@
 
 @plse set="sename='krg_F00394'"
 @【黒狐】
-…………………それで…………………
+……And……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -838,7 +838,7 @@
 
 @plse set="sename='krg_F00395'"
 @【黒狐】
-………いい、ニオイが、して………
+…He smelled… so good…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -846,7 +846,7 @@
 
 @plse set="sename='yue_F00332'"
 @【由】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -854,7 +854,7 @@
 
 @plse set="sename='yue_F00333'"
 @【由】
-………つばき………
+Tsubaki…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -865,7 +865,7 @@
 @trans-l
 @plse set="sename='krg_F00396'"
 @【黒狐】
-…………………っ！！！\nおれ………、まさか、トーゴを………？
+……!!! I… I didn’t… Tougo…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -873,7 +873,7 @@
 
 @plse set="sename='yue_F00334'"
 @【由】
-…………………黒狐が、ぶじで、よかったよ
+………………It’s good that you’re safe, Kurogitsune.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -881,7 +881,7 @@
 
 @plse set="sename='krg_F00397'"
 @【黒狐】
-………守るって、言ったのに
+…I said I’d protect him.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -889,7 +889,7 @@
 
 @plse set="sename='krg_F00398'"
 @【黒狐】
-由…………………
+Yue…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -897,7 +897,7 @@
 
 @plse set="sename='krg_F00399'"
 @【黒狐】
-…………………ごめん………っ
+………I’m sorry…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -905,7 +905,7 @@
 
 @plse set="sename='krg_F00400'"
 @【黒狐】
-畜生………っ
+Damn it… Damn it…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -918,7 +918,7 @@
 @wait time=1500
 @messagelay
 @【由】
-待って、黒狐！！
+Wait, Kurogitsune!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -937,7 +937,7 @@
 @trans-n
 @plse set="sename='hin_F00076'"
 @【灯奈】
-………おにーちゃ、ん………？
+Big…bro…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -950,7 +950,7 @@
 @trans-n
 @plse set="sename='yue_F00336'"
 @【由】
-………灯奈ちゃん………
+…Hina-chan…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -958,7 +958,7 @@
 
 @plse set="sename='hin_F00077'"
 @【灯奈】
-………あ………
+Ah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -971,7 +971,7 @@
 @trans-n
 @plse set="sename='aky_F00047'"
 @【秋良】
-一体どういう事だ。\n椿は………まさか………
+What can this… Tsubaki can’t… He can’t…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -982,7 +982,7 @@
 @trans-n
 @plse set="sename='yue_F00337'"
 @【由】
-…………………
+….
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -995,7 +995,7 @@
 @trans-n
 @plse set="sename='hin_F00078'"
 @【灯奈】
-いや………おにーちゃん………おにーちゃあん！！！
+No, no… Big bro… BIG BRO!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1005,7 +1005,7 @@
 @trans-n
 @plse set="sename='aky_F00048'"
 @【秋良】
-おい、狐面、どういう事なんだ。\n何故………椿はどうした！？
+Oi, Fox Mask. What the hell is this?! What happened to Tsubaki?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1018,7 +1018,7 @@
 @trans-n
 @plse set="sename='yue_F00338'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1028,7 +1028,7 @@
 @trans-n
 @plse set="sename='aky_F00049'"
 @【秋良】
-おい！　何とか言え狐面！！
+Say something, damn it! Oi! Fox Mask!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1038,7 +1038,7 @@
 @trans-n
 @plse set="sename='yue_F00339'"
 @【由】
-………黒狐………
+Kurogitsune…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1051,7 +1051,7 @@
 @trans-n
 @plse set="sename='hin_F00079'"
 @【灯奈】
-灯奈、アイツを追いかける！！\nよくも、おにーちゃんを………
+Hina’s going to find him! He’ll… Big bro…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1061,7 +1061,7 @@
 @trans-n
 @plse set="sename='aky_F00050'"
 @【秋良】
-待て！　椿妹！\nお前が今先走ったところでどうにもならないだろう！
+Wait! Little Tsubaki! If you rush ahead recklessly now who knows what might happen!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1071,7 +1071,7 @@
 @trans-n
 @plse set="sename='hin_F00080'"
 @【灯奈】
-離して………っ！！\n灯奈、アイツの事ゆるさないんだから！！
+Let go of me…! Hina won’t forgive him!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1081,7 +1081,7 @@
 @trans-n
 @plse set="sename='hin_F00081'"
 @【灯奈】
-信じてたのに！　やくそくしたのに………！！
+I believed in him! We made a promise!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1094,7 +1094,7 @@
 @trans-n
 @plse set="sename='yue_F00340'"
 @【由】
-………灯奈ちゃん………
+Hina-chan…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1104,7 +1104,7 @@
 @trans-n
 @plse set="sename='yue_F00341'"
 @【由】
-………ごめん………
+…I’m sorry…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1114,7 +1114,7 @@
 @trans-n
 @plse set="sename='hin_F00082'"
 @【灯奈】
-………おにーちゃん………\nかえして………ひっく………
+Give him back… Give me back my brother… Hic…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1127,7 +1127,7 @@
 @trans-n
 @plse set="sename='aky_F00051'"
 @【秋良】
-本当に、すっかり騙されたな
+We were fooled. Thoroughly and utterly.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1137,7 +1137,7 @@
 @trans-n
 @plse set="sename='aky_F00052'"
 @【秋良】
-………これでまた、\n仇を討たなければならない相手が増えた
+Now we have one more person to avenge.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1147,7 +1147,7 @@
 @trans-n
 @plse set="sename='yue_F00342'"
 @【由】
-………ごめんね………
+…I’m sorry…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1157,7 +1157,7 @@
 @trans-n
 @plse set="sename='aky_F00053'"
 @【秋良】
-今すぐ消えろ、狐面。\n次に会ったら、必ずきさまを退治してやる
+Disappear, Fox Mask. The next time I see you I will exterminate you on sight.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1167,7 +1167,7 @@
 @trans-n
 @plse set="sename='yue_F00343'"
 @【由】
-……………………………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1177,7 +1177,7 @@
 @trans-n
 @plse set="sename='yue_F00344'"
 @【由】
-うん、………じゃあね
+Okay. …See you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1187,7 +1187,7 @@
 @trans-n
 @plse set="sename='yue_F00345'"
 @【由】
-………つばきの事、オレもすごく、かなしいよ
+I’m… sad about Tsubaki, too…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1204,7 +1204,7 @@
 @trans-n
 @plse set="sename='hin_F00082'"
 @【灯奈】
-………おにーちゃん………\nかえして………ひっく………
+Give him back… Give me back my brother… Hic…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1214,7 +1214,7 @@
 @trans-n
 @plse set="sename='aky_F00054'"
 @【秋良】
-泣くな、椿妹。\nひとまず戻ろう。ここに居ても今は何もできん
+Don’t cry, Little Tsubaki. Something else might happen if we stay here any longer.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1223,7 +1223,7 @@
 @chara1.5 b="aki_b2_A001" f="aki_f2_h_d_a" o="aki_o2_A001"
 @trans-n
 @【秋良】
-……………………………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

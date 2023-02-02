@@ -38,7 +38,7 @@
 @trans-n
 @plse set="sename='cat_F00012'"
 @【その他】 name="f.name='Sennen Cat'"
-………ニャー………
+…Meow.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -48,7 +48,7 @@
 @trans-n
 @plse set="sename='cat_F00013'"
 @【その他】 name="f.name='Sennen Cat'"
-ニャー！！！
+Meow!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -67,7 +67,7 @@
 @trans-s
 @plse set="sename='yue_F00096'"
 @【由】
-………ふぁ………\nおはよ、せんねんねこ………
+…Fuaaah… G’morning, Sennen Cat…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -75,7 +75,7 @@
 
 @plse set="sename='krg_F00106'"
 @【黒狐】
-あんだよ、朝っぱらからニャーニャーうるっせーなァ、\nこっちは疲れてんだよ、\nもちっとゆっくり寝かせろよ～
+…Ugh, can you quit mewling at this ungodly hour? We’re tired, so let us sleep peacefully, alright?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -88,7 +88,7 @@
 @trans-n
 @plse set="sename='cat_F00014'"
 @【その他】 name="f.name='Sennen Cat'"
-ニャー
+Meow.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -98,7 +98,7 @@
 @trans-s
 @plse set="sename='krg_F00107'"
 @【黒狐】
-あー、解ってるって、出てくっつってんだろ、\nったく商売の邪魔って、ウルセーなァコイツ………\n客なんて来るのかよこの店………？
+Yeah, we get it. We’re going. “Seriously, can you stop being an obstruction to business”... Shut it. Who the hell is even coming to this kinda shop?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -108,7 +108,7 @@
 @trans-s
 @plse set="sename='yue_F00097'"
 @【由】
-………スー………
+…Zzz…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -118,7 +118,7 @@
 @trans-s
 @plse set="sename='krg_F00108'"
 @【黒狐】
-あー、由、立ったまま寝るな、危ないから
+…Yue, don’t sleep standing up.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -131,7 +131,7 @@
 @trans-n
 @plse set="sename='cat_F00015'"
 @【その他】 name="f.name='Sennen Cat'"
-ニャー………
+Meow…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @trans-s
 @plse set="sename='krg_F00109'"
 @【黒狐】
-あー、駄目だコリャ。\nとりあえず、なあ千年猫、朝飯はー？
+Yeah, it’s not good for him. Anyways, Sennen Cat, how’s about some grub?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -151,7 +151,7 @@
 @trans-n
 @plse set="sename='cat_F00016'"
 @【その他】 name="f.name='Sennen Cat'"
-ニャー………
+Meow…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -161,7 +161,7 @@
 @trans-s
 @plse set="sename='krg_F00110'"
 @【黒狐】
-あんだよ、\nいいだろそれくらいサービスしてくれたって
+The hell? That’s like the basic thing to do for a guest.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -169,7 +169,7 @@
 
 @plse set="sename='cat_F00017'"
 @【その他】 name="f.name='Sennen Cat'"
-………ニャン
+…Meow.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -179,7 +179,7 @@
 @trans-s
 @plse set="sename='krg_F00111'"
 @【黒狐】
-え？\nその辺にあるヤツ勝手に持ってけって？\n………その辺っつわれても
+Huh? “Take whatever you can see around here?” But, around here is…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -189,7 +189,7 @@
 @trans-s
 @plse set="sename='krg_F00112'"
 @【黒狐】
-何だよ、みかんしかねーじゃねえか！！！\nみかんで腹が膨れるかよー！！！
+…The hell? It’s all tangerines! Tangerines make me bloated!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -199,7 +199,7 @@
 @trans-n
 @plse set="sename='cat_F00018'"
 @【その他】 name="f.name='Sennen Cat'"
-ニャー！！！
+Meow!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -209,7 +209,7 @@
 @trans-s
 @plse set="sename='krg_F00113'"
 @【黒狐】
-知るか、ってしょうがねえな………\nとりあえず、コレ持って行くか。\nホラ、由
+“How was I supposed to know?” …Fine, fair enough. C’mon, Yue. Take one and let’s go.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -222,7 +222,7 @@
 @trans-s
 @plse set="sename='yue_F00098'"
 @【由】
-………え………\nなに、コレ………みかん………？
+…Huh, is this… a tangerine?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -232,7 +232,7 @@
 @trans-s
 @plse set="sename='krg_F00114'"
 @【黒狐】
-とりあえずソレ持って。\n行こうぜ
+Just take it and go.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -242,7 +242,7 @@
 @trans-s
 @plse set="sename='yue_F00099'"
 @【由】
-………行くってどこに………？
+…Go where…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -252,7 +252,7 @@
 @trans-s
 @plse set="sename='krg_F00115'"
 @【黒狐】
-ソレはまあ適当に………\nじゃあな、千年猫。\n世話になったな
+Somewhere, uh, appropriate… Bye, Sennen Cat. Take care of yourself.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -265,7 +265,7 @@
 @trans-n
 @plse set="sename='cat_F00019'"
 @【その他】 name="f.name='Sennen Cat'"
-ニャー
+Meow.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -275,7 +275,7 @@
 @trans-s
 @plse set="sename='krg_F00116'"
 @【黒狐】
-………せいぜい足掻けって、\nそんな縁起でもねー事言うなっての！\nたく………
+“Struggle the best you can”...? That’s not encouraging at all… Jeez.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -288,7 +288,7 @@
 @trans-s
 @plse set="sename='yue_F00100'"
 @【由】
-………ふぁ………\nんー、ねむいよう………
+…Fuaah… Tired…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -298,7 +298,7 @@
 @trans-s
 @plse set="sename='krg_F00117'"
 @【黒狐】
-………由………\n相変わらずの調子でなんか安心したぜ………
+…Yue… It’s good to know at least one thing around here hasn’t changed.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -308,7 +308,7 @@
 @trans-s
 @plse set="sename='yue_F00101'"
 @【由】
-………ふぁ………\nなんかよくわからないけど………\nとりあえず、おじゃましましたー
+…Fuaah… I don’t really get it, but… Please pardon us…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -321,7 +321,7 @@
 @trans-n
 @plse set="sename='cat_F00020'"
 @【その他】 name="f.name='Sennen Cat'"
-………ニャーン
+…Meow.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -331,7 +331,7 @@
 @trans-s
 @plse set="sename='krg_F00118'"
 @【黒狐】
-何だよ、そんな心配そうな顔すんなら、\nもうちょい匿ってくれたっていいんだぜ？
+What’s up? You seem worried. Maybe you’d like to shelter us just a little bit longer?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -339,7 +339,7 @@
 
 @plse set="sename='cat_F00021'"
 @【その他】 name="f.name='Sennen Cat'"
-………ニャー
+…Meow.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -349,7 +349,7 @@
 @trans-s
 @plse set="sename='krg_F00119'"
 @【黒狐】
-それは駄目だニャーって、ったく………\nんじゃ、行くか
+“That’s nyo good.” Man… Alright… See you, then.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -362,7 +362,7 @@
 @trans-s
 @plse set="sename='yue_F00102'"
 @【由】
-…………………\nスー………
+…Zzz…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -372,7 +372,7 @@
 @trans-s
 @plse set="sename='krg_F00120'"
 @【黒狐】
-…………………\n激しく不安だぜ………
+…Suddenly, I feel anxious.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -382,7 +382,7 @@
 @trans-s
 @plse set="sename='krg_F00121'"
 @【黒狐】
-とっとと食事して、早く帰ろうぜ、由
+Let’s have you your Meal and get home, Yue.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -392,7 +392,7 @@
 @trans-s
 @plse set="sename='yue_F00103'"
 @【由】
-………んー………
+…Mm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -402,7 +402,7 @@
 @trans-s
 @plse set="sename='krg_F00122'"
 @【黒狐】
-さて、\nまずはあいつら探さねーとだな………
+Okay, first things first- find those two.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

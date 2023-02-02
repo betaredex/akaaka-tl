@@ -32,7 +32,6 @@
 @trans-s
 @plse set="sename='yue_F00119'"
 @【由】
-………これから、どうしよっか？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -40,7 +39,6 @@
 
 @plse set="sename='krg_F00130'"
 @【黒狐】
-そうだなー。\n下手に歩き回ってても危険なだけだしなァ………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -50,7 +48,6 @@
 @trans-s
 @plse set="sename='yue_F00120'"
 @【由】
-………「食事」しなきゃ、か………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -60,7 +57,6 @@
 @trans-s
 @plse set="sename='krg_F00131'"
 @【黒狐】
-………ン？\n何か言ったか？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -70,7 +66,6 @@
 @trans-s
 @plse set="sename='yue_F00121'"
 @【由】
-え？\nウウン、おなかすいたなァって
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -80,7 +75,6 @@
 @trans-s
 @plse set="sename='krg_F00132'"
 @【黒狐】
-だよなー。\nとりあえず何か食わねえと力出ねえよな～
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -90,7 +84,6 @@
 @trans-s
 @plse set="sename='yue_F00122'"
 @【由】
-…………………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -98,7 +91,6 @@
 
 @plse set="sename='yue_F00123'"
 @【由】
-自分の為の、食事、か………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -108,7 +100,6 @@
 @trans-s
 @plse set="sename='yue_F00124'"
 @【由】
-…………………\nあの、二人の、どちらかを………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -118,7 +109,6 @@
 @trans-s
 @plse set="sename='krg_F00133'"
 @【黒狐】
-ン？\n由、どうした？　俯いて。\n気分悪いのか？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -128,7 +118,6 @@
 @trans-s
 @plse set="sename='yue_F00125'"
 @【由】
-え？\nううん、何でもないよ？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -138,7 +127,6 @@
 @trans-s
 @plse set="sename='krg_F00134'"
 @【黒狐】
-ホントかよ～、嘘ついたら針千本飲ますぞ！
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -148,7 +136,6 @@
 @trans-s
 @plse set="sename='yue_F00126'"
 @【由】
-やだよ、黒狐が代わりに飲んで
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -158,7 +145,6 @@
 @trans-s
 @plse set="sename='krg_F00135'"
 @【黒狐】
-オイ、それってつまり嘘って事かよ！
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -168,7 +154,6 @@
 @trans-s
 @plse set="sename='krg_F00136'"
 @【黒狐】
-動けねえならちょっと休憩すっか～？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -176,7 +161,6 @@
 
 @plse set="sename='krg_F00137'"
 @【黒狐】
-にしても、どっかには行かないとだな………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -186,7 +170,6 @@
 @trans-s
 @plse set="sename='krg_F00138'"
 @【黒狐】
-うーん、どこ行くかな………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -206,7 +189,6 @@
 
 @plse set="sename='ort_F00000'"
 @【青年Ａ】 name="f.name='Guy A'"
-…………………あれ～？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -214,7 +196,6 @@
 
 @plse set="sename='yuk_F00000'"
 @【少女Ａ】 name="f.name='Girl A'"
-………どうしたの？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -222,7 +203,6 @@
 
 @plse set="sename='ort_F00001'"
 @【青年Ａ】 name="f.name='Guy A'"
-………アッチ側に、見えるのって………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -233,7 +213,6 @@
 @trans-n
 @plse set="sename='yuk_F00001'"
 @【少女Ａ】 name="f.name='Girl A'"
-………え？\n誰か、いたの？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -243,7 +222,6 @@
 @trans-n
 @plse set="sename='ort_F00002'"
 @【青年Ａ】 name="f.name='Guy A'"
-あーあ、もーいっちゃった。\n………迷子チャン？　狐チャン？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -253,7 +231,6 @@
 @trans-n
 @plse set="sename='yuk_F00002'"
 @【少女Ａ】 name="f.name='Girl A'"
-…………………\nそう
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -263,7 +240,6 @@
 @trans-n
 @plse set="sename='ort_F00003'"
 @【青年Ａ】 name="f.name='Guy A'"
-たしかに居たんだよー。すぐいっちゃったけど
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -273,7 +249,6 @@
 @trans-n
 @plse set="sename='ort_F00004'"
 @【青年Ａ】 name="f.name='Guy A'"
-………みえなくなったから、\nまー、いっかっ。\nそれより、今日はどーするの？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -283,7 +258,6 @@
 @trans-n
 @plse set="sename='yuk_F00003'"
 @【少女Ａ】 name="f.name='Girl A'"
-…………………\nうふふ
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +267,6 @@
 @trans-n
 @plse set="sename='ort_F00005'"
 @【青年Ａ】 name="f.name='Guy A'"
-あー、そのわらいかた………\n今日はゴチソウなんだー。\nいーな、いーなっ
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -303,7 +276,6 @@
 @trans-n
 @plse set="sename='yuk_F00004'"
 @【少女Ａ】 name="f.name='Girl A'"
-…………………\n邪魔は、しない約束よ
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -313,7 +285,6 @@
 @trans-n
 @plse set="sename='ort_F00006'"
 @【青年Ａ】 name="f.name='Guy A'"
-しないよー。みてるだけでいーよー？\nたのしそーだしねー
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -323,7 +294,6 @@
 @trans-n
 @plse set="sename='yuk_F00005'"
 @【少女Ａ】 name="f.name='Girl A'"
-………うふふ。\nまっててね、おいしい、おにいちゃん？
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

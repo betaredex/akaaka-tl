@@ -29,7 +29,7 @@
 @trans-n
 @plse set="sename='yue_F00142'"
 @【由】
-駅だね～
+The train station!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -37,7 +37,7 @@
 
 @plse set="sename='krg_F00155'"
 @【黒狐】
-そうだなー。\n駅だなー
+Yup, the train station.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -47,7 +47,7 @@
 @trans-n
 @plse set="sename='yue_F00143'"
 @【由】
-ここから、逃げられたりしないかな？
+Are we going to run away on this?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -57,7 +57,7 @@
 @trans-n
 @plse set="sename='krg_F00156'"
 @【黒狐】
-あん？
+Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -67,7 +67,7 @@
 @trans-n
 @plse set="sename='yue_F00144'"
 @【由】
-駅って、どこか遠くへ行く為の場所なんでしょ。\nだったら、ここから違う所へ、行けないかなあって
+Trains can go to places really far away, right? So why don’t we go somewhere else, maybe~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -77,7 +77,7 @@
 @trans-n
 @plse set="sename='krg_F00157'"
 @【黒狐】
-無理だろ、電車止まんねーもん。\nこの街は、誰も外には出られないんだよ
+No can do. The trains don’t stop at the station. No one can leave this town, after all.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -87,7 +87,7 @@
 @trans-n
 @plse set="sename='yue_F00145'"
 @【由】
-フーン………そうなんだ
+…Hmm, I see.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -95,7 +95,7 @@
 
 @plse set="sename='yue_F00146'"
 @【由】
-じゃあ何で、駅があるんだろうね？
+Then why are there trains?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -105,7 +105,7 @@
 @trans-n
 @plse set="sename='krg_F00158'"
 @【黒狐】
-おれが知るかよ。誰か物好きが作ったんだろ
+As if I know. Maybe someone weird built it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @trans-n
 @plse set="sename='yue_F00147'"
 @【由】
-電車、来ないかなあ。\nね、黒狐、見てみたくない？
+Train won’t come… Hey Kurogitsune, are you sure you don’t want to take a look?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -125,7 +125,7 @@
 @trans-n
 @plse set="sename='krg_F00159'"
 @【黒狐】
-なんだよ、どっかに逃げたいのかよ？\n食事すりゃ済む話なんだから、\nいちいちめんどくせー事考えんな
+And go where, exactly? Save this conversation for after you finish your Meal. Don’t worry about every little thing.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -135,7 +135,7 @@
 @trans-n
 @plse set="sename='yue_F00148'"
 @【由】
-…………………\nそうかもしれないけど………
+…Maybe, but…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -144,7 +144,7 @@
 @chara3 b="yue_b2_A001" f="yue_f2_e_c_d" o="yue_o2_A001"
 @trans-n
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -154,7 +154,7 @@
 @trans-n
 @plse set="sename='yue_F00149'"
 @【由】
-（…………………\nオレの行く場所なんてないんだね。\n解ってたんだけど）
+(I don’t have anywhere I want to go… I know that, but…)
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -162,7 +162,7 @@
 
 @plse set="sename='yue_F00150'"
 @【由】
-（………ちょっとだけ、考えちゃったんだ）
+(...I’ve thought about it, just a little.)
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -172,7 +172,7 @@
 @trans-n
 @plse set="sename='yue_F00151'"
 @【由】
-（…………………\n黒狐といろんな所行きたいって。\n………内緒だよ？　………シン）
+(I want to go to plenty of places with Kurogitsune. …Can you keep that a secret, Shin?)
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

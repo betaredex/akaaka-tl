@@ -41,7 +41,7 @@
 @trans-s
 @plse set="sename='msr_F00015'"
 @【眞白】
-はーあーあー………
+Haaaaaaaaaaaaah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -51,7 +51,7 @@
 @trans-s
 @plse set="sename='kgt_F00012'"
 @【架月】
-………眞白。\nあからさまにムカツク溜息ついてんじゃねえよ
+Mashiro, I get that you’re annoyed, but you don’t need to make it my problem too.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -61,7 +61,7 @@
 @trans-s
 @plse set="sename='msr_F00016'"
 @【眞白】
-だってー、なんかゼンゼン見つからないしー………\n邪魔者もなんか手ごわいしー………\n溜息くらい吐かせて欲しいっていうかー………
+But… We haven’t found anything, and all the obstacles in our path have been absurdly tough… It makes you want to at least sigh, you know?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -71,7 +71,7 @@
 @trans-s
 @plse set="sename='msr_F00017'"
 @【眞白】
-偽シンちゃんも、ユエっち達も\nオレ達が探さなきゃなんないじゃーん。\n身体がふたつあっても足りないよ………うう………
+The fake Shin, Yuecchi runnin’ out on us, and we’ve gotta look for both, which makes me twice as tired… Uuugh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -81,7 +81,7 @@
 @trans-s
 @plse set="sename='kgt_F00013'"
 @【架月】
-………もーいい。\nそんな泣き言ばっか言ってるなら、お前はお前で探せ。\n俺も勝手にやる
+I get it already. If you’re gonna keep complaining, then you look by yourself. I’ll do whatever I want too.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -91,7 +91,7 @@
 @trans-s
 @plse set="sename='msr_F00018'"
 @【眞白】
-え？\nかげっちゃん、オレを置いていくつもりなのー？
+Eh? Kagecchan, you’re not going to go with me?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -101,7 +101,7 @@
 @trans-s
 @plse set="sename='kgt_F00014'"
 @【架月】
-二人で同じもの探したってしょうがねえだろ。\n………という事に、たった今気付いた
+We’re both looking for the same thing, so there’s no other way… I just realized that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -111,7 +111,7 @@
 @trans-s
 @plse set="sename='msr_F00019'"
 @【眞白】
-いやー、偽シンちゃんはひとりだと荷が重いと\n思うケドね………ま、いーよ。かげっちゃん、\nオレユエっち達探すから、偽シンちゃんは任せたね
+Well, tryin’ to find the fake Shin all on my own is definitely a big burden… Guess it’s okay though. I’ll go look for Yuecchi. Kagecchan, I’ll leave fake Shin to you. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 @trans-s
 @plse set="sename='kgt_F00015'"
 @【架月】
-…………………。\nてめー、率先して楽な方取るんじゃねえよ
+………Wait. You bastard, jumping to take the easiest way out…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -131,7 +131,7 @@
 @trans-s
 @plse set="sename='msr_F00020'"
 @【眞白】
-いーじゃない、少しは労ってよ～？
+C’mon! Sympathize with me, will ya?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @trans-s
 @plse set="sename='kgt_F00016'"
 @【架月】
-うるせえな、条件は一緒だろ。\nじゃあ、ジャンケンで決めるか
+Shut up. Fine, I’ve got one condition. Rock paper scissors me for it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -151,7 +151,7 @@
 @trans-s
 @plse set="sename='msr_F00021'"
 @【眞白】
-えー？\nジャンケンかぁ………まあいいけど………
+What? Rock paper scissors… Fine, let’s go.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -162,7 +162,7 @@
 @trans-s
 @plse set="sename='msr_F00022'"
 @【眞白】
-んじゃ、じゃーんけーんぽん！
+Rock, paper, scissors, shoot!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -172,7 +172,7 @@
 @trans-s
 @plse set="sename='kgt_F00017'"
 @【架月】
-…………………\nチョキだ
+Scissors.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -182,7 +182,7 @@
 @trans-s
 @plse set="sename='msr_F00023'"
 @【眞白】
-…………………\nパーだよ。って、ウワ、さいあく………\nオレっちの負け………？
+Paper… Ah, crap. I lost…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -192,7 +192,7 @@
 @trans-s
 @plse set="sename='kgt_F00018'"
 @【架月】
-フッ、勝ったな
+Hmph, I won.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -202,7 +202,7 @@
 @trans-s
 @plse set="sename='kgt_F00019'"
 @【架月】
-じゃあ、俺が由達を探すから。\nお前は偽シンの方な
+Alright, I’ll go find Yue. You go look for the fake Shin.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -212,7 +212,7 @@
 @trans-s
 @plse set="sename='msr_F00024'"
 @【眞白】
-エー………はーい………
+Ugh… Yes sir…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -222,7 +222,7 @@
 @trans-s
 @plse set="sename='kgt_F00020'"
 @【架月】
-何かあったら連絡しろよ。\nあと、サボんなよ
+Contact me the second something happens. Oh, and don’t slack off.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -232,7 +232,7 @@
 @trans-s
 @plse set="sename='msr_F00025'"
 @【眞白】
-ハイハーイって。\nんじゃ、かげっちゃんも気をつけて～
+Yeah, yeah, you take care now, Kagecchan~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -242,7 +242,7 @@
 @trans-s
 @plse set="sename='kgt_F00021'"
 @【架月】
-安心しろ。\nお前がやられたら、ちゃんと新しい相棒探すから
+Don’t worry. If you bite it, maybe I can find a new, better partner.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -255,7 +255,7 @@
 @trans-s
 @plse set="sename='msr_F00026'"
 @【眞白】
-はあー！？
+Huh?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -263,7 +263,7 @@
 
 @plse set="sename='msr_F00027'"
 @【眞白】
-ひっどいよー、\n縁起でもない事言わないでよ、もー………
+What a jerk… Don’t say stuff that makes me feel like I just got cursed…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -273,7 +273,7 @@
 @trans-s
 @plse set="sename='msr_F00028'"
 @【眞白】
-…………………行っちゃった
+…And he’s gone.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -283,7 +283,7 @@
 @trans-s
 @plse set="sename='msr_F00029'"
 @【眞白】
-かげっちゃん、絶対最初はチョキ出すんだよね～
+… I could tell Kagecchan definitely was throwing out paper at the start…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +293,7 @@
 @trans-s
 @plse set="sename='msr_F00030'"
 @【眞白】
-あんなブアイソなのに、ちょっとかわいいよね
+He’s blunt and unfriendly… but that’s cute, in its own way.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -301,7 +301,7 @@
 
 @plse set="sename='kgt_F00022'"
 @【架月】
-あ？　何か言ったか？
+Huh? Ya say something?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -311,7 +311,7 @@
 @trans-s
 @plse set="sename='msr_F00031'"
 @【眞白】
-んー？\nウウン、なんでもないよー
+Hm? Nope, nothing~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -321,7 +321,7 @@
 @trans-s
 @plse set="sename='msr_F00032'"
 @【眞白】
-さ、オレもいこいこ
+Alright, let’s go, let’s go.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

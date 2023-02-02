@@ -36,7 +36,7 @@
 @trans-n
 @plse set="sename='mkt_F00028'"
 @【ミコト】
-…………………そうか。\nとうとう黒狐が椿の子を………
+…I see. At last, the child of Tsubaki has… by Kurogitsune…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -46,7 +46,7 @@
 @trans-n
 @plse set="sename='kgt_F00026'"
 @【架月】
-悪食と接触して消耗したようです。\n手近な三つ星に手を出したのでしょう
+He became exhausted after contact with an akujiki. Mitsuboshi was nearby… He couldn’t resist.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -56,7 +56,7 @@
 @trans-n
 @plse set="sename='mkt_F00029'"
 @【ミコト】
-…………………\nそうか………
+…I see…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -69,7 +69,7 @@
 @trans-n
 @plse set="sename='sto_F00043'"
 @【狭塔】
-なんと言う事を………！
+How can this possibly…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -79,7 +79,7 @@
 @trans-n
 @plse set="sename='kgt_F00027'"
 @【架月】
-連れ帰ろうとも思いましたが、既に手遅れでした。\n姿は………まだ黒狐のものでしたが、\n数日はもたないかと
+I thought about taking him home, but it was already too late. His form was…still Kurogitsune’s, but I don’t think it’ll last more than a few days.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -90,7 +90,7 @@
 @trans-n
 @plse set="sename='kgt_F00028'"
 @【架月】
-悪食を主様のお社に入れるわけには参りませんので、\nまずはご報告にあがりました
+We cannot allow akujiki to enter the Master’s shrine, so I came to report to you as soon as possible.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -100,7 +100,7 @@
 @trans-n
 @plse set="sename='sto_F00044'"
 @【狭塔】
-始末も、してはいないのですね
+You didn’t clean up the mess?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -111,7 +111,7 @@
 @trans-n
 @plse set="sename='kgt_F00029'"
 @【架月】
-…………………\nご指示をいただければ、そのように
+If you instruct me to do so, I will. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 @trans-n
 @plse set="sename='sto_F00045'"
 @【狭塔】
-………なるほど。\n三つ星を食事して得る力は未知数ですから、\nお前一人では手に余るかもしれませんね
+I see. The power gained from eating Mitsuboshi is unknown, so you may not be able to handle it alone.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -131,7 +131,7 @@
 @trans-n
 @plse set="sename='kgt_F00030'"
 @【架月】
-…………………\nはい
+…Sir.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @trans-n
 @plse set="sename='sto_F00046'"
 @【狭塔】
-………ミコト様。\n事は急を要します。\nもう、悠長に構えては居られますまい
+Mikoto-sama. The matter is now urgent. We cannot afford to take our time now.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -149,7 +149,7 @@
 
 @plse set="sename='sto_F00047'"
 @【狭塔】
-依代を保護せねばなりませぬ
+Protect the yorishiro at all costs.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -162,7 +162,7 @@
 @trans-n
 @plse set="sename='mkt_F00030'"
 @【ミコト】
-…………………\nああ、そうじゃな
+…Yes, I agree.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -175,7 +175,7 @@
 @trans-n
 @plse set="sename='kgt_F00031'"
 @【架月】
-アイツ………もう、…………………
+He’s… Already………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -185,7 +185,7 @@
 @trans-n
 @plse set="sename='sto_F00048'"
 @【狭塔】
-間に合わないのはお前が一番知っているでしょう。\n下手な仮定など止めなさい
+You know best that you won't make it in time. Stop making poor judgments.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -193,7 +193,7 @@
 
 @plse set="sename='sto_F00049'"
 @【狭塔】
-ただでさえ食事も満足に出来ない、\n未熟な一族の生き残りです
+Furthermore, he is the survivor of an immature clan that cannot be satisfied by Meals.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -203,7 +203,7 @@
 @trans-n
 @plse set="sename='sto_F00050'"
 @【狭塔】
-三つ星などという過分な食事をすれば、\n得た力の大きさに耐えかねて\nあっと言う間に悪食になってもおかしくはない
+If one eats an excessive diet of Mitsuboshi-class Meals, it is not surprising that they will quickly become an akujiki because they cannot control the amount of power they have gained.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -217,7 +217,7 @@
 @trans-n
 @plse set="sename='mkt_F00031'"
 @【ミコト】
-…………………\n由を、守ろうとしたのじゃろうのう………\n黒狐は
+…I thought Kurogitsune’s purpose was to protect Yue…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -227,7 +227,7 @@
 @trans-n
 @plse set="sename='sto_F00051'"
 @【狭塔】
-………ミコト様………お気持ちは解りますが、\nもう、手は施せないでしょう。\n悪食の末路は、元が誰であろうと同じ
+…Mikoto-sama, I understand your feelings, but this matter is beyond our hands now. It matters not who an akujiki once was. Their fate remains unchanged.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -237,7 +237,7 @@
 @trans-n
 @plse set="sename='sto_F00052'"
 @【狭塔】
-食への欲望が膨らみすぎて、\n自我を失いいずれその姿すら失うのです
+Their desire for food becomes so great that they lose their ego, and eventually even their form.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -247,7 +247,7 @@
 @trans-n
 @plse set="sename='mkt_F00032'"
 @【ミコト】
-…………………\n黒狐………
+Kurogitsune…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -257,7 +257,7 @@
 @trans-n
 @plse set="sename='sto_F00053'"
 @【狭塔】
-哀れみのお気持ちはありましょうが、\n三つ星の子を食事する大罪
+You may pity him, but to eat a child of the Mitsuboshis is a grave sin.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -267,7 +267,7 @@
 @trans-n
 @plse set="sename='sto_F00054'"
 @【狭塔】
-依代を連れて逃げた事に加えて、\n看過は到底できませんな
+In addition to the fact he ran off with the yorishiro, we can overlook his actions no longer.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -277,7 +277,7 @@
 @trans-n
 @plse set="sename='sto_F00055'"
 @【狭塔】
-急ぎ、処分しなければなりません。\n………由君の、為にも
+We must put him down with haste. …For Yue-kun’s sake.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -287,7 +287,7 @@
 @trans-n
 @plse set="sename='mkt_F00033'"
 @【ミコト】
-…………………\nしかし、由は、何と思うかのう………
+…I wonder what Yue is thinking…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -297,7 +297,7 @@
 @trans-n
 @plse set="sename='mkt_F00034'"
 @【ミコト】
-可哀想な子じゃ。………どちらも
+What pitiful children, those two.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -307,7 +307,7 @@
 @trans-n
 @plse set="sename='sto_F00056'"
 @【狭塔】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -315,7 +315,7 @@
 
 @plse set="sename='sto_F00057'"
 @【狭塔】
-………ミコト様
+…Mikoto-sama.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -325,7 +325,7 @@
 @trans-n
 @plse set="sename='sto_F00058'"
 @【狭塔】
-………あれの姿が残るうちに\n始末を付けてやるのも、\n情けのひとつではありませぬか
+To let him die still in that form… It’s a form of mercy, isn’t it?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -335,7 +335,7 @@
 @trans-n
 @plse set="sename='sto_F00059'"
 @【狭塔】
-………せめて、形を失わぬうちに
+Let us at least find him before he loses his body.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -345,7 +345,7 @@
 @trans-n
 @plse set="sename='mkt_F00035'"
 @【ミコト】
-お主は、そう思うか、狭塔
+So that’s what you think, Sato.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -355,7 +355,7 @@
 @trans-n
 @plse set="sename='mkt_F00036'"
 @【ミコト】
-あの子なら、どう言うのかのう………\nシン
+What shall we do with that child… Shin?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -365,7 +365,7 @@
 @trans-n
 @plse set="sename='sto_F00060'"
 @【狭塔】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -375,7 +375,7 @@
 @trans-n
 @plse set="sename='mkt_F00037'"
 @【ミコト】
-本当に、………憐れな事じゃ
+Truly… It’s a miserable thing.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -385,7 +385,7 @@
 @trans-n
 @plse set="sename='sto_F00061'"
 @【狭塔】
-…………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

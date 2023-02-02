@@ -26,7 +26,7 @@
 
 @plse set="sename='f08_A00000'"
 @【ヒトビト】 name="f.name='Student'"
-………じゃあね、バイバーイ
+…’Kay, see ya!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -34,7 +34,7 @@
 
 @plse set="sename='с9_A00000'"
 @【ヒトビト】 name="f.name='Student'"
-また明日ね～
+See you tomorrow~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -42,7 +42,7 @@
 
 @plse set="sename='f10_A00000'"
 @【ヒトビト】 name="f.name='Student'"
-また明日ね～
+See you tomorrow~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -52,7 +52,7 @@
 @trans-s
 @plse set="sename='aky_A00020'"
 @【秋良】
-…………………\n……………………………………
+…………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -61,7 +61,7 @@
 @chara3 b="aki_b2_A001" f="aki_f2_g_d_a_c" o="aki_o2_A001"
 @plse set="sename='aky_A00021'"
 @【秋良】
-…………………ックシュン！
+………Achoo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -70,7 +70,7 @@
 @chara3 b="aki_b2_A003" f="aki_f2_e_d_a_c" o="aki_o2_A001"
 @plse set="sename='aky_A00022'"
 @【秋良】
-…………………\nチッ、今日は早く帰るか………
+…Tch, I should go home early…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @trans-n
 @plse set="sename='tog_A00010'"
 @【灯吾】
-…………………\n………ん？
+…Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -101,7 +101,7 @@
 @trans-n
 @plse set="sename='szk_A00157'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………椿ー！\nちょっ、待ってー！
+Tsubaki!!! W-wait!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -110,7 +110,7 @@
 @chara1.5 b="togo_b3_A001" f="togo_f3_a_a_g"
 @plse set="sename='tog_A00011'"
 @【灯吾】
-………鈴来。\n何？　そんな急いで
+…Suzuki? What’s up? You’re in a rush.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -119,7 +119,7 @@
 @chara4.5 b="suzuki_b1_A001" f="suzuki_f1_b_d_bc"
 @plse set="sename='szk_A00158'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………ッ、途中まで一緒に帰ろ！\n………ッ、よかったら、だけど………
+…Can I walk home with you? If that’s okay with you, I mean…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -128,7 +128,7 @@
 @chara1.5 b="togo_b3_A001" f="togo_f3_c_b_a"
 @plse set="sename='tog_A00012'"
 @【灯吾】
-ああ、そういや途中まで道一緒だっけか。\n別にいーけど
+Yeah, you can walk with me. It’s no big deal.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -137,7 +137,7 @@
 @chara4.5 b="suzuki_b1_A001" f="suzuki_f1_b_e_bc"
 @plse set="sename='szk_A00159'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ホント！？
+Really?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -146,7 +146,7 @@
 @chara1.5 b="togo_b3_A001" f="togo_f3_b_b_g"
 @plse set="sename='tog_A00013'"
 @【灯吾】
-ついでに昨日のノート返すよ。\nわざわざ悪かったな
+Oh, and thanks for the notes yesterday. Sorry I missed you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -155,7 +155,7 @@
 @chara4.5 b="suzuki_b1_A001" f="suzuki_f1_b_d_bc"
 @plse set="sename='szk_A00160'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ウン、ウウン、それは別にいいんだ。\nそれより椿さ、進路希望の用紙もう出した？
+Don’t worry about it! Anyways, Tsubaki. Did you already put down what you wanna do after graduation?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -164,7 +164,7 @@
 @chara1.5 b="togo_b3_A001" f="togo_f3_a_a_a"
 @plse set="sename='tog_A00014'"
 @【灯吾】
-え？\nまだだけど。\n………何？
+Huh? Not yet. …Why?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -173,7 +173,7 @@
 @chara4.5 b="suzuki_b1_A001" f="suzuki_f1_b_e_b"
 @plse set="sename='szk_A00161'"
 @【鈴来くん】 name="f.name='Suzuki'"
-僕もさ、まだなんだけど、ずっと悩んでたんだけど、\n昨日やっと何て書いたらいいか分かったんだ！
+I haven't, either, but I've been struggling with it for a while, and yesterday I finally figured out what to write!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -182,7 +182,7 @@
 @chara1.5 b="togo_b3_A002" f="togo_f3_c_b_g"
 @plse set="sename='tog_A00015'"
 @【灯吾】
-へえ………そりゃ良かったな。\nで、なんて書いたわけ？
+Huh… Good for you. So what’d you write?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -191,7 +191,7 @@
 @chara4.5 b="suzuki_b1_A001" f="suzuki_f1_e3_e_bc"
 @plse set="sename='szk_A00162'"
 @【鈴来くん】 name="f.name='Suzuki'"
-街を守りながら歴史を調べる、戦う民俗学者！\n………どうかな！？
+I want to uncover the mysteries of this town while I protect it! …A fighting folklorist! What do you think?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -201,7 +201,7 @@
 @chara1.5 b="togo_b3_A001" f="togo_f3_b_b_g"
 @plse set="sename='tog_A00016'"
 @【灯吾】
-…………………\nふ～ん………\n呼び出しくらわないよう、気をつけろよ。ソレ
+…Hm… I wouldn’t want to be called that. Be careful not to get eaten.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -210,7 +210,7 @@
 @chara4.5 b="suzuki_b1_A004" f="suzuki_f1_e3_e_bc"
 @plse set="sename='szk_A00163'"
 @【鈴来くん】 name="f.name='Suzuki'"
-え？
+Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

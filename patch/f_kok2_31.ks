@@ -33,7 +33,7 @@
 @trans-s
 @plse set="sename='aky_F00011'"
 @【秋良】
-…………………\n遅い………
+……Late!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -43,7 +43,7 @@
 @trans-n
 @plse set="sename='tog_F00000'"
 @【灯吾】
-まぁ、時間守るタイプには見えないよな、アイツ
+Well, I didn’t think he was the type to keep track of time.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -53,7 +53,7 @@
 @trans-s
 @plse set="sename='aky_F00012'"
 @【秋良】
-肝心な初日だというのに一体何を考えているんだ、\nブツブツ………
+What could you be doing on our ever so important inaugural day, grumble grumble grumble…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -63,7 +63,7 @@
 @trans-n
 @plse set="sename='tog_F0001'"
 @【灯吾】
-しょうがないだろ、気長に待とうぜ
+Not like we can do anything about it. Let’s just be patient.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -73,7 +73,7 @@
 @trans-s
 @plse set="sename='aky_F00013'"
 @【秋良】
-そんな事を言ったら、日が暮れてしまうぞ………？
+You say that, but hasn’t the sun already set…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -83,7 +83,7 @@
 @trans-n
 @plse set="sename='tog_F00002'"
 @【灯吾】
-にしてもさ、あっきーは、犯人てどんな奴だと思う？
+Anyways, Akki, who d’you think the culprit is?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -93,7 +93,7 @@
 @trans-s
 @plse set="sename='aky_F00014'"
 @【秋良】
-なんだ唐突に。\n狐面か、狐面の仲間に決まっているだろう
+Why so sudden? Obviously, it’s Fox Mask or one of Fox Mask’s comrades.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 @trans-n
 @plse set="sename='tog_F00003'"
 @【灯吾】
-何でそうハッキリ言い切れるんだよ、\n前から思ってたけどさ
+Why are you so sure? It seems like you thought he was the culprit long before anything happened.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -113,7 +113,7 @@
 @trans-s
 @plse set="sename='aky_F00015'"
 @【秋良】
-それは………話せば長くなるが
+That’s… a long story.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -123,7 +123,7 @@
 @trans-n
 @plse set="sename='tog_F00004'"
 @【灯吾】
-じゃあいいや
+Then nevermind.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -133,7 +133,7 @@
 @trans-s
 @plse set="sename='aky_F00016'"
 @【秋良】
-…………………！！！\nなっ………\nいや、そんな実際はそこまでは長くはな………
+…!!! …Well, the truth is it’s not really THAT long…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -143,7 +143,7 @@
 @trans-n
 @plse set="sename='tog_F00005'"
 @【灯吾】
-俺も、ちょっと覚えがあってさ。\nもし、俺の想像が当たってれば………
+I think I remember something like this. If my guess is right, then…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -153,7 +153,7 @@
 @trans-s
 @plse set="sename='aky_F00017'"
 @【秋良】
-………ん？\nなんだ、椿
+Hm? What, Tsubaki?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -163,7 +163,7 @@
 @trans-n
 @plse set="sename='tog_F00006'"
 @【灯吾】
-………犯人は、おばけみたいなやつかな、\nって思うんだけど
+…The culprit might be that monster-like thing, I think. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -173,7 +173,7 @@
 @trans-s
 @plse set="sename='aky_F00018'"
 @【秋良】
-………お、おばけ………？
+M…monster?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -183,7 +183,7 @@
 @trans-n
 @plse set="sename='tog_F00007'"
 @【灯吾】
-うん、おばけ
+Yeah, monster.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -193,7 +193,7 @@
 @trans-s
 @plse set="sename='aky_F00019'"
 @【秋良】
-あやかしの事か？
+An ayakashi?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -203,7 +203,7 @@
 @trans-n
 @plse set="sename='tog_F00008'"
 @【灯吾】
-あっきーが言うのが、近いかもな。\nなんて言うか、黒くて不気味な………
+You’re close. How do I put it? It was dark, and eerie…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -213,7 +213,7 @@
 @trans-n
 @plse set="sename='tog_F00009'"
 @【灯吾】
-化け物、っぽい感じの。\nまあ、なんとなくだけど
+Monster was the only feeling I could put to words. Something like it, anyways.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -230,7 +230,7 @@
 @trans-n
 @plse set="sename='yuk_F00006'"
 @【少女Ａ】 name="f.name='Girl A'"
-………うふふ………
+…Ufufu.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -240,7 +240,7 @@
 @trans-n
 @plse set="sename='ort_F00007'"
 @【青年Ａ】 name="f.name='Guy A'"
-あれ、ちょーどしっぽのお守りがいないや。\nよかったじゃーん、らっきーらっきー
+Ooh, they’re super unguarded right now… Lucky, lucky~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -250,7 +250,7 @@
 @trans-n
 @plse set="sename='yuk_F00007'"
 @【少女Ａ】 name="f.name='Girl A'"
-………ええ………
+Yes…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -260,7 +260,7 @@
 @trans-n
 @plse set="sename='ort_F00008'"
 @【青年Ａ】 name="f.name='Guy A'"
-おれもてつだったほうが、イイー？？
+Do you want me to heeelp???
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -270,7 +270,7 @@
 @trans-n
 @plse set="sename='yuk_F00008'"
 @【少女Ａ】 name="f.name='Girl A'"
-…………………\nだいじょうぶ
+…No thank you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -283,7 +283,7 @@
 @trans-n
 @plse set="sename='ort_F00009'"
 @【青年Ａ】 name="f.name='Guy A'"
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -293,7 +293,7 @@
 @trans-n
 @plse set="sename='ort_F00010'"
 @【青年Ａ】 name="f.name='Guy A'"
-やまわけは、したくないかー。\nまあ、そうだよねー。\nずっと狙ってたんだもんねー
+She doesn’t want to share~ Well, I guess I get it, she has had her eye on them a while now~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -303,7 +303,7 @@
 @trans-n
 @plse set="sename='ort_F00011'"
 @【青年Ａ】 name="f.name='Guy A'"
-………けどー。\nミツボシ、って、ホントーに、オイシイのかナー？
+…But that Mitsuboshi, is he really as good as they say…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -321,7 +321,7 @@
 @trans-n
 @plse set="sename='yuk_F00009'"
 @【少女Ａ】 name="f.name='Girl A'"
-………うふふ………
+Ufufu.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -332,7 +332,7 @@
 @trans-s
 @plse set="sename='tog_F00010'"
 @【灯吾】
-………！？\nなんだ、お前………
+…!? What the hell…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -340,7 +340,7 @@
 
 @plse set="sename='yuk_F00010'"
 @【少女Ａ】 name="f.name='Girl A'"
-やっとみつけた。\n………おいしいおにいちゃん
+Finally found you… Mister Delicious…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -350,7 +350,7 @@
 @trans-s
 @plse set="sename='aky_F00020'"
 @【秋良】
-こいつはなんだ………あやかしか！？\nクッ………椿、下がっていろ！
+She’s… Ayakashi?! Tch, get behind me, Tsubaki!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -360,7 +360,7 @@
 @trans-s
 @plse set="sename='tog_F00011'"
 @【灯吾】
-ンな事言われても………！
+You say that, but…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -377,7 +377,7 @@
 @trans-n
 @plse set="sename='ort_F00012'"
 @【青年Ａ】 name="f.name='Guy A'"
-…………………\nホントのホントに、おれたちにも味、わかるのかなー
+I really, really, really wonder if we can even taste it…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -385,7 +385,7 @@
 
 @plse set="sename='ort_F00013'"
 @【青年Ａ】 name="f.name='Guy A'"
-おいしいって、思えるのかな………
+Delicious… What even is that?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -395,7 +395,7 @@
 @trans-n
 @plse set="sename='ort_F00014'"
 @【青年Ａ】 name="f.name='Guy A'"
-…………………\nそーなら、こんなふーには、なってないよねー。\nアハハッ
+…If it’s like that, then we’ll never understand… Ahaha!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -419,7 +419,7 @@
 @trans-n
 @plse set="sename='yuk_F00011E'"
 @【少女Ａ】 name="f.name='Girl A'"
-うふふ………
+Ufufu…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -436,7 +436,7 @@
 @trans-s
 @plse set="sename='tog_F00012'"
 @【灯吾】
-………あっきー………\nどうしよ、コレ
+Akki… What do we do?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -446,7 +446,7 @@
 @trans-s
 @plse set="sename='aky_F00021'"
 @【秋良】
-………クッ………\n手ごわい相手のようだ。\nお前は下がっていろ、椿
+…Tch… A formidable foe. Behind me, Tsubaki!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -456,7 +456,7 @@
 @trans-s
 @plse set="sename='tog_F00013'"
 @【灯吾】
-お前にもどうにか出来ないだろ、コレ………\n逃げたほうがいい！
+It’s not like you can do anything about this, either… Just run!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -466,7 +466,7 @@
 @trans-s
 @plse set="sename='aky_F00022'"
 @【秋良】
-…………………\n椿は、オレが守る………！
+……Tsubaki… I’ll protect you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -476,7 +476,7 @@
 @trans-s
 @plse set="sename='tog_F00014'"
 @【灯吾】
-無理だって！\nお前も狙われたらどうするんだよ！？
+You can’t! Do you even have a plan?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -486,7 +486,7 @@
 @trans-s
 @plse set="sename='aky_F00023'"
 @【秋良】
-大丈夫だ。やつらの狙いは、おそらくお前だけだ
+I’ll be alright. Likely, their only target is you!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -496,7 +496,7 @@
 @trans-s
 @plse set="sename='tog_F00015'"
 @【灯吾】
-ならあっきーだけでも逃げろって
+Then you should run!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -506,7 +506,7 @@
 @trans-s
 @plse set="sename='tog_F00016'"
 @【灯吾】
-………つか、園長の事狙ったの………\nもしかしてコイツか………？
+…Wait, the ones who got the principal… Could it be this thing…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -516,7 +516,7 @@
 @trans-s
 @plse set="sename='aky_F00024'"
 @【秋良】
-……………………………………\n………何でそんな余裕なんだ椿………
+…You’re pretty calm about this, Tsubaki…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -526,7 +526,7 @@
 @trans-s
 @plse set="sename='tog_F00017'"
 @【灯吾】
-別に、余裕じゃねえよ
+Calm… I wouldn’t say that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -539,7 +539,7 @@
 @trans-n
 @plse set="sename='yuk_F00012E'"
 @【少女Ａ】 name="f.name='Girl A'"
-ふふ………ね、おにいちゃん。\nどこから食べるのが、オイシイ？
+Fufu… Hey, mister… Which part of you tastes the best…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -547,7 +547,7 @@
 
 @plse set="sename='yuk_F00013E'"
 @【少女Ａ】 name="f.name='Girl A'"
-ずうっと、楽しみにしてたの………
+I’ve been waiting for so looong… Gimme…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -557,7 +557,7 @@
 @trans-s
 @plse set="sename='tog_F00018'"
 @【灯吾】
-…………………っ
+…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -567,7 +567,7 @@
 @trans-s
 @plse set="sename='aky_F00025'"
 @【秋良】
-…………………椿！！
+Tsubaki!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -588,7 +588,7 @@
 @trans-s
 @plse set="sename='yue_F00207'"
 @【由】
-………あきよし、つばき！！！
+…Akiyoshi, Tsubaki!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -605,7 +605,7 @@
 @trans-n
 @plse set="sename='yue_F00208'"
 @【黒狐】
-…………………あ………
+…Ah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -615,7 +615,7 @@
 @trans-n
 @plse set="sename='krg_F00191'"
 @【黒狐】
-ウワッチャー、ギリギリじゃねえか
+Uurgh, this place gives me the shivers…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -625,7 +625,7 @@
 @trans-n
 @plse set="sename='sgn_F00053'"
 @【嵯峨野】
-……………………………………\nフウン
+………Hmm.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -635,7 +635,7 @@
 @trans-n
 @plse set="sename='yue_F00209'"
 @【由】
-…………………\n早く、助けないと
+We have to help them!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -645,7 +645,7 @@
 @trans-n
 @plse set="sename='krg_F00192'"
 @【黒狐】
-いいよ、由、お前は下がってろ
+‘S fine. Yue, you stay back.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -655,7 +655,7 @@
 @trans-n
 @plse set="sename='yue_F00210'"
 @【由】
-え………
+Eh…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -669,7 +669,7 @@
 @trans-n
 @plse set="sename='krg_F00193'"
 @【黒狐】
-………おれがなんとかしてやる、って、\nえ？
+…I’ll do something about… Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -677,7 +677,7 @@
 
 @plse set="sename='krg_F00194'"
 @【黒狐】
-………何だ、アイツ………？
+…What the… He’s…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -700,7 +700,7 @@
 
 @plse set="sename='sgn_F00054'"
 @【嵯峨野】
-食い意地、\nあんまり張ってんのはみっともないと思うぜ
+Gluttony… You’ve spread yourself all around. Ain’t you ashamed?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -708,7 +708,7 @@
 
 @plse set="sename='aky_F00027'"
 @【秋良】
-なっ、誰だあんたは！？
+Huh?! Who are you?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -716,7 +716,7 @@
 
 @plse set="sename='sgn_F00055'"
 @【嵯峨野】
-誰でもいいだろ。助けてやるよ
+Anyone is fine. I’m here to help, you know.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -727,7 +727,7 @@
 
 @plse set="sename='krg_F00195'"
 @【黒狐】
-チョッ、おれ、おれも！\nおれにも参加させろー！！！！
+And me! Don’t forget me! I’m participatin’!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -735,7 +735,7 @@
 
 @plse set="sename='sgn_F00056'"
 @【嵯峨野】
-邪魔だ、退いてろ
+You’re just getting in the way. Move.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -743,7 +743,7 @@
 
 @plse set="sename='krg_F00196'"
 @【黒狐】
-あんだよ、おれがやろうと思ってたのに\nテメーこそ邪魔すんじゃねえよ
+The hell? Think about who I am again and then tell me I’m getting in the way! You should, if anything! 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -751,7 +751,7 @@
 
 @plse set="sename='sgn_F00057'"
 @【嵯峨野】
-キャンキャン吠えるなよ、子犬が
+Yelpin’ and barkin’... Shut up, puppy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -759,7 +759,7 @@
 
 @plse set="sename='krg_F00197'"
 @【黒狐】
-ハァー！？\nおれは犬じゃねェー！！！
+Huh?! I’m not a dog!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -768,7 +768,7 @@
 
 @plse set="sename='sgn_F00058'"
 @【黒狐】
-ホントいちいちウルサイな、お前
+You never shut up about a thing, do you?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -776,7 +776,7 @@
 
 @plse set="sename='krg_F00198'"
 @【黒狐】
-おいテメーすげーーーーームカツク！！！！\nっつかその顔で言われると余計ムカツクー！！！
+Oi, you suuuuuuuuper annoying bastard!! And you’re saying it with that face and that makes it even MORE annoying!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -784,7 +784,7 @@
 
 @plse set="sename='yuk_F00015E'"
 @【少女Ａ】 name="f.name='Girl A'"
-…………………邪魔、しないで
+…Don’t get in my way.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -799,7 +799,7 @@
 
 @plse set="sename='sgn_F00059'"
 @【黒狐】
-ホラ、余所見してんなよ。駄犬
+See? Ya got distracted, mutt.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -808,7 +808,7 @@
 
 @plse set="sename='krg_F00199'"
 @【黒狐】
-いつかコロス………
+Someday, I'm gonna kill you….!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -817,7 +817,7 @@
 
 @plse set="sename='aky_F00028'"
 @【秋良】
-…………………\nおい、きさまら一体………
+…What in the world are these clowns…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -839,7 +839,7 @@
 @trans-n
 @plse set="sename='yuk_F00016E'"
 @【少女Ａ】 name="f.name='Girl A'"
-…………………わたしの、ショクジ、\nおいしい、もの
+…My meal, something delicious…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -847,7 +847,7 @@
 
 @plse set="sename='sgn_F00060'"
 @【嵯峨野】
-ったく、後先考えずに好き放題しやがって
+Sheesh, you indulged yourself without thinkin’ bout the consequences.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -861,7 +861,7 @@
 @wait time=1000
 @plse set="sename='yuk_F00017E'"
 @【少女Ａ】 name="f.name='Girl A'"
-………ギャアッ！！！
+GYAAAH!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -869,7 +869,7 @@
 
 @plse set="sename='sgn_F00061'"
 @【嵯峨野】
-…………………\nちっとは遠慮ってものを覚えろよ
+Learn a little restraint, you know?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -879,7 +879,7 @@
 @trans-n
 @plse set="sename='yuk_F00018E'"
 @【少女Ａ】 name="f.name='Girl A'"
-………ウ………
+Gh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -887,7 +887,7 @@
 
 @plse set="sename='sgn_F00062'"
 @【嵯峨野】
-お行儀よくしてれば、こんな目に遭う事もないのによ。\n………なあ？
+If you learned a little manners, maybe you’d never’a ended up in this situation… You know?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -895,7 +895,7 @@
 
 @plse set="sename='sgn_F00063'"
 @【嵯峨野】
-ま、残念だったな。\n手遅れだ
+Unfortunate. You were just a little too late.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -905,7 +905,7 @@
 @trans-n
 @plse set="sename='yuk_F00018E'"
 @【少女Ａ】 name="f.name='Girl A'"
-………ギャ………アアアア！！！
+Gh… Aaaagh!
 @ws
 @chara3 visible=false
 
@@ -932,7 +932,7 @@
 @trans-n
 @plse set="sename='sgn_F00064'"
 @【嵯峨野】
-…………………\n終わったぜ？
+…It’s over?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -950,7 +950,7 @@
 @trans-s
 @plse set="sename='aky_F00029'"
 @【秋良】
-……………………………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -958,7 +958,7 @@
 
 @plse set="sename='aky_F00030'"
 @【秋良】
-強い、な………
+He’s so strong…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -966,7 +966,7 @@
 
 @plse set="sename='tog_F00020'"
 @【灯吾】
-………ふたりとも、大丈夫？
+(Guessing based on voiceline) …What… Who is he?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -979,7 +979,7 @@
 @trans-s
 @plse set="sename='yue_F00211'"
 @【由】
-………ふたりとも、大丈夫？
+…Are you two okay?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -989,7 +989,7 @@
 @trans-s
 @plse set="sename='aky_F00031'"
 @【秋良】
-狐面………！\n何だ、あいつらは
+Fox Mask! Who was that man just now?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -999,7 +999,7 @@
 @trans-s
 @plse set="sename='yue_F00212'"
 @【由】
-………ウーンと、味方？\nゴメンね、遅くなって
+Um, he’s… on our side? Sorry we’re late.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1013,7 +1013,7 @@
 @trans-n
 @plse set="sename='tog_F00021'"
 @【灯吾】
-なんかよくわかんねーけど、\nアイツが園長攫った犯人………なのか？
+I don’t really understand it myself, but I have a feeling… Was that what took the principal away?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1021,7 +1021,7 @@
 
 @plse set="sename='yue_F00213'"
 @【由】
-………多分
+…Probably.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1031,7 +1031,7 @@
 @trans-n
 @plse set="sename='tog_F00022'"
 @【灯吾】
-何なんだ、あの化け物は。\nあやかしの一種なのか？\n………あと、ついでにあの二人は
+What was that monster? A kind of ayakashi? And also, those two are…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1041,7 +1041,7 @@
 @trans-s
 @plse set="sename='yue_F00214'"
 @【由】
-…………………\n上手く伝わるかはわからないけど、\nちゃんと説明するよ
+…I don’t know if I’m the best at explaining things, but I’ll try anyway.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1051,7 +1051,7 @@
 @trans-n
 @plse set="sename='tog_F00023'"
 @【灯吾】
-…………………\nそうか………って
+…I see……Hey…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1061,7 +1061,7 @@
 @trans-n
 @plse set="sename='tog_F00024'"
 @【灯吾】
-お前、なんか顔色悪くないか？
+You seem kind of pale…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1071,7 +1071,7 @@
 @trans-s
 @plse set="sename='yue_F00215'"
 @【由】
-………え、そうかな？
+…Oh, am I?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1081,7 +1081,7 @@
 @trans-n
 @plse set="sename='tog_F00025'"
 @【灯吾】
-………大丈夫か？
+…Are you okay?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1091,7 +1091,7 @@
 @trans-s
 @plse set="sename='yue_F00216'"
 @【由】
-ウン、へいき。\n心配してくれて、アリガト、つばき
+Yup, I’m fine. Thanks for your concern, Tsubaki.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1108,7 +1108,7 @@
 @trans-n
 @plse set="sename='sgn_F00065'"
 @【嵯峨野】
-………にしても。\n相変わらず、食い意地の張ってる奴らだな
+…Anyways. Looks like it’s the same bastards as always, spreadin’ their gluttony all over.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1118,7 +1118,7 @@
 @trans-n
 @plse set="sename='sgn_F00066'"
 @【嵯峨野】
-狙うヤツも一辺倒で芸がねえし
+And the same people after ‘em are just as uninspired.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1128,7 +1128,7 @@
 @trans-n
 @plse set="sename='krg_F00200'"
 @【黒狐】
-何知ったかぶった事いってんだよ！\nつか、なんでテメーに\n助けられなきゃなんねーんだよ！！！
+You tryin’ to start something?! I didn’t need yer help saving my life anyways!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1138,7 +1138,7 @@
 @trans-n
 @plse set="sename='sgn_F00067'"
 @【嵯峨野】
-へえ？　………お前らの仲間だろ。\nやりにくいだろうから、代わりにやってやったんだよ
+Huh? You’re one of them, ain’tcha? Thought I’d spare you the trouble of takin’ the life of your own. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1148,7 +1148,7 @@
 @trans-n
 @plse set="sename='krg_F00201'"
 @【黒狐】
-………え………\nな………
+…Wha… You…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1158,7 +1158,7 @@
 @trans-n
 @plse set="sename='krg_F00202'"
 @【黒狐】
-………い、一緒にすんな！\n仲間なんかじゃねえよ！！！
+…D-don’t lump us together! We’re not the same at all!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1168,7 +1168,7 @@
 @trans-n
 @plse set="sename='sgn_F00068'"
 @【嵯峨野】
-似たようなモンだろ。\n食い過ぎただけで
+You used to look alike, didn’t you? They just happened to overeat.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1178,7 +1178,7 @@
 @trans-n
 @plse set="sename='krg_F00203'"
 @【黒狐】
-なんでそんな事まで、知ってんだよ、\nテメー………！
+How do you know so much, you…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1188,7 +1188,7 @@
 @trans-n
 @plse set="sename='sgn_F00069'"
 @【嵯峨野】
-…………………\nふん
+Hah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1206,7 +1206,7 @@
 @trans-n
 @plse set="sename='ort_F00015'"
 @【青年Ａ】 name="f.name='Guy A'"
-あーあ、ミツボシ、だめだったねー、\n残念、ざーんねんっ
+Aah, Mitsuboshi’s no good. So sad. Soooo sad.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1216,7 +1216,7 @@
 @trans-n
 @plse set="sename='ort_F00016'"
 @【青年Ａ】 name="f.name='Guy A'"
-って、あれー、アイツ……
+Hm, huh? He…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1227,7 +1227,7 @@
 @trans-n
 @plse set="sename='ort_F00017'"
 @【青年Ａ】 name="f.name='Guy A'"
-あの、黒いの………\nなんで、アッチ側に、いるのかなー？？？
+That… black… How is he on this side…???
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1237,7 +1237,7 @@
 @trans-n
 @plse set="sename='ort_F00018'"
 @【青年Ａ】 name="f.name='Guy A'"
-………なんでー、コッチじゃ、ないのかなー？\nウヒヒッ、ふしぎッ
+…Why are you… here…? Uhihi, so strange~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

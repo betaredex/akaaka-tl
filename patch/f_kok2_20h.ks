@@ -32,7 +32,7 @@
 @trans-n
 @plse set="sename='mmj_F00000'"
 @【もみじ】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 @trans-n
 @plse set="sename='yue_F00127'"
 @【由】
-あれ、もみじだ。\nどーしたの？　こんな所で
+Ah, Momiji? What’re you doing here?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -57,7 +57,7 @@
 
 @plse set="sename='mmj_F00001'"
 @【もみじ】
-…………………
+…….
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -67,7 +67,7 @@
 @trans-n
 @plse set="sename='krg_F00139'"
 @【黒狐】
-オマエ、なんでマスクなんて持ってんだ？\nまさか花粉症にでもなったとか\nいうんじゃねーだろーな！？
+Why do you have a mask? Don’t tell me you’ve got a pollen allergy now?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -75,7 +75,7 @@
 
 @plse set="sename='krg_F00140'"
 @【黒狐】
-っつーか、\nそもそもオマエ、マスク付けられんのかよー？
+And anyways, how’re you even holding that thing?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @trans-n
 @plse set="sename='mmj_F00002'"
 @【もみじ】
-………ウルサイ………バカギツネ………
+…shut up, stupid-gitsune…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -95,7 +95,7 @@
 @trans-n
 @plse set="sename='krg_F00141'"
 @【黒狐】
-ハァー！？　なんだとー！
+Huh?! Whaddya say?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 
 @plse set="sename='mmj_F00003'"
 @【もみじ】
-………イマ、もみじサンハ、………葛藤、チュウ………
+…momiji-san is in conflict right now…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -113,7 +113,7 @@
 @trans-n
 @plse set="sename='yue_F00128'"
 @【由】
-かっとう？　………って？
+…conflict?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 
 @plse set="sename='mmj_F00004'"
 @【もみじ】
-…………………\nイママデ………何デモ、\n拾ッタモノハ、残サズ、食ベテ、キタ………
+until now, always picked up leftovers, ate…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -129,7 +129,7 @@
 
 @plse set="sename='mmj_F00005'"
 @【もみじ】
-ナノニ………生マレテ初めテ、\n食べタクナイモノニ、出会っテ、シマッタ………
+…now, finally found something, didn’t want to eat…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -139,7 +139,7 @@
 @trans-n
 @plse set="sename='krg_F00142'"
 @【黒狐】
-食べたくないって、そのマスクか？
+…That mask?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -147,7 +147,7 @@
 
 @plse set="sename='mmj_F00006'"
 @【もみじ】
-………ウン………落チテタノ………\n………ソコニ………
+…yes… dropped… over there…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -157,7 +157,7 @@
 @trans-n
 @plse set="sename='yue_F00129'"
 @【由】
-あー、それで、拾っちゃったんだ？\nていうか、そのマスクってもしかして………
+Oh, so that’s what you picked up? Hey, could that mask be…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -167,7 +167,7 @@
 @trans-n
 @plse set="sename='krg_F00143'"
 @【黒狐】
-あー………\nなんか、嫌な予感がするぜ
+…I’m getting a bad feeling…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -175,7 +175,7 @@
 
 @plse set="sename='mmj_F00007'"
 @【もみじ】
-………残サズノ、精神………\nソレハ………もみじサンノ、美学………
+…remaining spirit… that is part of momiji-san’s aesthetics…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -185,7 +185,7 @@
 @trans-n
 @plse set="sename='krg_F00144'"
 @【黒狐】
-いや、まあ食い物じゃねえんだから\n無理に食わなくてもよくね？
+Hm, uh, well, if you can’t eat it, don’t force yourself to…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -193,7 +193,7 @@
 
 @plse set="sename='mmj_F00008'"
 @【もみじ】
-………モッタイナイ………\nデモ、食べタクナイ………
+…not enough… but don’t want to eat…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -203,7 +203,7 @@
 @trans-n
 @plse set="sename='yue_F00130'"
 @【由】
-ホントに悩んでるんだね………\nまあ、解るけど………
+You seem worried… Well, I think I understand.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -213,7 +213,7 @@
 @trans-n
 @plse set="sename='krg_F00145'"
 @【黒狐】
-つーかソレ、落ちてたんだろ。\nそれなら持ち主に返してやればいいじゃねーか
+Anyways, you said it was dropped? Why don’tcha give it back to the rightful owner?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -221,7 +221,7 @@
 
 @plse set="sename='mmj_F00009'"
 @【もみじ】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -231,7 +231,7 @@
 @trans-n
 @plse set="sename='yue_F00131'"
 @【由】
-…………………\n持ち主…………
+Rightful owner…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -241,7 +241,7 @@
 @trans-n
 @plse set="sename='krg_F00146'"
 @【黒狐】
-…………………まあ、\n持ち主ってもアレだけどよ
+…Well, I don’t know if the rightful owner wants it back…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -249,7 +249,7 @@
 
 @plse set="sename='mmj_F00010'"
 @【もみじ】
-………返ス………
+…give back…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -259,7 +259,7 @@
 @trans-n
 @plse set="sename='krg_F00147'"
 @【黒狐】
-そうそう、そんじゃソレ返しに行ってやれよ。\n恐らく持ち主は高校の辺りにいると思うけど、\n面倒だったら、捨てていいぜ
+Yeah, yeah, go and give it to ‘em. Though the owner might be somewhere around the high school, so you might just want to toss it and ignore the trouble...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -267,7 +267,7 @@
 
 @plse set="sename='mmj_F00011'"
 @【もみじ】
-…………………\n………面倒………\n………………………………………………………
+…trouble…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -282,7 +282,7 @@
 @trans-n
 @plse set="sename='yue_F00132'"
 @【由】
-………あー………
+…Ah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -292,7 +292,7 @@
 @trans-n
 @plse set="sename='krg_F00148'"
 @【黒狐】
-…………………\nあ、捨てたのか、美学は
+…Oh, so he tossed out his aesthetics.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -302,7 +302,7 @@
 @trans-n
 @plse set="sename='yue_F00133'"
 @【由】
-割と、潔かったね
+Kind of gallant.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -310,7 +310,7 @@
 
 @plse set="sename='mmj_F00012'"
 @【もみじ】
-………もみじサンハ、何モ、見ナカッタ………\n………タダ、ソレダケノコト………
+…momiji-san didn’t find anything else… just that… 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -320,7 +320,7 @@
 @trans-n
 @plse set="sename='krg_F00149'"
 @【黒狐】
-だったら最初から何でも拾うんじゃねえよ
+Then what were you gatherin’ em for anyways?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -330,7 +330,7 @@
 @trans-n
 @plse set="sename='yue_F00134'"
 @【由】
-あきよし、きっと今頃困ってるね………ま、いいか
+Akiyoshi must be upset by now… Well, whatever.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

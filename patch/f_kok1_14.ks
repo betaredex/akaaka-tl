@@ -34,7 +34,7 @@
 @trans-n
 @plse set="sename='mkt_F00000'"
 @【ミコト】
-…………………\nまだ見付からぬのか
+…You still have not found them?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -44,7 +44,7 @@
 @trans-n
 @plse set="sename='sto_F00020'"
 @【狭塔】
-………はい。\n兎達によれば、謎の男の妨害に遭ったとの事
+…Yes. As the rabbits reported, the appearance of that strange man threw everything into disarray.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -52,7 +52,7 @@
 
 @plse set="sename='sto_F00021'"
 @【狭塔】
-消耗が激しく、\n夜明けまでは身動きはできぬでしょう
+They are so exhausted, they won't be able to move until dawn.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -62,7 +62,7 @@
 @trans-n
 @plse set="sename='mkt_F00001'"
 @【ミコト】
-シンの貌を持つ男じゃな。\n………ふむ………
+A man with Shin’s face…Hm…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -72,7 +72,7 @@
 @trans-n
 @plse set="sename='mkt_F00002'"
 @【ミコト】
-兎達でも敵わぬとなれば、厄介な相手じゃの
+If the rabbits cannot match him, he must be quite the formidable opponent…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -82,7 +82,7 @@
 @trans-n
 @plse set="sename='sto_F00022'"
 @【狭塔】
-僕達を確認に遣りましたが、\nやはり彼の場所から\nシン様のお身体が消えていたようです
+I sent the servants to check, but as we thought, the body of Shin-sama had disappeared from his resting place.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -92,7 +92,7 @@
 @trans-n
 @plse set="sename='mkt_F00003'"
 @【ミコト】
-………そうか。\n放っておけば、いずれ影が動き出してしまうのう
+I see. If we do not pursue, the shadows will move once again, won’t they?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -102,7 +102,7 @@
 @trans-n
 @plse set="sename='sto_F00023'"
 @【狭塔】
-はい。\n「中身」が何者かは量りかねますが、\n早急に、もう一度封印を施す必要があります
+Yes. I do not know what the “contents” may be, but I am sure that we must redo the seal as soon as possible.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -112,7 +112,7 @@
 @trans-n
 @plse set="sename='mkt_F00004'"
 @【ミコト】
-やれやれ、急に忙しくなったのう。\n由達の事も気懸かりではあるが、\nまずはその男を捕らえるのが先決じゃな
+My, how suddenly we became busy. I am concerned about Yue, but we must catch that man first.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -122,7 +122,7 @@
 @trans-n
 @plse set="sename='sto_F00024'"
 @【狭塔】
-由君の身体も心配です。\n男が再び由君達に接触する可能性もあるのですし
+I am also worried about Yue-kun's health. There is a possibility that the man may come in contact with Yue-kun and the others again.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -132,7 +132,7 @@
 @trans-n
 @plse set="sename='mkt_F00005'"
 @【ミコト】
-由には黒狐がついておる。\nそう、心配する事もあるまい
+Yue is with Kurogitsune. There is no need to worry, no?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -142,7 +142,7 @@
 @trans-n
 @plse set="sename='sto_F00025'"
 @【狭塔】
-………今となっては、\nあれがそれほどあてになるとは思えませぬ。\n所詮は「黒狐一族の生き残り」
+I would not rely on that too much. After all, he is simply “the last remaining black fox”.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -152,7 +152,7 @@
 @trans-n
 @plse set="sename='sto_F00026'"
 @【狭塔】
-いかにシン様が目を掛けておられたとはいえ、\n甘やかしが過ぎたかもしれませぬな
+Even though Shin-sama has been looking out for him, he may have spoiled him a bit too much.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -162,7 +162,7 @@
 @trans-n
 @plse set="sename='mkt_F00006'"
 @【ミコト】
-そうじゃのう。\n確かに、由には今までの依代と違い、執着している様子
+Perhaps. Certainly, unlike the previous yorishiro, he is quite obsessed with Yue.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -170,7 +170,7 @@
 
 @plse set="sename='mkt_F00007'"
 @【ミコト】
-好からぬ方向に物事が動く事もあろう
+Things seem to be moving in an unfavorable direction.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -180,7 +180,7 @@
 @trans-n
 @plse set="sename='mkt_F00008'"
 @【ミコト】
-じゃが……黒狐もあれでいて一途な奴じゃ。\n目を掛けられていたなりの働きを見せる事もあると、\nわしは思うがのう
+But… Kurogitsune is also quite earnest. I think he can be just as good as the one who has been looking out for him.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -190,7 +190,7 @@
 @trans-n
 @plse set="sename='sto_F00027'"
 @【狭塔】
-…………………\nですが………
+…However…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -200,7 +200,7 @@
 @trans-n
 @plse set="sename='mkt_F00009'"
 @【ミコト】
-まあ、お前の心配も解っておる。\n………ふふ
+Well, I do understand your concern. Fufu…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -210,7 +210,7 @@
 @trans-n
 @plse set="sename='mkt_F00010'"
 @【ミコト】
-だからの、狭塔
+And that’s why, Sato…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -220,7 +220,7 @@
 @trans-n
 @plse set="sename='mkt_F00011'"
 @【ミコト】
-いざという時には、\nお前がきちんと、事の片を付けろ
+When the time comes, you're the one who has to clean up the mess.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -230,7 +230,7 @@
 @trans-n
 @plse set="sename='sto_F00028'"
 @【狭塔】
-………解っております。\nヤレヤレ………
+…Understood… How troublesome.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -240,7 +240,7 @@
 @trans-n
 @plse set="sename='mkt_F00012'"
 @【ミコト】
-………ふふ………\nいつまで経っても治らんのう。\nお前の、苦労性は
+Fufu. No matter how much time passes, you can’t seem to get over your worrier’s nature. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -250,7 +250,7 @@
 @trans-n
 @plse set="sename='sto_F00029'"
 @【狭塔】
-…………………ハァ
+…Haah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

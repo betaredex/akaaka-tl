@@ -28,7 +28,7 @@
 @trans-n
 @plse set="sename='szk_F00000'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ハァ、ハァ、ハァ………遅刻しちゃった………
+Huff, huff… I’m late…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -36,7 +36,7 @@
 
 @plse set="sename='szk_F00001'"
 @【鈴来くん】 name="f.name='Suzuki'"
-遅くまで椿に渡すノートを写してたとはいえ、\nまさかこの僕が寝坊するなんて………！
+I was up so late making notes for Tsubaki to copy that I didn't realize I would oversleep!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -46,7 +46,7 @@
 @trans-n
 @plse set="sename='szk_F00002'"
 @【鈴来くん】 name="f.name='Suzuki'"
-アアッ、\nでも何があってもノートだけは渡すからね、\n待ってて椿………！
+Ah, but no matter what I must get him those notes! Wait for me, Tsubaki…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -56,7 +56,7 @@
 @trans-n
 @plse set="sename='szk_F00003'"
 @【鈴来くん】 name="f.name='Suzuki'"
-………って
+…Oh.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -75,7 +75,7 @@
 @trans-n
 @plse set="sename='szk_F00004'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ウワァ！？
+Uwah!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @trans-s
 @plse set="sename='yue_F00104'"
 @【由】
-………ッ、びっくりした………\n………あれ、キミは………？
+You surprised me… Oh, you’re…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -93,7 +93,7 @@
 
 @plse set="sename='szk_F00005'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ワワッ、なんだよもう………！？\nまさか君も遅刻なの？
+Wawawa, what…?! Are you late too?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 @trans-s
 @plse set="sename='yue_F00105'"
 @【由】
-え？　ちこく？
+Huh? Late?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -113,7 +113,7 @@
 @trans-n
 @plse set="sename='szk_F00006'"
 @【鈴来くん】 name="f.name='Suzuki'"
-急がないと、もう授業始まってるよ？\nこんな所で何やってんの、\nまさかサボりじゃないだろうね？？
+If you don’t hurry, class is going to start! What would you be doing in a place like this… Unless you plan to cut class?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -123,7 +123,7 @@
 @trans-s
 @plse set="sename='yue_F00106'"
 @【由】
-いや、オレはガッコーには行ってないって………
+…I don’t go to school.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -133,7 +133,7 @@
 @trans-n
 @plse set="sename='szk_F00007'"
 @【鈴来くん】 name="f.name='Suzuki'"
-僕も遅刻してるから人の事言えないけど、\nサボりはダメだよ、エスケープは！
+I’m late, so I have no time to talk! I can’t be caught skipping, so I must make my escape!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -143,7 +143,7 @@
 @trans-n
 @plse set="sename='szk_F00008'"
 @【鈴来くん】 name="f.name='Suzuki'"
-遅刻と欠席じゃ重みが違うからね！\n僕なんて皆勤賞目指してるから、尚更だよ
+The difference between being marked late and absent is far too different! I absolutely must get that prize for perfect attendance!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -153,7 +153,7 @@
 @trans-n
 @plse set="sename='yue_F00107'"
 @【由】
-カイキンショウ………？\nなんか金魚の種類みたいな名前だね
+Per-fecked attan dance…? Is that a kind of fish?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -163,7 +163,7 @@
 @trans-s
 @plse set="sename='krg_F00123'"
 @【黒狐】
-いいからグダグダ騒いでないで\nさっさとガッコー行けってんだよ、なァ？
+If you’re late, then stop yammering and get to class, alright?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -173,7 +173,7 @@
 @trans-n
 @plse set="sename='szk_F00009'"
 @【鈴来くん】 name="f.name='Suzuki'"
-君っていかにもやる気なさそうだから、\n心配だけど………
+Your motivation is so low, it’s worrying…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -183,7 +183,7 @@
 @trans-n
 @plse set="sename='szk_F00010'"
 @【鈴来くん】 name="f.name='Suzuki'"
-ここで君に会ったって事は、椿にも内緒にしておくから。\nちゃんと来なよ？　じゃあね！
+So we’ll keep it a secret from Tsubaki that I met you here, okay? Gotta go! Bye!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -199,7 +199,7 @@
 @trans-n
 @plse set="sename='yue_F00108'"
 @【由】
-行っちゃった。\nつばきには言わないでいてくれるってさ
+He’s gone. He said he wouldn’t tell Tsubaki.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -209,7 +209,7 @@
 @trans-n
 @plse set="sename='krg_F00124'"
 @【黒狐】
-元々ガッコーには行ってねえって………\n今日だってそれどころじゃないんだよ。なあ？
+You said you didn’t even go to school… I guess you’re not in the mood for that today, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -219,7 +219,7 @@
 @trans-n
 @plse set="sename='yue_F00109'"
 @【由】
-どうする？　せっかくだし行ってみる？
+What now, since we came here?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -229,7 +229,7 @@
 @trans-n
 @plse set="sename='krg_F00125'"
 @【黒狐】
-っても、どうせまだ授業中だろ～～～
+…Well, I guess they’re both in class…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -237,7 +237,7 @@
 
 @plse set="sename='krg_F00126'"
 @【黒狐】
-アイツらは探さなくちゃならねえけど、\n下手な騒ぎになっても面倒だし、\nもうちょっと後にしようぜ
+We'll have to look for them, but we don’t want to cause any fuss. Let's do it later.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -247,7 +247,7 @@
 @trans-n
 @plse set="sename='yue_F00110'"
 @【由】
-そうだね。\nじゃあ、どこに行く？
+Sounds good. So where next?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

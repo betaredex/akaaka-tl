@@ -42,7 +42,7 @@
 @trans-s
 @plse set="sename='krg_F00322'"
 @【黒狐】
-なあなあ、けっこーオモシロイな～、\n高校の授業って
+Hey, that was super interesting! That “high school class” or whatever!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -53,7 +53,7 @@
 @trans-n
 @plse set="sename='tog_F00059'"
 @【灯吾】
-意外にちゃんと聞いてるからびっくりしたよ
+The fact you listened to any of it is surprising in itself.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -63,7 +63,7 @@
 @trans-n
 @plse set="sename='tog_F00060'"
 @【灯吾】
-ペット連れて来たのが周りにばれないか、\n冷や汗ものだったけどな
+Bringing a pet to school is against the rules. I had a cold sweat running down my neck making sure no one noticed you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -73,7 +73,7 @@
 @trans-s
 @plse set="sename='krg_F00323'"
 @【黒狐】
-オマエも真面目に聞いてるよなー。\nま、せーせき良さそうだけどよ
+You were listening to it pretty seriously too~ Well, your grades are still good, aren’t they?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -83,7 +83,7 @@
 @trans-n
 @plse set="sename='tog_F00061'"
 @【灯吾】
-………普通だと思うけど
+…Normally, yeah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -93,7 +93,7 @@
 @trans-s
 @plse set="sename='krg_F00324'"
 @【黒狐】
-なートーゴ、また連れてきてくれよ、ガッコー。\n今日なかった授業もおれ聞いてみたい！
+Hey Tougo, you gotta take me to “school” again! I wanna know about the classes you didn’t have today!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 @trans-n
 @plse set="sename='tog_F00062'"
 @【灯吾】
-…………………物好きだな、お前。\nまあ、いずれ気が向いたらな
+…You’ve got strange tastes. Sometime if I feel like it, maybe.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -113,7 +113,7 @@
 @trans-n
 @plse set="sename='tog_F00063'"
 @【灯吾】
-でも、鞄の中からスゲーとかそうなのかよ！\nとかいちいちコメントすんの、やめてくれねえ？
+But you can’t keep saying “Crazy!” or “I never knew that!” every single time from inside my bag, alright?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -121,7 +121,7 @@
 
 @plse set="sename='tog_F00064'"
 @【灯吾】
-集中できないから
+It makes it impossible to focus.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -131,7 +131,7 @@
 @trans-s
 @plse set="sename='krg_F00325'"
 @【黒狐】
-だってオモシロかったんだもん～～～。\nヒトビトっていろんな事習ってんだなァ
+But it’s so interestin’~~~ People really study lotsa stuff, huh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @trans-s
 @plse set="sename='krg_F00326'"
 @【黒狐】
-昔の狭塔様もガッコー行ってたって言うし、\nキョーミあったのかもな………
+Sato-sama said he went to school long ago… I wonder what he was interested in.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -151,7 +151,7 @@
 @trans-n
 @plse set="sename='tog_F00065'"
 @【灯吾】
-ん？　誰が？
+Hm? Who did?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -161,7 +161,7 @@
 @trans-s
 @plse set="sename='krg_F00327'"
 @【黒狐】
-あ、いや、なんでもねえよ、\nこっちの話
+Oh, nothing, just talking to myself.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -171,7 +171,7 @@
 @trans-n
 @plse set="sename='tog_F00066'"
 @【灯吾】
-………フウン。\nまァ、楽しかったんならいいけどさ
+…Hmmm. Well, if you had fun, then that’s good.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -189,7 +189,7 @@
 @trans-n
 @plse set="sename='tog_F00067'"
 @【灯吾】
-で、結局わざわざ学校にまでついてきて、\n何が調べたかったんだ？
+So, since you came all the way out to school, what was it you were investigating?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -199,7 +199,7 @@
 @trans-n
 @plse set="sename='krg_F00328'"
 @【黒狐】
-………それは………
+…It was…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -209,7 +209,7 @@
 @trans-n
 @plse set="sename='tog_F00068'"
 @【灯吾】
-ここ、そもそも何もねー普通の学校だし、\n調べる事なんてなさそうなんだけど
+This is just a normal school- there isn’t anything worth investigating in the first place.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -219,7 +219,7 @@
 @trans-n
 @plse set="sename='tog_F00069'"
 @【灯吾】
-それに、お前ら何で帰れないんだ？\n家出？
+And why haven’t you guys gone home yet? You eloped or something?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -229,7 +229,7 @@
 @trans-n
 @plse set="sename='tog_F00070'"
 @【灯吾】
-ってか、元々、どこに住んでたんだ？
+Actually, where do you guys even live?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -239,7 +239,7 @@
 @trans-n
 @plse set="sename='krg_F00329'"
 @【黒狐】
-あー、もう矢継ぎ早に訊くんじゃねえよ！\n子どもかテメー
+Argh, stop asking questions like a machine gun! Are you really even a kid?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -249,7 +249,7 @@
 @trans-n
 @plse set="sename='tog_F00071'"
 @【灯吾】
-順を追って聞けばいいのか？
+Can you answer them in order?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -259,7 +259,7 @@
 @trans-n
 @plse set="sename='krg_F00330'"
 @【黒狐】
-…………………\nいろいろと、事情があんだよ
+…We’ve got a lot of… circumstances.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -269,7 +269,7 @@
 @trans-n
 @plse set="sename='tog_F00072'"
 @【灯吾】
-ま、喋る子犬連れてる時点で、\n普通じゃないのは解るけどな
+Well, when you bring a talking puppy to school, you know nothing’s normal.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -279,7 +279,7 @@
 @trans-n
 @plse set="sename='krg_F00331'"
 @【黒狐】
-子犬じゃねえよ、狐だバカッ！
+For the last time, I’m not a puppy, I’m a fox!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -289,7 +289,7 @@
 @trans-n
 @plse set="sename='tog_F00073'"
 @【灯吾】
-…………………\n狐、ね
+……Fox, huh.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -299,7 +299,7 @@
 @trans-n
 @plse set="sename='tog_F00074'"
 @【灯吾】
-どっちにしろ、変身するのは普通じゃねえよ
+Whichever you are, being able to transform isn’t normal either.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -309,7 +309,7 @@
 @trans-n
 @plse set="sename='krg_F00332'"
 @【黒狐】
-アー、まあ、おれ様はレアな存在だからな。\nフツーの人間には敷居が高いかも知れねえけど
+Oh, well, I’m a rare species. We don’t normally approach humans, so they don’t know about us.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -319,7 +319,7 @@
 @trans-n
 @plse set="sename='tog_F00075'"
 @【灯吾】
-どうせ、おばけみたいなモンなんだろ？\nいいよ、別に、慣れてるから
+Are you a monster or something? It’s fine, I’m used to it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -329,7 +329,7 @@
 @trans-n
 @plse set="sename='krg_F00333'"
 @【黒狐】
-おばけじゃねェよ！\nクロギツネ様だつってんだろ
+I’m not a damn monster! I’m the wondrous and amazing Kurogitsune, and don’t you forget it!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -339,7 +339,7 @@
 @trans-n
 @plse set="sename='tog_F00076'"
 @【灯吾】
-はいはい。\nで？　何処に住んでてなんで帰れねえんだ？
+Whatever you say. So? Where do you live, and why won’t you go home?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -349,7 +349,7 @@
 @trans-n
 @plse set="sename='krg_F00334'"
 @【黒狐】
-だから、それには海より深い事情があるんだよ。\nオマエんちだって、それなりにワケアリだろ？\n同じだよ
+Like I said, our circumstances are deeper than the sea. Your family’s pretty weird too, ain’t it? We’re the same.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -359,7 +359,7 @@
 @trans-n
 @plse set="sename='tog_F00077'"
 @【灯吾】
-お前、突然人んちに転がり込んで来といて、\nよく言えるなそんな事。\n晩飯抜くぞ
+How are you gonna say that when you suddenly roll into someone's house? I'm going to skip dinner.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -369,7 +369,7 @@
 @trans-n
 @plse set="sename='krg_F00335'"
 @【黒狐】
-うぇっ！？\nお、オマエそれは卑怯だぞ！！！！
+Ueh?! Y-you coward!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -379,7 +379,7 @@
 @trans-n
 @plse set="sename='tog_F00078'"
 @【灯吾】
-ひどい言い草だな。\nでも何でうちだったんだ？\nあっきーん家でもよかったんだろ
+What a mean thing to say. But why my house? I’m sure Akiyoshi’s house would do just fine.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -389,7 +389,7 @@
 @trans-n
 @plse set="sename='krg_F00336'"
 @【黒狐】
-いやいやいやいやそれはナイ。\nあいつんちはないだろ。危険すぎる
+Nonononono, no way. Not his house. It’s too dangerous.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -399,7 +399,7 @@
 @trans-n
 @plse set="sename='tog_F00079'"
 @【灯吾】
-………そうか？\nまあ、ちょっとめんどくさいかも知れないけど
+…Really? Well, it does seem like it’d be a little annoying.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -409,7 +409,7 @@
 @trans-n
 @plse set="sename='krg_F00337'"
 @【黒狐】
-うーん、ちょっとどころじゃない気がするけどな
+I don’t think it’s just a little.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -419,7 +419,7 @@
 @trans-n
 @plse set="sename='krg_F00338'"
 @【黒狐】
-けど、\nオマエなら由を助けてくれるって、思ったんだ
+But, you seem like the kind of person who’d help Yue.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -429,7 +429,7 @@
 @trans-n
 @plse set="sename='tog_F00080'"
 @【灯吾】
-………あんまり頼りにされても困るんだけど
+…I wouldn’t rely on myself so much.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -439,7 +439,7 @@
 @trans-n
 @plse set="sename='krg_F00339'"
 @【黒狐】
-おれは何があっても由の味方だけど………\nそれだけじゃ、ダメなんだ
+No matter what, I’m always on Yue’s side, but… that’s not enough.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -449,7 +449,7 @@
 @trans-n
 @plse set="sename='tog_F00081'"
 @【灯吾】
-てか、アイツ。\nわざわざ守ってやらなきゃならないような存在なのか？
+That reminds me, him. Is he really someone you have to go out of your way to protect?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -459,7 +459,7 @@
 @trans-n
 @plse set="sename='krg_F00340'"
 @【黒狐】
-ったりめーだろ、\nオマエも見ただろあの世間知らずぶり！！
+Absolutely! You’ve seen jus’ how ignorant he is of the way the world works!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -467,7 +467,7 @@
 
 @plse set="sename='krg_F00341'"
 @【黒狐】
-あっちにフラフラこっちにフラフラ、\n勝手にどっか消えるしよ！\nほっといたらどこで倒れるかわかんねえ！！
+He wanders here, he wanders there, an’ then he up n’ disappears! You look away for a second and he could have gone off and collapsed somewhere!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -477,7 +477,7 @@
 @trans-n
 @plse set="sename='krg_F00341'"
 @【黒狐】
-アイツは、おれにとっては、弟みたいなもんだ。\n………おれが守ってやらなきゃいけないんだ、\nアイツは
+To me, he’s like a little brother. …That’s why I’ve gotta protect ‘im.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -487,7 +487,7 @@
 @trans-n
 @plse set="sename='tog_F00082'"
 @【灯吾】
-………ふうん………
+…Hmmm.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -495,7 +495,7 @@
 
 @plse set="sename='tog_F00083'"
 @【灯吾】
-………弟、ね
+…Little brother, huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -505,7 +505,7 @@
 @trans-n
 @plse set="sename='krg_F00343'"
 @【黒狐】
-なんだよ、オマエだってわかるだろ。\n妹、居るんだからよ
+What, you get what I mean, right? You’ve got a little sister.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -515,7 +515,7 @@
 @trans-n
 @plse set="sename='tog_F00084'"
 @【灯吾】
-………別に、何も言ってないだろ。\nわかるような、わかんないような
+…I didn’t say anything. I get it, but I don’t get it at the same time. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -540,7 +540,7 @@
 @trans-n
 @plse set="sename='tog_F00085'"
 @【灯吾】
-そういえば、今日は晩飯何食いたい？
+By the way, anything you want for dinner tonight?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -550,7 +550,7 @@
 @trans-n
 @plse set="sename='krg_F00344'"
 @【黒狐】
-え！？　マジ！？\nリクエストしていいのか！？
+Huh?! Seriously?! I get to make a request?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -560,7 +560,7 @@
 @trans-n
 @plse set="sename='tog_F00086'"
 @【灯吾】
-俺が作れるモノならな
+If it’s something I can make.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -570,7 +570,7 @@
 @trans-n
 @plse set="sename='krg_F00345'"
 @【黒狐】
-えーと、えーと………まよっちまうぜ………！
+Uh, uhhhh… I’m lost…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -581,7 +581,7 @@
 @trans-n
 @plse set="sename='tog_F00087'"
 @【灯吾】
-あんま変なのだったら却下するけど
+If it’s something weird I’m rejecting it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -592,7 +592,7 @@
 @trans-n
 @plse set="sename='krg_F00346'"
 @【黒狐】
-………た、タコ………
+…T-tako.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -602,7 +602,7 @@
 @trans-n
 @plse set="sename='tog_F00088'"
 @【灯吾】
-…………………\nたこパでもする気か………？
+…You want tacos…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -610,7 +610,7 @@
 
 @plse set="sename='ort_F00019'"
 @【青年Ａ】 name="f.name='???'"
-…………………あれ～？
+…Oh? Ohhh~? Something good showed up~
 あれー？\nいいものはっけーん
 @ws canskip=true cond="kag.autoMode"
 @endmessage
@@ -621,7 +621,7 @@
 @trans-n
 @plse set="sename='tog_F00089'"
 @【灯吾】
-え………
+Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -631,7 +631,7 @@
 @trans-n
 @plse set="sename='krg_F00347'"
 @【黒狐】
-あ………？
+Wha?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -648,7 +648,7 @@
 @trans-n
 @plse set="sename='ort_F00020'"
 @【青年Ａ】 name="f.name='Guy A'"
-みっつぼーしだー。\nきょうはたべやすそーだねー。\nもしかして、おれ、らっきー？
+Mitsuboshi! You look easy to eat today! Could I be… lucky?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -665,7 +665,7 @@
 @trans-n
 @plse set="sename='krg_F00348'"
 @【黒狐】
-………テメーは………！
+…You’re…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -673,7 +673,7 @@
 
 @plse set="sename='tog_F00090'"
 @【灯吾】
-なんだコイツ………？\nまた、おばけ………？
+What the hell is this? Another monster?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -683,7 +683,7 @@
 @trans-n
 @plse set="sename='krg_F00349'"
 @【黒狐】
-トーゴ、オマエは下がってろ！
+Get back, Tougo!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -694,7 +694,7 @@
 @trans-n
 @plse set="sename='tog_F00091'"
 @【灯吾】
-………って、おい！？
+…Hey?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -715,7 +715,7 @@
 @trans-n
 @plse set="sename='krg_F00350'"
 @【黒狐】
-オマエをアイツにやるわけにはいかねーんだよッ！
+I’m not letting you touch him!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -725,7 +725,7 @@
 @trans-n
 @plse set="sename='tog_F00092'"
 @【灯吾】
-大丈夫なのかよ！？
+Hey, are you sure that’s okay?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -736,7 +736,7 @@
 @trans-n
 @plse set="sename='krg_F00351'"
 @【黒狐】
-しょうがねえだろ、\nそういう約束しちまったんだからよ！
+There’s no choice, I made this promise!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -746,7 +746,7 @@
 @trans-n
 @plse set="sename='tog_F00093'"
 @【灯吾】
-………え………
+Huh…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -760,7 +760,7 @@
 @trans-n
 @plse set="sename='ort_F00021'"
 @【青年Ａ】 name="f.name='Guy A'"
-へー、オマエやる気？　おれとやる気ー？
+Huuuuh? You want to go? You want to go with me?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -770,7 +770,7 @@
 @trans-n
 @plse set="sename='ort_F00022'"
 @【青年Ａ】 name="f.name='Guy A'"
-よわっちそーなのに、やっちゃうんだー。\nすごーい
+You’re so weak, but you want to go with me~ So cool~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -780,7 +780,7 @@
 @trans-n
 @plse set="sename='krg_F00352'"
 @【黒狐】
-畜生、おれだって本気出せば\nテメーひとりくらいやれんだよ！\n………多分！
+Damn it, if I try my hardest I can take at least one of you down! …Probably!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -790,7 +790,7 @@
 @trans-n
 @plse set="sename='ort_F00023'"
 @【青年Ａ】 name="f.name='Guy A'"
-ふーん………\nじゃー、やってみればー？
+Hmmm…. Then, want to try?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -800,7 +800,7 @@
 @trans-n
 @plse set="sename='ort_F00024'"
 @【青年Ａ】 name="f.name='Guy A'"
-むりっぽいけどねー
+It might be too hard for you, though~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -810,7 +810,7 @@
 @trans-n
 @plse set="sename='krg_F00353'"
 @【黒狐】
-うるっせ！
+Shut up!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -846,7 +846,7 @@
 @trans-n
 @plse set="sename='aky_F00032'"
 @【秋良】
-…………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -868,7 +868,7 @@
 @trans-n
 @plse set="sename='hin_F00062'"
 @【灯奈】
-はーい。\n………あれ、あっきー？
+Hello! …Akki?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -878,7 +878,7 @@
 @trans-n
 @plse set="sename='aky_F00033'"
 @【秋良】
-…………………\n狐面は？
+…Where’s Fox Mask?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -888,7 +888,7 @@
 @trans-n
 @plse set="sename='hin_F00063'"
 @【灯奈】
-え？\n由くん、あっきーが来たよ～～
+Huh? Yue-kun, Akki’s here for you~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -901,7 +901,7 @@
 @trans-s
 @plse set="sename='yue_F00305'"
 @【由】
-………え？\nあれ、あきよしだ。\nつばきと黒狐は？
+Hm? Oh, Akiyoshi. Where’s Kurogitsune and Tsubaki?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -911,7 +911,7 @@
 @trans-n
 @plse set="sename='aky_F00034'"
 @【秋良】
-………？\n帰ってないのか？
+…? They’re not home yet?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -921,7 +921,7 @@
 @trans-s
 @plse set="sename='yue_F00306'"
 @【由】
-え？　一緒に帰ってきたんじゃないの？
+Huh? You didn’t come home together?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -931,7 +931,7 @@
 @trans-n
 @plse set="sename='aky_F00035'"
 @【秋良】
-いや、一度別に帰ったが、\n昼休みにきさまの具合が悪いと聞いていたから………
+No, that was just a one-time occurrence. However, I heard you were not feeling well at lunchtime, so…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -941,7 +941,7 @@
 @trans-s
 @plse set="sename='yue_F00307'"
 @【由】
-あれ、お見舞いに来てくれたんだ？
+Oooh, you came to check up on me?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -952,7 +952,7 @@
 @trans-n
 @plse set="sename='aky_F00036'"
 @【秋良】
-違う、様子を見に来ただけだ
+No. I came to check on the situation.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -962,7 +962,7 @@
 @trans-s
 @plse set="sename='yue_F00308'"
 @【由】
-あんまり変わらないと思うけど………
+…What’s the difference?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -975,7 +975,7 @@
 @trans-n
 @plse set="sename='hin_F00064'"
 @【灯奈】
-ねえ、おにーちゃんは？\n帰って来てないの？
+Hey, what about my big bro? He didn’t come home?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -986,7 +986,7 @@
 @trans-s
 @plse set="sename='yue_F00309'"
 @【由】
-………みたい
+…Looks like it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -996,7 +996,7 @@
 @trans-n
 @plse set="sename='hin_F00065'"
 @【灯奈】
-…………………\nそんな………
+….That’s…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1006,7 +1006,7 @@
 @trans-s
 @plse set="sename='yue_F00310'"
 @【由】
-灯奈ちゃん！？\nどこ行くの！？
+…Hina-chan?! Where’re you going?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1016,7 +1016,7 @@
 @trans-n
 @plse set="sename='hin_F00066'"
 @【灯奈】
-おにーちゃんを、探さなきゃ………！
+I… I have to find my brother! 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1029,7 +1029,7 @@
 @trans-s
 @plse set="sename='yue_F00311'"
 @【由】
-…………………\nえ………待って、灯奈ちゃん！
+Huh…? Wait, Hina-chan!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1054,7 +1054,7 @@
 @trans-n
 @plse set="sename='tog_F00094'"
 @【灯吾】
-………おい！
+…Oi!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1072,7 +1072,7 @@
 @trans-n
 @plse set="sename='krg_F00354'"
 @【黒狐】
-………ッ、ハァ、ハァ………
+…Ngh, haah, haah…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1082,7 +1082,7 @@
 @trans-n
 @plse set="sename='krg_F00355'"
 @【黒狐】
-………来るな！！
+…Don’t get any closer!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1092,7 +1092,7 @@
 @trans-n
 @plse set="sename='ort_F00025'"
 @【青年Ａ】 name="f.name='Guy A'"
-アハハー、ホラやっぱりむりだー
+Ahahahaha, look, I was right! You can’t do anything!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1102,7 +1102,7 @@
 @trans-n
 @plse set="sename='krg_F00356'"
 @【黒狐】
-く、っそ………
+D…amn…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1112,7 +1112,7 @@
 @trans-n
 @plse set="sename='ort_F00026'"
 @【青年Ａ】 name="f.name='Guy A'"
-おまえー、食事した事ないんでしょー？\nそんなでおれに勝てると思ったんだー？
+You, you haven’t “eaten” anything, riiight? And you thought you could beat me like that?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1122,7 +1122,7 @@
 @trans-n
 @plse set="sename='krg_F00357'"
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1132,7 +1132,7 @@
 @trans-n
 @plse set="sename='ort_F00027'"
 @【青年Ａ】 name="f.name='Guy A'"
-ていうかさー、なんでー、おまえ食事しないのー？
+So, like, why don’t you have your Meal?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1142,7 +1142,7 @@
 @trans-n
 @plse set="sename='krg_F00358'"
 @【黒狐】
-………え………
+…Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1152,7 +1152,7 @@
 @trans-n
 @plse set="sename='ort_F00028'"
 @【青年Ａ】 name="f.name='Guy A'"
-いますっごいー、この街ー、\nおれら食事しやすいじゃーん？
+This town’s soooo nice if you want a Meal~ Everything’s just so easy to eat~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1162,7 +1162,7 @@
 @trans-n
 @plse set="sename='ort_F00029'"
 @【青年Ａ】 name="f.name='Guy A'"
-おれらみたいなのでもー、\n簡単に食事できちゃうかんじじゃーん？
+Even our kind can find a Meal just like anyone else, right?~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1172,7 +1172,7 @@
 @trans-n
 @plse set="sename='ort_F00030'"
 @【青年Ａ】 name="f.name='Guy A'"
-シン様のー、おかげでさー！
+All thanks to Shin-sama!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1182,7 +1182,7 @@
 @trans-n
 @plse set="sename='krg_F00359'"
 @【黒狐】
-………おまえ………
+…You’re…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1192,7 +1192,7 @@
 @trans-n
 @plse set="sename='ort_F00031'"
 @【青年Ａ】 name="f.name='Guy A'"
-おれも自分の食事ー、みえないけどー。\nみんなそーだしー？
+I can’t find my Meal either. But everyone’s like that~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1202,7 +1202,7 @@
 @trans-n
 @plse set="sename='ort_F00032'"
 @【青年Ａ】 name="f.name='Guy A'"
-おまえも、そーだろー？
+And you too, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1213,7 +1213,7 @@
 @trans-n
 @plse set="sename='ort_F00033'"
 @【青年Ａ】 name="f.name='Guy A'"
-黒狐族はーァ、もウ、どーしようもないじゃんー？
+The Kurogitsune clan, is, like… beyond saving~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1226,7 +1226,7 @@
 @plse set="sename='krg_F00360'"
 @ws
 @【黒狐】
-…………………\n………ッ………
+…..!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1236,7 +1236,7 @@
 @trans-n
 @plse set="sename='ort_F00034'"
 @【青年Ａ】 name="f.name='Guy A'"
-おまえもー、意地張ってないで、\nたべちゃえばいーのにねー？
+You should stop being so stubborn… Just give in and eat something already~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1246,7 +1246,7 @@
 @trans-n
 @plse set="sename='krg_F00361'"
 @【黒狐】
-…………………嫌だッ！！！
+No!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1256,7 +1256,7 @@
 @trans-n
 @plse set="sename='ort_F00035'"
 @【青年Ａ】 name="f.name='Guy A'"
-………傍にいるあの子さー。\nシン様、入ってるあのこ、\nおいしそうっておもってるでしょー？
+…That boy by your side… The one Shin-sama went into… He looks so delicious… Is what you think, riiiight?~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1266,7 +1266,7 @@
 @trans-n
 @plse set="sename='krg_F00362'"
 @【黒狐】
-ふざけんな！！！\n思ってねえよそんな事！！！
+Don’t mess with me! I’ve never goddamn thought that!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1276,7 +1276,7 @@
 @trans-n
 @plse set="sename='ort_F00036'"
 @【青年Ａ】 name="f.name='Guy A'"
-ほんとはさー、たべちゃいたいんでしょー？
+You really do wanna eat him, riiiiiiiight?~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1287,7 +1287,7 @@
 @trans-n
 @plse set="sename='krg_F00363'"
 @【黒狐】
-…………………ッ
+…………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1298,7 +1298,7 @@
 @trans-n
 @plse set="sename='ort_F00037'"
 @【青年Ａ】 name="f.name='Guy A'"
-きっとさー、甘くて、おいしーんだよねー？
+I knew it! He’s just so sweet… So delicious… Riiiight?~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1308,7 +1308,7 @@
 @trans-n
 @plse set="sename='ort_F00038'"
 @【青年Ａ】 name="f.name='Guy A'"
-なんで、おまえがまんしてんのかなー？
+Why do you keep holding it iiiin?~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1318,7 +1318,7 @@
 @trans-n
 @plse set="sename='krg_F00364'"
 @【黒狐】
-黙れよ！\nおれは………！\nおれはそんな事、思ったりしない………ッ
+Shut up! I… I never… I’ll never ever think that!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1348,14 +1348,14 @@
 
 @plse set="sename='ort_F00039'"
 @【青年Ａ】 name="f.name='Guy A'"
-………ッ、………あれー………？
+…………Hmmmm?
 @endmessage
 *|
 @stopse
 
 @plse set="sename='krg_F00365'"
 @【黒狐】
-由、は、そんなんじゃ、ねえんだ………よ！！！
+Yue…’s… not like that, to me…!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1381,7 +1381,7 @@
 @chara3 b="oreta_b1_B004" f="oreta_f2_a_g"
 @trans-n
 @【青年Ａ】 name="f.name='Guy A'"
-…………………\n……………………………………
+……
 @endmessage
 *|
 @stopse
@@ -1390,7 +1390,7 @@
 @trans-n
 @plse set="sename='ort_F00040'"
 @【青年Ａ】 name="f.name='Guy A'"
-アー………いたいなー………
+…Oh… It hurts…
 @endmessage
 *|
 @stopse
@@ -1399,7 +1399,7 @@
 @trans-n
 @plse set="sename='ort_F00041'"
 @【青年Ａ】 name="f.name='Guy A'"
-いたいのは、好きじゃないなー………
+I don’t like it… when it huuuuuuuuuuuuuurts…!
 @endmessage
 *|
 @stopse
@@ -1428,7 +1428,7 @@
 
 @plse set="sename='krg_F00366'"
 @【黒狐】
-………うあッ！！！
+…Uaagh!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1445,7 +1445,7 @@
 @trans-n
 @plse set="sename='tog_F00095'"
 @【灯吾】
-………大丈夫か！？
+…You okay!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1455,7 +1455,7 @@
 @trans-n
 @plse set="sename='krg_F00367'"
 @【黒狐】
-ん………ああ、なんとか………\n………ッ
+…Ngh… S-somehow…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1471,7 +1471,7 @@
 @trans-n
 @plse set="sename='ort_F00042'"
 @【青年Ａ】 name="f.name='Guy A'"
-……………………………………\nあーあ、油断したなー………\nヤなとこ、当たっちゃった………
+…Aaah, I let my guard down… You hit me in all the wrong spots…
 @endmessage
 *|
 @stopse
@@ -1480,7 +1480,7 @@
 @trans-n
 @plse set="sename='ort_F00043'"
 @【青年Ａ】 name="f.name='Guy A'"
-………やっちゃった………
+…I lost.
 @endmessage
 *|
 @stopse
@@ -1490,7 +1490,7 @@
 @trans-n
 @plse set="sename='ort_F00044'"
 @【青年Ａ】 name="f.name='Guy A'"
-なあー、チビ？\nおまえ、どーしてソイツたべないのー？
+Tell me, runt.  Why won’t you eat that one?
 @endmessage
 *|
 @stopse
@@ -1499,7 +1499,7 @@
 @trans-n
 @plse set="sename='ort_F00045'"
 @【青年Ａ】 name="f.name='Guy A'"
-ソイツさー、みつぼしだよねー？\nおれたちでもわかる、おいしー、食事だよねー？
+That one’s Mitsuboshi, right? Everyone knows he’s the tastiest. Why not eat him?
 @endmessage
 *|
 @stopse
@@ -1514,7 +1514,7 @@
 @trans-n
 @plse set="sename='tog_F00096'"
 @【灯吾】
-………え………？\nなんだよ、それ
+…Huh…? What the hell is that?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1524,7 +1524,7 @@
 @trans-n
 @plse set="sename='krg_F00368'"
 @【黒狐】
-なんでも、ねえ………よ
+…Don’t worry about it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1540,7 +1540,7 @@
 @trans-n
 @plse set="sename='ort_F00046'"
 @【青年Ａ】 name="f.name='Guy A'"
-おまえ、それ、たべないと、死んじゃうよ？
+If you don’t eat, you’ll die, won’t you?
 @endmessage
 *|
 @stopse
@@ -1549,14 +1549,14 @@
 @trans-n
 @plse set="sename='ort_F00047'"
 @【青年Ａ】 name="f.name='Guy A'"
-そしたら、
+Then,
 @endmessage
 *|
 @stopse
 
 @plse set="sename='ort_F00048'"
 @【青年Ａ】 name="f.name='Guy A'"
-シン様、かなしむとおもうケドなァー………？
+Shin-sama will be sad, won’t he?
 @endmessage
 *|
 @stopse
@@ -1576,7 +1576,7 @@
 @wait time=2000
 @plse set="sename='krg_F00369'"
 @【黒狐】
-……………………………………ッ
+…………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1586,7 +1586,7 @@
 @trans-n
 @plse set="sename='krg_F00370'"
 @【黒狐】
-黙れっ………！
+Shut up…!!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1601,14 +1601,14 @@
 @trans-n
 @plse set="sename='ort_F00049'"
 @【青年Ａ】 name="f.name='Guy A'"
-おれにはもう、かんけーないけど、ねー？
+You don’t have anything to do with me anymore, riiiight?
 @endmessage
 *|
 @stopse
 
 @plse set="sename='krg_F00371'"
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1618,7 +1618,7 @@
 @trans-n
 @plse set="sename='ort_F00050'"
 @【青年Ａ】 name="f.name='Guy A'"
-なー、チビ
+Hey, runt.
 @endmessage
 *|
 @stopse
@@ -1627,7 +1627,7 @@
 @trans-n
 @plse set="sename='ort_F00051'"
 @【青年Ａ】 name="f.name='Guy A'"
-おまえは、幸せだと、いいねー？
+It’s so great that you’re happy, isn’t it?
 @endmessage
 *|
 @stopse
@@ -1654,7 +1654,7 @@
 @trans-n
 @plse set="sename='krg_F00372'"
 @【黒狐】
-………くそ………
+…Shit…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1672,7 +1672,7 @@
 @trans-n
 @plse set="sename='tog_F00097'"
 @【灯吾】
-………黒狐！\n大丈夫か！？
+Kurogitsune! Stay with me!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1691,7 +1691,7 @@
 @trans-n
 @plse set="sename='krg_F00373'"
 @【黒狐】
-…………………\nトーゴ………-
+…Tougo…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1699,7 +1699,7 @@
 
 @plse set="sename='tog_F00098'"
 @【灯吾】
-手当しないと………けど、
+We have to get you help… but…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1710,7 +1710,7 @@
 @trans-n
 @plse set="sename='tog_F00099'"
 @【灯吾】
-とりあえず、うちまで運ぶしかないか。\n黒狐、立てるか？
+First, we need to get you to my house. Can you stand?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1720,7 +1720,7 @@
 @trans-n
 @plse set="sename='krg_F00374'"
 @【黒狐】
-…………………\nわかんねえ、けど………
+…I dunno, but…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1731,7 +1731,7 @@
 @trans-n
 @plse set="sename='krg_F00375'"
 @【黒狐】
-………なんかも、目が、見えね………\n………くっそ………
+…I…can’t see… Shit…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1739,7 +1739,7 @@
 
 @plse set="sename='krg_F00376'"
 @【黒狐】
-………すんげえ、消耗、した………\nなんか、食べねえと………
+…I’m… so tired… I have to eat… something…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1749,7 +1749,7 @@
 @trans-n
 @plse set="sename='tog_F00100'"
 @【灯吾】
-………黒狐………？
+…Kurogitsune…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1759,7 +1759,7 @@
 @trans-n
 @plse set="sename='krg_F00377'"
 @【黒狐】
-くそ、何でこんなに、弱いんだよ………
+…Why am I so… weak…? Shit…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1769,7 +1769,7 @@
 @trans-n
 @plse set="sename='krg_F00378'"
 @【黒狐】
-こんな、弱いままで、\n由の事なんて守れるわけねえのに………
+Weak as I am right now… I’ll never… protect Yue…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1779,7 +1779,7 @@
 @trans-n
 @plse set="sename='tog_F00101'"
 @【灯吾】
-しっかりしろよ！　おい！
+Stay with me! Oi!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1789,7 +1789,7 @@
 @trans-n
 @plse set="sename='krg_F00379'"
 @【黒狐】
-あー、すっげ、腹減った………
+Ah, I’m so… hungry…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1799,7 +1799,7 @@
 @trans-n
 @plse set="sename='krg_F00380'"
 @【黒狐】
-このままだと、\nおれ………由の事、たべちまいそう………
+Right now… I could even eat… Yue…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1809,7 +1809,7 @@
 @trans-n
 @plse set="sename='tog_F00102'"
 @【灯吾】
-………おい、黒狐！
+……Oi, Kurogitsune!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1818,7 +1818,7 @@
 @chara4.5 b="kokko_b2_B004" f="kokko_f2_b_a2_g_c"
 @trans-n
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1828,7 +1828,7 @@
 @trans-n
 @plse set="sename='krg_F00381'"
 @【黒狐】
-あー………トーゴ、\nいいニオイ、だな
+Ah. You smell good, Tougo.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1838,7 +1838,7 @@
 @trans-n
 @plse set="sename='tog_F00103'"
 @【灯吾】
-………っ！？
+……!?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1848,7 +1848,7 @@
 @trans-n
 @plse set="sename='krg_F00382'"
 @【黒狐】
-そっか、オマエ、由と、\nおんなし、………ニオイがすんだ………
+I see, you’ve got the… same… smell as, Yue…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1858,7 +1858,7 @@
 @trans-n
 @plse set="sename='tog_F00104'"
 @【灯吾】
-お前、何言って…………………
+Hey, what’re you…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1868,7 +1868,7 @@
 @trans-n
 @plse set="sename='krg_F00383'"
 @【黒狐】
-やっぱ、似てんのかな………？
+…You do resemble each other, after all…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1878,7 +1878,7 @@
 @trans-n
 @plse set="sename='tog_F00105'"
 @【灯吾】
-…………………っ
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1888,7 +1888,7 @@
 @trans-n
 @plse set="sename='krg_F00384'"
 @【黒狐】
-………なあ………\nやっぱ、アニキは、\n弟を守らないといけないよな………
+…Hey… A big bro… has to protect his little bro no matter what, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1898,7 +1898,7 @@
 @trans-n
 @plse set="sename='tog_F00106'"
 @【灯吾】
-………え………？
+…Eh…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1908,7 +1908,7 @@
 @trans-n
 @plse set="sename='krg_F00385'"
 @【黒狐】
-………トーゴなら、わかって、くれるか………？
+…You’ll understand… Right, Tougo?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1918,7 +1918,7 @@
 @trans-n
 @plse set="sename='tog_F00107'"
 @【灯吾】
-………………………………………………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -1928,7 +1928,7 @@
 @trans-n
 @plse set="sename='krg_F00386'"
 @【灯吾】
-………いっしょに、弟の事、守って、くれるか………？
+…Let’s protect my bro… Yue… together, okay…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

@@ -33,7 +33,7 @@
 @trans-s
 @plse set="sename='yue_F00202'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -44,7 +44,7 @@
 @trans-s
 @plse set="sename='sgn_F00050'"
 @【嵯峨野】
-…………………\nここは………
+…This is…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -54,7 +54,7 @@
 @trans-n
 @plse set="sename='krg_F00187'"
 @【黒狐】
-っておい！\n何でこんなとこ戻ってきちまったんだよ！
+…Hey! Why the hell are we back here?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -65,7 +65,7 @@
 @trans-s
 @plse set="sename='yue_F00203'"
 @【由】
-えーと、なんとなく？
+Uh… It just happened?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -75,7 +75,7 @@
 @trans-s
 @plse set="sename='yue_F00204'"
 @【由】
-アハハ。\nまさか、こんな所にウッカリ来るなんて思わないよね、\n狭塔さん達も
+Ahaha. As if I’d just carelessly head back here. Sato-san probably thought the same.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @trans-n
 @plse set="sename='krg_F00188'"
 @【黒狐】
-悠長に構えてる場合かよ！　ったく………
+This isn’t the time to take it easy! Man…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -95,7 +95,7 @@
 @trans-s
 @plse set="sename='sgn_F00051'"
 @【嵯峨野】
-いいんじゃねえの？\n今から中に突っ込んだって、別に俺は構わねえよ
+‘S fine, ain’t it? If you’re trying to rush in there or something, I don’t really care.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -105,7 +105,7 @@
 @trans-n
 @plse set="sename='krg_F00189'"
 @【黒狐】
-それも遠慮しておく。\n………一体何考えてんだテメー………
+Let’s not do that. What the hell are you two thinking…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -115,7 +115,7 @@
 @trans-s
 @plse set="sename='yue_F00205'"
 @【由】
-さがのさん、なかなか好戦的だね………
+Sagano-san, you’re surprisingly warlike.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -125,7 +125,7 @@
 @trans-n
 @plse set="sename='krg_F00190'"
 @【黒狐】
-オラ、ぼんやりしてねーで行くぞテメーラ！\nずらかるぞぉぉぉ～！！！
+Okay, stop standing around and let’s get outta here! Onwards!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -135,7 +135,7 @@
 @trans-s
 @plse set="sename='yue_F00206'"
 @【由】
-えー？　走るの～？　もう疲れたよ～
+Eh~? We have to run~?? But I’m so tired…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -148,7 +148,7 @@
 @trans-s
 @plse set="sename='sgn_F00052'"
 @【嵯峨野】
-………今回はお預け、か。\nまあ、またの機会にしてやるよ
+…We’re postponing it for now. Well, I guess I’ll wait for another chance…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -166,7 +166,7 @@
 @trans-n
 @plse set="sename='ran_F00000'"
 @【嵐昼】
-……………………………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -174,7 +174,7 @@
 
 @plse set="sename='ran_F00001'"
 @【嵐昼】
-ウッカリ………だと………？
+…Carelessly?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -182,7 +182,7 @@
 
 @plse set="sename='tmr_F00008'"
 @【灯守】
-…………………\n何を、やっているんだろうな
+…What are they doing?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -192,7 +192,7 @@
 @trans-n
 @plse set="sename='ran_F00002'"
 @【嵐昼】
-ハア………\n心臓に悪い
+Phew… They’re bad for the heart.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -202,7 +202,7 @@
 @trans-n
 @plse set="sename='ran_F00003'"
 @【嵐昼】
-全く、人の気も知らずにひょこひょこと………！\nたまたま見かけたのが我々だったから良かったものの\n他の者に知れたら一体どうなっていた事か
+Good grief, just strolling along without even noticing that two people were watching them…!? It's a good thing we happened to be the ones who saw them, but who knows what would have happened if others had found out?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -210,7 +210,7 @@
 
 @plse set="sename='tmr_F00009'"
 @【灯守】
-だが、二人とも元気そうで、何よりだ
+However, the two of them seemed quite well, above all else.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -220,7 +220,7 @@
 @trans-n
 @plse set="sename='ran_F00004'"
 @【嵐昼】
-これ以上馬鹿な真似をしなければいいがな、\n………あの馬鹿狐
+It’d be best if you didn’t do any more of this tomfoolery… you stupid fox.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -230,7 +230,7 @@
 @trans-n
 @plse set="sename='ran_F00005'"
 @【嵐昼】
-まあ、馬鹿な真似しかしないから\n馬鹿狐なんだが……
+Well, it’s because you only know tomfoolery that makes you a stupid fox.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -240,7 +240,7 @@
 @trans-n
 @plse set="sename='tmr_F00010'"
 @【灯守】
-ふふ。嵐昼も心配性だ。\n念の為に、今日は強めに火を点けておこう
+Fufu. Ranchuu, you too are a worrier. Then, just to make sure, I shall strengthen the lights today.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -248,7 +248,7 @@
 
 @plse set="sename='tmr_F00011'"
 @【灯守】
-そうすれば、\nうっかり戻ってくる事も、ないだろうから
+Then, they will no longer come back here carelessly.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -258,7 +258,7 @@
 @trans-n
 @plse set="sename='ran_F00006'"
 @【嵐昼】
-…………………確かに、\nものすごく戻り難いだろうな、それは
+…It’s true, that certainly will make it far harder to come back…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

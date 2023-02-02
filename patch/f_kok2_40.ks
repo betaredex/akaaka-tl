@@ -43,7 +43,7 @@
 @trans-n
 @plse set="sename='yai_F00012'"
 @【夜市】
-ふふふ。\nふふふふふ
+Heheheh… Hahaha.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -58,7 +58,7 @@
 @trans-n
 @plse set="sename='tog_F00026'"
 @【灯吾】
-なんだよ夜市、\nさっきからニヤニヤ笑って、気持ち悪い
+What’s up, Yaichi? Smiling and laughing like that gives me the creeps.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -68,7 +68,7 @@
 @trans-n
 @plse set="sename='yai_F00013'"
 @【夜市】
-いや～、僕、こうして大人数で食卓を囲むのって\n昔から夢だったんだよね。\n嬉しいなァ
+Sorry~ Having a ton of people sit around a table and eat together with me… It’s an old dream of mine. It makes me happy to see it come true.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -85,7 +85,7 @@
 @trans-s
 @plse set="sename='yue_F00217'"
 @【由】
-すみません、ホントにお世話になっちゃって
+I’m sorry. Thank you so much for taking care of me.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -96,7 +96,7 @@
 @trans-s
 @plse set="sename='krg_F00204'"
 @【黒狐】
-おい由、トーゴの飯マジうまいな！！！\nうまい！！！　ウマスギル！！！
+Oi Yue Tougo’s cooking is so good! Super good! Crazy good!!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -106,7 +106,7 @@
 @trans-s
 @plse set="sename='sgn_F00070'"
 @【嵯峨野】
-……………………………………。\nおかわり
+………More.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -122,7 +122,7 @@
 @trans-n
 @plse set="sename='yai_F00014'"
 @【夜市】
-灯吾くんのゴハンは美味しいだろう？\n沢山食べていってね
+Tougo-kun’s food is good, isn’t it? Have as much as you like.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -132,7 +132,7 @@
 @trans-n
 @plse set="sename='hin_F00009'"
 @【灯奈】
-うー………
+Ugh….
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -142,7 +142,7 @@
 @trans-n
 @plse set="sename='tog_F00027'"
 @【灯吾】
-どうした灯奈、今日は機嫌悪いな
+What’s wrong, Hina? You’re in a bad mood.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -152,7 +152,7 @@
 @trans-n
 @plse set="sename='hin_F00010'"
 @【灯奈】
-………ううん、別になんでもなーい。\n灯奈もうおなかいっぱい、ごちそうさま！
+…No, nothing. My stomach is full. Thanks for the food!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -165,7 +165,7 @@
 @trans-n
 @plse set="sename='tog_F00028'"
 @【灯吾】
-………？？？\n腹でも壊したのか………？
+…?? Is her stomach upset…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -175,7 +175,7 @@
 @trans-n
 @plse set="sename='yai_F00015'"
 @【夜市】
-で、由くんだっけ。\n帰れないって言ってたけど、\n親御さんは心配していないかい？
+So, Yue-kun, right? Nowhere to go, you said… Aren’t your parents worried?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -186,7 +186,7 @@
 @trans-n
 @plse set="sename='yai_F00016'"
 @【夜市】
-あ、無理に理由は聞かないけど
+Oh, you don’t have to tell me if you’re not comfortable saying it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -199,7 +199,7 @@
 @trans-s
 @plse set="sename='yue_F00218'"
 @【由】
-………すみません。\nちょっと、いろいろあって
+…I’m sorry. A little… a lot happened.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -209,7 +209,7 @@
 @trans-n
 @plse set="sename='yai_F00017'"
 @【夜市】
-はは、まあ人には色んな事情があるものさ。\n今日くらいはゆっくりしていくといい
+Haha, well, everyone has their own circumstances. How about you just take it easy for today?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -219,7 +219,7 @@
 @trans-s
 @plse set="sename='yue_F00219'"
 @【由】
-………はい
+…Okay.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -230,7 +230,7 @@
 @trans-n
 @plse set="sename='yai_F00018'"
 @【夜市】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -240,7 +240,7 @@
 @trans-s
 @plse set="sename='yue_F00220'"
 @【由】
-………？\nあの、オレに何か？
+…? Excuse me, is there something you’d like to ask?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -248,7 +248,7 @@
 
 @plse set="sename='yai_F00019'"
 @【夜市】
-………いや
+…No.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -258,7 +258,7 @@
 @trans-n
 @plse set="sename='yai_F00020'"
 @【夜市】
-その狐面、似合っているね
+That fox mask, it just… reminded me.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -268,7 +268,7 @@
 @trans-s
 @plse set="sename='yue_F00221'"
 @【由】
-…………………\nえ………
+…Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -281,7 +281,7 @@
 @trans-n
 @plse set="sename='tog_F00029'"
 @【灯吾】
-…………………\nホラ
+………Here.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -291,7 +291,7 @@
 @trans-s
 @plse set="sename='yue_F00222'"
 @【由】
-………え？\nつばき、オレおかわり頼んでないよ？
+Eh? Tsubaki, I didn’t ask for another helping…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -301,7 +301,7 @@
 @trans-n
 @plse set="sename='tog_F00030'"
 @【灯吾】
-やっぱりお前、今日いつもより元気ないだろ。\nもうちょっと食べろよ
+You’re not as happy as you usually are today. Eat a little more.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -311,7 +311,7 @@
 @trans-s
 @plse set="sename='yue_F00223'"
 @【由】
-…………………。\nウン、ありがと、つばき
+…Okay. Thanks, Tsubaki.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -321,7 +321,7 @@
 @trans-n
 @plse set="sename='tog_F00031'"
 @【灯吾】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -334,7 +334,7 @@
 @trans-s
 @plse set="sename='sgn_F00071'"
 @【嵯峨野】
-……………………………………。\nおかわり
+………More.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -344,7 +344,7 @@
 @trans-n
 @plse set="sename='tog_F00032'"
 @【灯吾】
-あんたは、よく食うな………
+You can definitely eat well…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -354,7 +354,7 @@
 @trans-s
 @plse set="sename='sgn_F00072'"
 @【嵯峨野】
-旨いからな、お前の飯
+You are good at cooking, I’ll give you that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -364,7 +364,7 @@
 @trans-n
 @plse set="sename='tog_F00033'"
 @【灯吾】
-べつに………普通だろ、このくらい
+Not really… This is just normal, if anything.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -374,7 +374,7 @@
 @trans-s
 @plse set="sename='sgn_F00073'"
 @【嵯峨野】
-そうか？\n久しぶりに食ったけどな、こんな旨い飯
+Really? Well, it’s been forever since I had some of this delicious food.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -384,7 +384,7 @@
 @trans-n
 @plse set="sename='tog_F00034'"
 @【灯吾】
-…………………\n煽ててもこれ以上出すものはないからな。\n鍋も釜も空っぽだ
+…Flattering me won’t get you any more food. The pot on the stove and on the table are both empty.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -397,7 +397,7 @@
 @trans-s
 @plse set="sename='yue_F00224'"
 @【由】
-アハハ、つばき照れてる？
+Ahaha, is Tsubaki embarrassed?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -407,7 +407,7 @@
 @trans-n
 @plse set="sename='tog_F00035'"
 @【灯吾】
-………別に………
+…Not really…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -424,7 +424,7 @@
 @trans-s
 @plse set="sename='yue_F00225'"
 @【由】
-………ね。\nこうして大勢でごはん食べてると、\n皆の事思い出しちゃうね、黒狐
+…Hey. When you have dinner with a big crowd like this, it makes you think of everyone, right, Kurogitsune?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -434,7 +434,7 @@
 @trans-s
 @plse set="sename='krg_F00205'"
 @【黒狐】
-………そーだな。\n帰りたくなったか？
+…I guess. You want to go back?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -444,7 +444,7 @@
 @trans-s
 @plse set="sename='yue_F00226'"
 @【由】
-…………………\nなのかな
+…I wonder.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -454,7 +454,7 @@
 @trans-s
 @plse set="sename='krg_F00206'"
 @【黒狐】
-…………………\n心配すんな。\nお前がちゃんとすれば、すぐに戻れるよ
+Don’t worry. You do this right,  and we’ll be back soon enough.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -464,7 +464,7 @@
 @trans-s
 @plse set="sename='yue_F00227'"
 @【由】
-………ちゃんと、って………
+“Right”...
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -474,7 +474,7 @@
 @trans-s
 @plse set="sename='krg_F00207'"
 @【黒狐】
-…………………\n「食事」
+…The “Meal”.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -484,7 +484,7 @@
 @trans-s
 @plse set="sename='yue_F00228'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -501,7 +501,7 @@
 @trans-n
 @plse set="sename='tog_F00036'"
 @【灯吾】
-………ん？\n何だ、足りないものあるのか？
+…? Are you still hungry?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -511,7 +511,7 @@
 @trans-s
 @plse set="sename='yue_F00229'"
 @【由】
-あ、ううん、なんでもない。\nありがと、ゴチソウサマ
+Huh? Uh, oh, no, nothing. Thanks for the food.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -521,7 +521,7 @@
 @trans-n
 @plse set="sename='tog_F00037'"
 @【灯吾】
-…………………\nおそまつさま
+…You’re welcome.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -537,7 +537,7 @@
 @trans-s
 @plse set="sename='yue_F00230'"
 @【由】
-…………………\n食事、か………
+…Meal…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -547,7 +547,7 @@
 @trans-s
 @plse set="sename='krg_F00208'"
 @【黒狐】
-…………………\nやんねえと、オマエが居られなくなるぞ
+…Don’t do it, and you’ll disappear.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -555,7 +555,7 @@
 
 @plse set="sename='yue_F00231'"
 @【由】
-………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -565,7 +565,7 @@
 @trans-s
 @plse set="sename='yue_F00232'"
 @【由】
-できるのかな………
+…Can I do it…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -575,7 +575,7 @@
 @trans-s
 @plse set="sename='krg_F00209'"
 @【黒狐】
-………できるよ
+…You have to.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -585,7 +585,7 @@
 @trans-s
 @plse set="sename='yue_F00233'"
 @【由】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -601,7 +601,7 @@
 @trans-s
 @plse set="sename='sgn_F00074'"
 @【嵯峨野】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -611,7 +611,7 @@
 @trans-s
 @plse set="sename='sgn_F00075'"
 @【嵯峨野】
-…………………\n…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

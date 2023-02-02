@@ -26,7 +26,7 @@
 @trans-s
 @plse set="sename='yue_A00039'"
 @【由】
-………ふぁ～あ、よく寝た
+…Yaa~wn. I sure slept well…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -35,7 +35,7 @@
 @chara3 b="yue_b1_A005" f="yue_f1_g_b_e"
 @plse set="sename='yue_A00040'"
 @【由】
-オハヨーございまーす
+Good morning~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -51,7 +51,7 @@
 @trans-n
 @plse set="sename='krg_A00077'"
 @【黒狐】
-なぁーにがオハヨーございますーだよ、\n結局夜まで寝てやがって。\nいい加減、脳みそ溶けちまうぞ！
+“Good morning”...The hell?! Ya slept all day! It’s NIGHT! Ain’t your brains turned to mush by now?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -60,7 +60,7 @@
 @chara1.5 b="yue_b1_A005" f="yue_f1_a_a_e"
 @plse set="sename='yue_A00041'"
 @【由】
-あ、黒狐
+Oh, Kurogitsune.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -69,7 +69,7 @@
 @chara1.5 b="yue_b1_A007" f="yue_f1_g_b_e"
 @plse set="sename='yue_A00042'"
 @【由】
-この駄菓子買ってきてくれたの、黒狐でしょ。\nありがとう。\nまた街に行ったんだ？
+Are you the one who bought me this candy? Thank you. You went to the town again, then?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -78,7 +78,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_a_e_i_a" o="kokko_o1"
 @plse set="sename='krg_A00078'"
 @【黒狐】
-オマエがいつまでも寝てるからだろーが。\nおれと遊ばないでよー
+Because you’re always sleeping! Ya never play with me!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -87,7 +87,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_b_e2_i" o="kokko_o1"
 @plse set="sename='krg_A00079'"
 @【黒狐】
-………どーだ？　身体の具合
+…So? How’re you feeling?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -96,7 +96,7 @@
 @chara1.5 b="yue_b1_A005" f="yue_f1_g_b_d2"
 @plse set="sename='yue_A00043'"
 @【由】
-ウン、いっぱい寝たから気分いいよ。\n今日はいい夢見られるね！
+I feel great since I slept so much. I bet I’ll have a lot of good dreams today!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -105,7 +105,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_a_e_i_a" o="kokko_o1"
 @plse set="sename='krg_A00080'"
 @【黒狐】
-ってまだ寝る気かよ！？
+…You still wanna sleep?!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -114,7 +114,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_h_e_a_a" o="kokko_o1"
 @plse set="sename='krg_A00081'"
 @【黒狐】
-ったく………\nホントぐうたらだよなオマエ………\n心配して損したぜ………
+I swear to the Master… You good-for-nothing… Why’d I ever worry about you…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -123,7 +123,7 @@
 @chara4.5 b="kokko_b3_A003" f="kokko_f3_h_e_i" o="kokko_o3"
 @plse set="sename='krg_A00082'"
 @【黒狐】
-ランチュー！　早くメシ！\nおれ待ちきれねえー！
+Ranchuu! Food, now! I can’t wait!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -132,7 +132,7 @@
 @chara1.5 b="yue_b1_A005" f="yue_f1_d_a_g"
 @plse set="sename='yue_A00044'"
 @【由】
-…………………\n嵐昼の怒ってる声が聞こえるね
+………I can hear his angry voice from here.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -141,7 +141,7 @@
 @chara4.5 b="kokko_b3_A001" f="kokko_f3_e_b_i" o="kokko_o3"
 @plse set="sename='krg_A00083'"
 @【黒狐】
-ったく、チンタラやってんじゃねーよ。\n………ちょいと手伝ってやっか！
+Man, that guy sure does take forever… Guess I better go ‘n help!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -159,7 +159,7 @@
 @trans-n
 @plse set="sename='yue_A00045'"
 @【由】
-…………………\nとかいいながら、\nつまみ食いしに行くんだろうなァ、アレ
+…He said that, but he probably just wants to go and pick out food while Ranchuu cooks…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -169,7 +169,7 @@
 @trans-n
 @plse set="sename='yue_A00046'"
 @【由】
-ま、いっか。怒られるのは、オレじゃないし。\n………ん？
+Well, it’s not me he’s mad at… Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -185,7 +185,7 @@
 @trans-n
 @plse set="sename='yue_A00047'"
 @【由】
-どうしたの？　君たち。\n何か、嬉しそうだね
+What’s up, you three? You seem happy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -194,7 +194,7 @@
 @chara4.5 b="kin_B004"
 @plse set="sename='kim_A00219'"
 @【祁門】
-………ワカル？
+…Does he know?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -203,7 +203,7 @@
 @chara4.5 b="kin_B006"
 @plse set="sename='sui_A00199'"
 @【水仙】
-今日、イーコトアッタカラ、僕タチ
+Today something really good happened to us!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -212,7 +212,7 @@
 @chara4.5 b="kin_B008"
 @plse set="sename='gkr_A00210'"
 @【玉露】
-嬉シクッテ、金魚鉢ノ中デ、ジットシテラレナインダヨ
+We’re so excited, we can’t sit around in our bowl!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -221,7 +221,7 @@
 @chara1.5 b="yue_b1_A020" f="yue_f1_a_b_e"
 @plse set="sename='yue_A00048'"
 @【由】
-フ～ン。\n………イイコトって？
+Hmm… Something really good?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -231,7 +231,7 @@
 @chara4.5 b="kin_B005"
 @plse set="sename='sui_A00200'"
 @【水仙】
-ソレハヒーミツ
+That’s a secret~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -241,7 +241,7 @@
 @chara4.5 b="kin_B003"
 @plse set="sename='kim_A00220'"
 @【祁門】
-ウフフ、ヒミツヒミツ！
+Ehehe, top secret~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -250,7 +250,7 @@
 @chara4.5 b="kin_B001"
 @plse set="sename='gkr_A00211'"
 @【玉露】
-ユエニ教エチャッタラ、黒狐ニバレルモン
+If we tell you, you’ll blab to Kurogitsune~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -259,7 +259,7 @@
 @chara1.5 b="yue_b1_A020" f="yue_f1_f_a2_g"
 @plse set="sename='yue_A00049'"
 @【由】
-ええ～？　そうかなァ………\nオレ別にそこまで黒狐に\n何でも話したりしないんだけど
+Huuuh? …I might… But it’s not like I feel the need to tell Kurogitsune everything.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -268,7 +268,7 @@
 @chara1.5 b="yue_b1_A020" f="yue_f1_g_b_e"
 @plse set="sename='yue_A00050'"
 @【由】
-ま、いっか。\n………良かったね、イイコトあって？
+Well, whatever. I’m glad something good happened to you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -277,7 +277,7 @@
 @chara4.5 b="kin_B004"
 @plse set="sename='kim_A00221'"
 @【祁門】
-ウン！
+Yeah!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -286,7 +286,7 @@
 @chara4.5 b="kin_B006"
 @plse set="sename='sui_A00201'"
 @【水仙】
-ユエモ、ソノウチアルトイイネ、イイコト
+Something good might happen to you too, Yue~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -295,7 +295,7 @@
 @chara4.5 b="kin_B008"
 @plse set="sename='gkr_A00212'"
 @【玉露】
-キットアルヨ。イツカミツカルヨ、キット
+Definitely. You’ll definitely find it~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -304,7 +304,7 @@
 @chara1.5 b="yue_b1_A020" f="yue_f1_d_c2_d2"
 @plse set="sename='yue_A00051'"
 @【由】
-フ～ン………？\nん？
+Hmmmm? …Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -318,7 +318,7 @@
 @chara4.5 b="abe_b1_A007" f="abe_f1_g_b2_e"
 @plse set="sename='abe_A00000'"
 @【足部さん達】
-やっほー。\n狭塔様いるー？
+Yahoo~ Sato-sama here?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -328,7 +328,7 @@
 @chara1.5 b="yue_b1_A005" f="yue_f1_a_a_g"
 @plse set="sename='yue_A00052'"
 @【由】
-アレ、足部さん達。\nこんばんは～
+Oh, good evening, Abe-sans.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -337,7 +337,7 @@
 @chara4.5 b="abe_b1_A006" f="abe_f1_g_d_e"
 @plse set="sename='abe_A00001'"
 @【足部さん達】
-やだなー由くん、達ってなによ達って。\n僕ちゃん一人よ～？
+Oh no, Yue-kun. There’s only one of me, you know?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -347,7 +347,7 @@
 @chara1.5 b="yue_b1_A005" f="yue_f1_g_b_e"
 @plse set="sename='yue_A00053'"
 @【由】
-アハハ、またまた～。\n色々はみでてますよー
+Ahaha, and there it goes~ They’re sticking out again.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -357,7 +357,7 @@
 @chara4.5 b="abe_b1_A001" f="abe_f1_g_d_e"
 @plse set="sename='abe_A00002'"
 @【足部さん達】
-エー、どの辺が～？
+Eeeh? From where?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -366,7 +366,7 @@
 @chara1.5 b="yue_b1_A001" f="yue_f1_g_b_d2"
 @plse set="sename='yue_A00054'"
 @【由】
-アハハハー。\n………狭塔さんなら、多分ミコ様の所ですよ
+Ahahaha~ Sato-san’s probably with Miko-sama, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -375,7 +375,7 @@
 @chara4.5 b="abe_b1_A001" f="abe_f1_f_b2_g"
 @plse set="sename='abe_A00003'"
 @【足部さん達】
-あら～、まだ帰ってないんだ。\n夕飯もまだみたいだもんね
+Oh, so he’s not home yet~ Looks like he won’t make it for dinner.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -384,7 +384,7 @@
 @chara1.5 b="yue_b1_A001" f="yue_f1_d_a_e"
 @plse set="sename='yue_A00055'"
 @【由】
-ハイ。今日忙しかったって聞きましたけど
+Yes. I heard he was busy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -393,7 +393,7 @@
 @chara4.5 b="abe_b1_A004" f="abe_f1_g_d_e"
 @plse set="sename='abe_A00004'"
 @【足部さん達】
-あーそうそう、大変だったのよ～。\n僕らまで境内の掃除手伝わされちゃって、\nもークタクタ～
+Ah yes yes, it was hard work! We even had to help clean up the grounds, and it was exhausting!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -402,7 +402,7 @@
 @chara1.5 b="yue_b1_A001" f="yue_f1_a_b_d2"
 @plse set="sename='yue_A00056'"
 @【由】
-良かったら足部さん達も晩ご飯、食べて行きますか？
+Then would you like your dinner now, Abe-sans?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -411,7 +411,7 @@
 @chara4.5 b="abe_b1_A004" f="abe_f1_a_b2_e"
 @plse set="sename='abe_A00005'"
 @【足部さん達】
-あっれー、それは嬉しいなァ。\nじゃ、ご馳走になっちゃおうかな～
+Yes, that’d be wonderful~ What a treat, eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -424,7 +424,7 @@
 @chara1.5 b="kin_B001"
 @plse set="sename='sui_A00202'"
 @【水仙】
-トカイッテ、毎日食ベニ来テル癖ニ
+Says the guy who comes here to eat every day.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -434,7 +434,7 @@
 @chara1.5 b="kin_B004"
 @plse set="sename='kim_A00222'"
 @【祁門】
-イイトシシテ自炊シナイノー？
+Isn’t he at a good age to learn how to cook?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -443,7 +443,7 @@
 @chara4.5 b="abe_b1_A004" f="abe_f1_g_b2_e"
 @plse set="sename='abe_A00006'"
 @【足部さん達】
-アハハ君たち、少し黙れ
+Ahaha could you three please shut up?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -456,7 +456,7 @@
 @chara1.5 b="yue_b1_A001" f="yue_f1_a_b_e"
 @plse set="sename='yue_A00057'"
 @【由】
-そういえば足部さん達は、\n狭塔さんに一体何の用事が？
+Oh right. What’s Sato-san doing?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -465,7 +465,7 @@
 @chara4.5 b="abe_b1_A001" f="abe_f1_a_b2_e"
 @plse set="sename='abe_A00007'"
 @【足部さん達】
-ああ、そうそうコレ持ってきたのよコレ
+Oh right, he’s doing this.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -475,7 +475,7 @@
 @chara1.5 b="yue_b1_A001" f="yue_f1_a_a_g"
 @plse set="sename='yue_A00058'"
 @【由】
-………ちらし？
+…Leaflets?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -485,7 +485,7 @@
 @chara4.5 b="abe_b1_A001" f="abe_f1_g_b2_d"
 @plse set="sename='abe_A00008'"
 @【足部さん達】
-そー、お祭りのお知らせ。\nホラ、もうすぐ冬の大祭だから。自治会がね
+Yep, for the coming festival. The big winter festival is soon, y’know? He’s on the neighborhood council.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -495,7 +495,7 @@
 @chara1.5 b="yue_b1_A001" f="yue_f1_d_a2_b2"
 @plse set="sename='yue_A00059'"
 @【由】
-…………………\n祭り………
+…Festival…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -509,7 +509,7 @@
 @trans-n
 @plse set="sename='krg_A00084'"
 @【黒狐】
-おーい由、聞いてくれよランチューのヤツがよー
+Hey Yue, listen to what that ass Ranchuu did!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -519,7 +519,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_a_a_a" o="kokko_o1"
 @plse set="sename='krg_A00085'"
 @【黒狐】
-………って、ん？　何見てんだ？
+…Huh? What’re ya lookin’ at?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -528,7 +528,7 @@
 @chara1.5 b="kin_B001"
 @plse set="sename='sui_A00203'"
 @【水仙】
-オマツリノオシラセダヨー
+Flyers for the festival~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -538,7 +538,7 @@
 @chara1.5 b="kin_B004"
 @plse set="sename='kim_A00223'"
 @【祁門】
-モウスグオマツリダヨー。\nウフフ！
+The festival is really soon~ Ufufu.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -547,7 +547,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_a_a_i" o="kokko_o1"
 @plse set="sename='krg_A00086'"
 @【黒狐】
-………まつり………
+…Festival…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -557,7 +557,7 @@
 @chara1.5 b="kin_B005"
 @plse set="sename='gkr_A00213'"
 @【玉露】
-今日、街ニイッパイ椿咲イテタモンネ。\n主様モ、キットヨロコブヨー
+There were a ton of camellias blooming in town today. The Master will be happy~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -566,7 +566,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_e_b_i" o="kokko_o1"
 @plse set="sename='krg_A00087'"
 @【黒狐】
-…………………\nああ
+…Yeah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -580,7 +580,7 @@
 @chara1.5 b="yue_b1_A022" f="yue_f1_g_b_e"
 @plse set="sename='yue_A00060'"
 @【由】
-………お祭りだって。\n黒狐
+…It’s a festival, Kurogitsune.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -589,7 +589,7 @@
 @chara1.5 b="yue_b1_A022" f="yue_f1_a_a_e"
 @plse set="sename='yue_A00061'"
 @【由】
-………楽しみだね？
+…Will it be fun?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -598,7 +598,7 @@
 @chara4.5 b="kokko_b1_A006" f="kokko_f1_a_b_i" o="kokko_o1"
 @plse set="sename='krg_A00088'"
 @【黒狐】
-…………………\nオマエ、行った事ねーだろ
+……Do you have any reason to go?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -607,7 +607,7 @@
 @chara1.5 b="yue_b1_A012" f="yue_f1_g_b_e"
 @plse set="sename='yue_A00062'"
 @【由】
-ないけどさ。\nでも、黒狐がいつも話してくれるから。\n屋台のタコ焼きが最高だって、ね？
+Nope! But you always talk about it. The takoyaki carts are the best, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -616,7 +616,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_a_a_a" o="kokko_o1"
 @plse set="sename='krg_A00089'"
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -625,7 +625,7 @@
 @chara4.5 b="kokko_b1_A001" f="kokko_f1_g_b_e" o="kokko_o1"
 @plse set="sename='krg_A00090'"
 @【黒狐】
-アー、そうそう！\n祭りの日には、そんな駄菓子より\nもっと旨いモンが沢山出るんだ！
+Yeah, that’s right! At the festival, there’s tonsa food way tastier than that candy!
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -633,7 +633,7 @@
 
 @plse set="sename='krg_A00091'"
 @【黒狐】
-ほんと、オマエにも食わせてやりたいぜ～
+I bet you’d love eatin’ there~
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -642,7 +642,7 @@
 @chara1.5 b="yue_b1_A012" f="yue_f1_c_b_d2"
 @plse set="sename='yue_A00063'"
 @【由】
-うん、\nまた、今日みたいにお土産買ってきてね？
+Yeah. Will you bring me something from there, like today?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -651,7 +651,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_e_b_i" o="kokko_o1"
 @plse set="sename='krg_A00092'"
 @【黒狐】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -660,7 +660,7 @@
 @chara4.5 b="kokko_b1_A002" f="kokko_f1_a_a_i" o="kokko_o1"
 @plse set="sename='krg_A00093'"
 @【黒狐】
-………なあ、由
+…Hey, Yue.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -670,7 +670,7 @@
 @chara1.5 b="yue_b1_A012" f="yue_f1_a_b_d2"
 @plse set="sename='yue_A00064'"
 @【由】
-ん？
+Hm?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -679,7 +679,7 @@
 @chara4.5 b="kokko_b1_A003" f="kokko_f1_e_b_i" o="kokko_o1"
 @plse set="sename='krg_A00094'"
 @【黒狐】
-ちょっと、耳貸せ
+Lemme tell you a secret.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|

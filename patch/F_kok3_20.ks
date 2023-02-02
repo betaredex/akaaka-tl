@@ -41,7 +41,7 @@
 @trans-n
 @plse set="sename='hin_F00024'"
 @【灯奈】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -49,7 +49,7 @@
 
 @plse set="sename='yue_F00275'"
 @【由】
-………う………ん………\n……………………………………
+Ugh… Ngh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -59,7 +59,7 @@
 @trans-n
 @plse set="sename='hin_F00025'"
 @【灯奈】
-………由くん………
+Yue-kun…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -67,7 +67,7 @@
 
 @plse set="sename='hin_F00026'"
 @【灯奈】
-由くん、苦しそう………
+Yue-kun seems in pain…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -77,7 +77,7 @@
 @trans-n
 @plse set="sename='hin_F00027'"
 @【灯奈】
-………らくに、してあげられたらいいけど
+…It would be nice if he could be happy.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -87,7 +87,7 @@
 @trans-n
 @plse set="sename='hin_F00028'"
 @【灯奈】
-灯奈は、\nおにーちゃんとおとーさんを守る為にいるから。\n………だから………
+Hina exists to take care of Dad and Big Bro. …So…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -95,7 +95,7 @@
 
 @plse set="sename='hin_F00029'"
 @【灯奈】
-灯奈は………
+Hina will…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -103,7 +103,7 @@
 
 @plse set="sename='yue_F00276'"
 @【由】
-…………………\nん………？
+…Ngh…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -113,7 +113,7 @@
 @trans-n
 @plse set="sename='hin_F00030'"
 @【灯奈】
-………あ………
+Ah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -128,14 +128,14 @@
 @trans-s
 @plse set="sename='yue_F00277'"
 @【由】
-………ひな、ちゃん………？
+Hina-chan…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
 @stopse
 
 @【灯奈】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -145,7 +145,7 @@
 @trans-s
 @plse set="sename='yue_F00278'"
 @【由】
-………どうした、の………？
+What’s… wrong?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -155,7 +155,7 @@
 @trans-s
 @plse set="sename='hin_F00032'"
 @【灯奈】
-………由くん………
+Yue-kun…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -165,7 +165,7 @@
 @trans-s
 @plse set="sename='hin_F00033'"
 @【灯奈】
-………ねえ、聞いてもいい？
+…Can I ask you something?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -176,7 +176,7 @@
 @trans-s
 @plse set="sename='yue_F00279'"
 @【由】
-………え………
+…Eh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -186,7 +186,7 @@
 @trans-s
 @plse set="sename='hin_F00034'"
 @【灯奈】
-………由くんは、おにーちゃんを、\nしょくじ、するの？
+Yue, are you going to… eat… my brother?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -196,7 +196,7 @@
 @trans-s
 @plse set="sename='yue_F00280'"
 @【由】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -206,7 +206,7 @@
 @trans-s
 @plse set="sename='hin_F00035'"
 @【灯奈】
-………その為に、ここに来たの………？
+Is that why you’re here…?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -216,7 +216,7 @@
 @trans-s
 @plse set="sename='yue_F00281'"
 @【由】
-…………………\n灯奈、ちゃん………？
+…Hina-chan?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -226,7 +226,7 @@
 @trans-s
 @plse set="sename='hin_F00036'"
 @【灯奈】
-おねがい、教えて。\n由くんが、もしそう思ってるなら、\n灯奈、ホントは止められないの
+Please, tell me. If you really do want to do that, I won’t stop you. 
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -236,7 +236,7 @@
 @trans-s
 @plse set="sename='hin_F00037'"
 @【灯奈】
-………灯奈、由くんを止めちゃいけないの。\nでももしそう思ってるなら、灯奈は………
+No, I can’t stop you. But if you really do want to, then…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -246,7 +246,7 @@
 @trans-s
 @plse set="sename='yue_F00282'"
 @【由】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -256,9 +256,9 @@
 @setselect2
 
 @position2-1
-[link target="*link2" exp="tf.toScenario='',tf.toLabel='*F_kok3_20a'"]迷ってる[endlink]
+[link target="*link2" exp="tf.toScenario='',tf.toLabel='*F_kok3_20a'"]I'm lost[endlink]
 @position2-2
-[link target="*link2" exp="tf.toScenario='',tf.toLabel='*F_kok3_20b',f.F_kok4_31c=1"]食事するつもりはない[endlink]
+[link target="*link2" exp="tf.toScenario='',tf.toLabel='*F_kok3_20b',f.F_kok4_31c=1"]I won't eat him[endlink]
 
 
 ;---一選択肢の終了
@@ -280,7 +280,7 @@
 @messagelay
 @plse set="sename='yue_F00283'"
 @【由】
-………ホントは、まよってる、かな………
+…The truth is… I’m lost. I don’t know…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -290,7 +290,7 @@
 @trans-s
 @plse set="sename='hin_F00038'"
 @【灯奈】
-………え………
+…Eh…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -300,7 +300,7 @@
 @trans-s
 @plse set="sename='yue_F00284'"
 @【由】
-………しなきゃ、いけないんだって解ってる
+I know… that I have to.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -310,7 +310,7 @@
 @trans-s
 @plse set="sename='yue_F00285'"
 @【由】
-………でも、オレには、そんな理由がないから………
+But I don’t… have a reason for myself.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -318,7 +318,7 @@
 
 @plse set="sename='hin_F00039'"
 @【灯奈】
-………由くん………
+…Yue-kun…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -328,7 +328,7 @@
 @trans-s
 @plse set="sename='yue_F00286'"
 @【由】
-だから、みんなにそう望まれても………\n………気が、進まないんだ
+So, even though everyone wants me to… I can’t bring myself to do it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -338,7 +338,7 @@
 @trans-s
 @plse set="sename='yue_F00287'"
 @【由】
-………それが、今のオレの、正直な気持ち
+That’s… really how I feel right now.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -349,7 +349,7 @@
 @trans-s
 @plse set="sename='hin_F00040'"
 @【灯奈】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -359,7 +359,7 @@
 @trans-s
 @plse set="sename='yue_F00288'"
 @【由】
-………でも………
+…But….
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -369,7 +369,7 @@
 @trans-s
 @plse set="sename='hin_F00041'"
 @【灯奈】
-………え？
+Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -379,7 +379,7 @@
 @trans-s
 @plse set="sename='yue_F00289'"
 @【由】
-でも………\nもしオレがつばきの事食事したいって言ったら、\n灯奈ちゃんは、どうするの………？
+But… If I said that I wanted to eat Tsubaki… What would you do, Hina-chan?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -389,7 +389,7 @@
 @trans-s
 @plse set="sename='hin_F00042'"
 @【灯奈】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -398,7 +398,7 @@
 @chara4.5 b="hina_b2_A009" f="hina_f2_h_b_a"
 @trans-s
 @【灯奈】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -408,7 +408,7 @@
 @trans-s
 @plse set="sename='hin_F00043'"
 @【灯奈】
-忘れて
+Forget it.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -419,7 +419,7 @@
 @trans-s
 @plse set="sename='yue_F00290'"
 @【由】
-………え？
+…Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -442,7 +442,7 @@
 @trans-s
 @plse set="sename='yue_F00291'"
 @【由】
-………おもってない
+…I don’t want that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -452,7 +452,7 @@
 @trans-s
 @plse set="sename='hin_F00044'"
 @【灯奈】
-…………………
+…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -462,7 +462,7 @@
 @trans-s
 @plse set="sename='yue_F00292'"
 @【由】
-ホントはだれも、食べたくなんか、ないよ。\n………オレは
+Really, I don’t… want to eat anyone, or stuff like that.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -472,7 +472,7 @@
 @trans-s
 @plse set="sename='hin_F00045'"
 @【灯奈】
-…………………\nウン
+………Okay.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -482,7 +482,7 @@
 @trans-s
 @plse set="sename='yue_F00293'"
 @【由】
-………したいと思わない
+I’ve never wanted to.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -490,7 +490,7 @@
 
 @plse set="sename='yue_F00294'"
 @【由】
-黒狐は、オレが食事する事を望んでるけど………
+Kurogitsune says he wants me to perform the Meal, but…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -500,7 +500,7 @@
 @trans-s
 @plse set="sename='yue_F00295'"
 @【由】
-けど、やっぱりしたくないな
+But, I can’t. I don’t want to.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -510,7 +510,7 @@
 @trans-s
 @plse set="sename='yue_F00296'"
 @【由】
-………皆や、シンには悪いけど
+Sorry, Shin… Sorry, everyone.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -520,7 +520,7 @@
 @trans-s
 @plse set="sename='hin_F00046'"
 @【灯奈】
-………え？
+…Eh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -530,7 +530,7 @@
 @trans-s
 @plse set="sename='yue_F00297'"
 @【由】
-………あ、ウウンなんでもない。\n………灯奈ちゃんは、お兄ちゃんを守りたいんだね
+Ah, oh, nothing. Hina-chan, you want to protect your brother, right?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -540,7 +540,7 @@
 @trans-s
 @plse set="sename='hin_F00047'"
 @【灯奈】
-…………………\nうん。たったひとりの、おにいちゃんなの
+Yeah. Just him, and him alone.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -548,7 +548,7 @@
 
 @plse set="sename='hin_F00048'"
 @【灯奈】
-由くんが、\nくろぎつねくんのたったひとりなのと、同じみたいに
+Yue-kun, I think you also feel the same way about Kurogitsune-kun.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -558,7 +558,7 @@
 @trans-s
 @plse set="sename='hin_F00049'"
 @【灯奈】
-すごくすごく、大事だから
+They’re very, very… important, to you.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -568,7 +568,7 @@
 @trans-s
 @plse set="sename='yue_F00298'"
 @【由】
-………ウン
+…Yeah.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -578,7 +578,7 @@
 @trans-s
 @plse set="sename='yue_F00299'"
 @【由】
-オレも、黒狐の事、大事だよ。\n………すごく
+Kurogitsune’s also important to me. …Very important.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -588,7 +588,7 @@
 @trans-s
 @plse set="sename='hin_F00050'"
 @【灯奈】
-じゃあ、やくそくね？
+Then, it’s a promise?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -598,7 +598,7 @@
 @trans-s
 @plse set="sename='yue_F00300'"
 @【由】
-わかった。指切りげんまん、だね
+Yeah. Pinky promise.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -608,7 +608,7 @@
 @trans-s
 @plse set="sename='hin_F00051'"
 @【灯奈】
-だけど………\n…………………全部、忘れてもいいからね
+Then……… Please, forget this ever happened.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -618,7 +618,7 @@
 @trans-s
 @plse set="sename='yue_F00301'"
 @【由】
-………え？
+…Huh?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -637,7 +637,7 @@
 @trans-s
 @plse set="sename='hin_F00052'"
 @【灯奈】
-…………………\n夢だから
+…It was all a dream.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -645,7 +645,7 @@
 
 @plse set="sename='yue_F00302'"
 @【由】
-……ゆめ………？
+…Dream?
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -655,7 +655,7 @@
 @trans-s
 @plse set="sename='hin_F00053'"
 @【灯奈】
-今由くんが見てるのは、全部、夢なの。\nきっと、起きたら忘れちゃうよ
+Everything Yue-kun’s seeing right now is a dream. He’ll forget it all when he wakes up.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -665,7 +665,7 @@
 @trans-s
 @plse set="sename='yue_F00303'"
 @【由】
-…………………\nうん、そうだね。\nオレ、あんまり記憶力よくないし
+Yeah… That sounds about right. I’m not great at remembering things.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -675,7 +675,7 @@
 @trans-s
 @plse set="sename='hin_F00054'"
 @【灯奈】
-…………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -685,7 +685,7 @@
 @trans-s
 @plse set="sename='yue_F00304'"
 @【由】
-………じゃあ、きっと、ホントに忘れちゃうから。\nオヤスミ、灯奈ちゃん
+Then I’ll definitely forget it all. Good night, Hina-chan.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -696,7 +696,7 @@
 
 @plse set="sename='hin_F00055'"
 @【灯奈】
-…………………\nウン
+…Okay.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -706,7 +706,7 @@
 @trans-s
 @plse set="sename='hin_F00056'"
 @【灯奈】
-………ありがと、由くん………
+…Thank you, Yue-kun…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -714,7 +714,7 @@
 
 @plse set="sename='hin_F00057'"
 @【灯奈】
-………おやすみ………
+Good night.
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -737,7 +737,7 @@
 @trans-n
 @plse set="sename='hin_F00058'"
 @【灯奈】
-………………………………
+……
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -747,7 +747,7 @@
 @trans-n
 @plse set="sename='hin_F00059'"
 @【灯奈】
-………………………………
+………
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -757,7 +757,7 @@
 @trans-n
 @plse set="sename='hin_F00060'"
 @【灯奈】
-………由くん………\nだけど、灯奈、悪い予感がする
+Yue-kun… Still, I have a bad feeling…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
@@ -767,7 +767,7 @@
 @trans-n
 @plse set="sename='hin_F00061'"
 @【灯奈】
-すごく…………
+A really bad feeling…
 @ws canskip=true cond="kag.autoMode"
 @endmessage
 *|
